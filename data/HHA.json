@@ -1,0 +1,88 @@
+{
+  "university": {
+    "code": "HHA",
+    "name": "Số 484 Lạch Tray, Ngô Quyền, TP. Hải Phòng",
+    "short_name": "VMU",
+    "location": [
+      "Hải Phòng"
+    ],
+    "address": "Số 484 Lạch Tray, Ngô Quyền, TP. Hải Phòng",
+    "website": "http://www.vimaru.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/-HHA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0523/dai-hoc-hang-hai-viet-nam.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM 2026 Thông tin tuyển sinh trường Đại học Hàng Hải Việt Nam 2026 Năm 2026, trường Đại học Hàng Hải Việt Nam thông báo tuyển sinh các phương thức Phương thức 1. Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT Phương thức 2. Xét tuyển kết hợp Phương thức 3. Xét tuyển dựa trên kết quả học tập, rèn luyện THPT (học bạ) Phương thức 4. Xét tuyển dựa trên điểm thi đánh giá năng lực hoặc tư duy Phương thức 5. Xét tuyển kết hợp chứng chỉ tiếng Anh quốc tế và học bạ THPT Phương thức 6. Xét tuyển thẳng",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Áp dụng: Cho tất cả các CTĐT (Chương trình đào tạo). Chi tiết: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM KINH TẾ (10 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D401 Kinh tế vận tải biển A01; C01; C03; C04; D01; D09 2 D402 Kinh tế ngoại thương A01; C01; C03; C04; D01; D09 3 D403 Quản trị kinh doanh A01; C01; C03; C04; D01; D09 4 D404 Quản trị tài chính kế toán A01; C01; C03; C04; D01; D09 5 D4",
+      "eligibility": null,
+      "rules": "QUY CHẾ Áp dụng: Cho tất cả các CTĐT (Chương trình đào tạo). Chi tiết: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT 2026.",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 QUY CHẾ Áp dụng: Cho tất cả các CTĐT. Chi tiết: Xét tuyển dựa trên điểm thi các môn thi tốt nghiệp THPT năm 2026, đồng thời thí sinh đáp ứng một trong các tiêu chí sau: Tiêu chí 1: Có chứng chỉ Tiếng Anh quốc tế IELTS 5.0 hoặc TOEFL 499 ITP hoặc TOEFL 58 iBT hoặc Toeic (L&R) 595 trở lên hoặc tương đương trong thời hạn (tính đến ngày 30/8/2026). Tiêu chí 2: Đạt các giải Nhất, Nhì, Ba các môn thi gồm: Toán, Lý, Hóa, Sinh học, Ngữ văn, Lịch sử, Địa lý, Tin học và Ngoại ngữ trong kỳ thi chọn học",
+      "eligibility": null,
+      "rules": "QUY CHẾ Áp dụng: Cho tất cả các CTĐT. Chi tiết: Xét tuyển dựa trên điểm thi các môn thi tốt nghiệp THPT năm 2026, đồng thời thí sinh đáp ứng một trong các tiêu chí sau: Tiêu chí 1: Có chứng chỉ Tiếng Anh quốc tế IELTS 5.0 hoặc TOEFL 499 ITP hoặc TOEFL 58 iBT hoặc Toeic (L&R) 595 trở lên hoặc tương đương trong thời hạn (tính đến ngày 30/8/2026). Tiêu chí 2: Đạt các giải Nhất, Nhì, Ba các môn thi gồm: Toán, Lý, Hóa, Sinh học, Ngữ văn, Lịch sử, Địa lý, Tin học và Ngoại ngữ trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trở lên. Tiêu chí 3: Học 03 năm THPT tại các lớp Chuyên: Toán, Lý, Hóa, Sinh học, Ngữ văn, Tiếng Anh, Tin học thuộc các trường Chuyên cấp Tỉnh/ Thành phố. Có học lực Khá trở lên và hạnh kiểm Tốt các năm lớp 10, 11, 12.",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 QUY CHẾ Áp dụng: Cho tất cả các CTĐT thuộc nhóm Kỹ thuật & Công nghệ, 02 CTĐT Nâng cao, 02 CTĐT lớp chọn, 02 CTĐT định hướng tích hợp thạc sĩ. Chi tiết: Xét tuyển dựa trên học bạ đối với thí sinh tốt nghiệp THPT năm 2024, 2025, 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM NGÀNH KỸ THUẬT & CÔNG NGHỆ ( 34 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D101 Điều khiển tàu biển 2 D102 Khai thác máy tàu biển 3 D103 Điện tự động giao thông vận tải 4 D104 Điện tử v",
+      "eligibility": null,
+      "rules": "QUY CHẾ Áp dụng: Cho tất cả các CTĐT thuộc nhóm Kỹ thuật & Công nghệ, 02 CTĐT Nâng cao, 02 CTĐT lớp chọn, 02 CTĐT định hướng tích hợp thạc sĩ. Chi tiết: Xét tuyển dựa trên học bạ đối với thí sinh tốt nghiệp THPT năm 2024, 2025, 2026.",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM KINH TẾ (10 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D401 Kinh tế vận tải biển 2 D402 Kinh tế ngoại thương 3 D403 Quản trị kinh doanh 4 D404 Quản trị tài chính kế toán 5 D407 Logistics và chuỗi cung ứng 6 D410 Kinh tế vận tải thủy 7 D411 Quản trị",
+      "eligibility": null,
+      "rules": "QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025.",
+      "programs": []
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM KINH TẾ (10 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D401 Kinh tế vận tải biển Q00 2 D402 Kinh tế ngoại thương Q00 3 D403 Quản trị kinh doanh Q00 4 D404 Quản trị tài chính kế toán Q00 5 D407 Logistics và chuỗi cung ứng Q00 6 D410 Kinh tế vận tải t",
+      "eligibility": null,
+      "rules": "QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025.",
+      "programs": []
+    },
+    {
+      "method_id": "6-iem-anh-gia-tu-duy",
+      "method_name": "6 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "6.1 QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM KINH TẾ (10 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D401 Kinh tế vận tải biển K00 2 D402 Kinh tế ngoại thương K00 3 D403 Quản trị kinh doanh K00 4 D404 Quản trị tài chính kế toán K00 5 D407 Logistics và chuỗi cung ứng K00 6 D410 Kinh tế v",
+      "eligibility": null,
+      "rules": "QUY CHẾ Chi tiết: Xét tuyển dựa trên điểm thi đánh giá năng lực của ĐHQG Hà Nội/ TPHCM hoặc điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội tính từ tháng 10/2025.",
+      "programs": []
+    },
+    {
+      "method_id": "7-chung-chi-quoc-te",
+      "method_name": "7 CHỨNG CHỈ QUỐC TẾ",
+      "description": "7.1 QUY CHẾ Áp dụng: Cho các CTĐT tiên tiến. Chi tiết: Xét tuyển dựa trên điểm quy đổi chứng chỉ tiếng Anh quốc tế (IELTS, TOEFL, TOEIC) và điểm học bạ 03 năm lớp 10, 11, 12 đối với thí sinh tốt nghiệp THPT năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC CHỨNG CHỈ QUỐC TẾ STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM NGOẠI NGỮ VÀ CHƯƠNG TRÌNH TIÊN TIẾN (6 CHƯƠNG TRÌNH ĐÀO TẠO) 1 A403 Quản lý kinh doanh & Marketing 2 A404 Quản lý Kinh doanh thương mại điện tử 3 A408 Kinh tế Hàng hải 4 A409 Kinh d",
+      "eligibility": null,
+      "rules": "QUY CHẾ Áp dụng: Cho các CTĐT tiên tiến. Chi tiết: Xét tuyển dựa trên điểm quy đổi chứng chỉ tiếng Anh quốc tế (IELTS, TOEFL, TOEIC) và điểm học bạ 03 năm lớp 10, 11, 12 đối với thí sinh tốt nghiệp THPT năm 2026.",
+      "programs": []
+    },
+    {
+      "method_id": "8-utxt-xt-thang",
+      "method_name": "8 ƯTXT, XT THẲNG",
+      "description": "8.1 QUY CHẾ Chi tiết: Theo quy định của Bộ GDĐT tại Điều 8 Quy chế tuyển sinh ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú NHÓM KINH TẾ (10 CHƯƠNG TRÌNH ĐÀO TẠO) 1 D401 Kinh tế vận tải biển 2 D402 Kinh tế ngoại thương 3 D403 Quản trị kinh doanh 4 D404 Quản trị tài chính kế toán 5 D407 Logistics và chuỗi cung ứng 6 D410 Kinh tế vận tải thủy 7 D411 Quản trị tài chính ngân hàng 8 D412 Tr",
+      "eligibility": null,
+      "rules": "QUY CHẾ Chi tiết: Theo quy định của Bộ GDĐT tại Điều 8 Quy chế tuyển sinh ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026.",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Hàng Hải Việt Nam các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null
+}

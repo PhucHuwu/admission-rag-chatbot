@@ -1,0 +1,56 @@
+{
+  "university": {
+    "code": "SPK",
+    "name": "Trường Đại học Công nghệ Kỹ thuật TP HCM",
+    "short_name": "HCMUTE",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "1-3 Võ Văn Ngân, Q.Thủ Đức, TP Hồ Chí Minh",
+    "website": "http://www.hcmute.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cong-nghe-ky-thuat-tphcm-SPK.html",
+  "pdf_url": "http://images.tuyensinh247.com/user_data/2025/0509/Thong_tin_tuyen_sinh_DH_Su_pham_ky_thuat_TPHCM_2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC CÔNG NGHỆ KỸ THUẬT TP HCM 2026 Thông tin tuyển sinh trường Đại học Công nghệ Kỹ thuật TP HCM năm 2026 1. ĐỐI TƯỢNG TUYỂN SINH: - Thí sinh tốt nghiệp Trung học phổ thông năm 2026; - Thí sinh tự do (tốt nghiệp THPT trước năm 2026 có điểm thi tốt nghiệp THPT năm 2026). 2. PHƯƠNG THỨC XÉT TUYỂN - Phương thức 1: Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo và ưu tiên xét tuyển theo Đề án tuyển sinh của Trường. - Phương thức 2: Xét kết hợp kết quả thi tốt nghiệp Trung học phổ thông, kết quả học tập THPT, kết quả thi đánh giá năng lực Đại học Quốc gia TP.HCM (trừ các ngành tổ hợp xét tuyển có môn năng khiếu). - Phương thức 3: Xét kết hợp kết quả thi tốt nghiệp Trung học phổ thông, kết quả học tập THPT, kết quả thi đánh giá năng lực Đại học Quốc gia TP.HCM và kết quả thi môn năng khiếu do trường đại học Công nghệ Kỹ thuật TP.HCM tổ chức (áp dụng cho 04 ngành: Kiến trúc, Kiến trúc nội thất, Thiết kế thời trang và Thiết kế đồ hoạ). 3. NGÀNH ĐÀO TẠO NĂM 2026 Khám phá thêm Điểm chuẩn đại học Tra cứu ngành học Thông tin tuyển sinh",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025. Đối với các thí sinh tốt nghiệp THPT từ năm 2024 trở về trước, trường chỉ xét tuyển khi thí sinh có điểm thi THPT năm 2025 theo tổ hợp xét tuyển. 1.2 ĐIỀU KIỆN XÉT TUYỂN Tổng điểm xét tuyển tối thiểu đạt 60% điểm đánh giá tối đa của thang điểm. 1.3 QUY CHẾ + Điểm xét tuyển (ĐXTTHPT) là tổng điểm đạt được lớn nhất theo tổ hợp từ kỳ thi tốt nghiệp THPT (ĐTHPTmax) và điểm ưu tiên (DUT). ĐXTTHPT = ĐTHPT max + ĐUT + Điểm ưu tiên = (30 - ĐXTTHPT) / 7.5 ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025. Đối với các thí sinh tốt nghiệp THPT từ năm 2024 trở về trước, trường chỉ xét tuyển khi thí sinh có điểm thi THPT năm 2025 theo tổ hợp xét tuyển. 1.2",
+      "rules": "QUY CHẾ + Điểm xét tuyển (ĐXTTHPT) là tổng điểm đạt được lớn nhất theo tổ hợp từ kỳ thi tốt nghiệp THPT (ĐTHPTmax) và điểm ưu tiên (DUT). ĐXTTHPT = ĐTHPT max + ĐUT + Điểm ưu tiên = (30 - ĐXTTHPT) / 7.5 x MĐUT - Công thức này chỉ áp dụng cho thí sinh đạt ĐXTTHPT từ 22,5 trở lên. - Nếu tổng điểm đạt dưới 22,5; điểm ưu tiên bằng với mức điểm ưu tiên (MDUT). - MĐUT là tổng mức ưu tiên",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-gnl-hcm---2025",
+      "method_name": "2 ĐIỂM ĐGNL HCM - 2025",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025. Đối với các thí sinh tốt nghiệp THPT từ năm 2024 trở về trước, trường chỉ xét tuyển khi thí sinh có điểm đánh giá năng lực Đại học Quốc gia TP.HCM năm 2025. 2.2 ĐIỀU KIỆN XÉT TUYỂN Tổng điểm xét tuyển tối thiểu đạt 60% điểm đánh giá tối đa của thang điểm. 2.3 QUY CHẾ Phương thức sử dụng kết quả thi Đánh giá năng lực do ĐH Quốc gia TP. Hồ Chí Minh tổ chức (Mã: 402) a) Tính ĐXTNL (trừ các ngành: Thiết kế thời trang, Thiết kế đồ họa, Kiến trúc, Kiến ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025. Đối với các thí sinh tốt nghiệp THPT từ năm 2024 trở về trước, trường chỉ xét tuyển khi thí sinh có điểm đánh giá năng lực Đại học Quốc gia TP.HCM năm 2025. 2.2",
+      "rules": "QUY CHẾ Phương thức sử dụng kết quả thi Đánh giá năng lực do ĐH Quốc gia TP. Hồ Chí Minh tổ chức (Mã: 402) a) Tính ĐXTNL (trừ các ngành: Thiết kế thời trang, Thiết kế đồ họa, Kiến trúc, Kiến trúc nội thất): + Điểm năng lực (ĐNL) quy đổi về thang 30: ĐNLQĐ = ĐNL / 40 + Tính Điểm xét tuyển đánh giá năng lực các CTĐT không yêu cầu môn năng khiếu: ĐXTNL = ĐNLQĐ + ĐUT Trong đó ĐUT áp dụng công thức (2) nếu ĐNLQĐ ≥ 22,5 b) Tính điểm ĐNLQĐ NK đối với các ngành Thiết kế thời trang, Thiết kế đồ họa, Kiến trúc, Kiến trúc nội thất: + Nguyên tắc tính điểm: - Điểm DNLQĐ được quy đổi về điểm thang 30 theo công thức (9) như trên. - Vì nhóm ngành trên có điểm môn Vẽ × 2 (môn chính). Do đó, điểm ĐNLQĐ sẽ đóng vai trò tương dương 2 môn còn lại như công thức xét tuyển bằng điểm THPT với: ĐNLQĐ_NK = (ĐNLQĐ × 2/3 + (Điểm vẽ ×2)) x 3/4 + Lưu ý: Điểm Vẽ bao gồm là điểm thi môn Vẽ trang trí (đối với ngành Thiết kế thời trang, Thiết kế đồ họa) hoặc Vẽ đầu tượng (với ngành Kiến trúc, Kiến trúc nội thất). + Tính điểm xét tuyển đánh giá năng lực các ngành có môn năng khiếu: ĐXTNL_NK = ĐNLQĐ_NK + ĐUT Trong đó ĐUT áp dụng công thức (2) nếu ĐNLQĐ_NK ≥ 22,5",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-hoc-ba---2025",
+      "method_name": "3 ĐIỂM HỌC BẠ - 2025",
+      "description": "3.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025 3.2 QUY CHẾ Phương thức xét tuyển theo kết quả học tập THPT (học bạ - Mã: 200) +Tính điểm trung bình môn i (ĐTBM) ĐTBM = ΣĐΤΒΜΝi / Số năm học + Tính điểm học bạ của các tổ hợp xét tuyển (ĐHBx) ĐHBỵ là tổng điểm quy đổi về thang 30 của điểm trung bình học bạ các môn thuộc tổ hợp xét tuyển X, với môn chính (M1) nhân hệ số 2, quy định tại bảng 4, mục II.3, các môn còn lại (M2, M3) không nhân hệ số. ĐHBx = (ĐTBM1 x 2 + ĐTBM2 + ĐTBM3) / 4 x 3 Lưu ý: Đối",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT năm 2025 3.2",
+      "rules": "QUY CHẾ Phương thức xét tuyển theo kết quả học tập THPT (học bạ - Mã: 200) +Tính điểm trung bình môn i (ĐTBM) ĐTBM = ΣĐΤΒΜΝi / Số năm học + Tính điểm học bạ của các tổ hợp xét tuyển (ĐHBx) ĐHBỵ là tổng điểm quy đổi về thang 30 của điểm trung bình học bạ các môn thuộc tổ hợp xét tuyển X, với môn chính (M1) nhân hệ số 2, quy định tại bảng 4, mục II.3, các môn còn lại (M2, M3) không nhân hệ số. ĐHBx = (ĐTBM1 x 2 + ĐTBM2 + ĐTBM3) / 4 x 3 Lưu ý: Đối với ngành có xét điểm thi năng khiếu, điểm môn chính (ĐTBM,) là điểm thi năng khiếu. +Tính điểm điểm học bạ cao nhất (ĐHBmax) ĐHBmax bao gồm giá trị lớn nhất trong các tổng điểm quy đổi về thang 30 của điểm trung bình học bạ theo tổ hợp xét tuyển (ĐHBx) và điểm cộng của Trường (ĐCT). ĐHB max = max(ĐHBX) + ĐCT +Tính điểm xét tuyển theo học bạ (ĐXTHB) ĐXTHB = ĐHB max + ĐUT Lưu ý ĐUT thực hiện theo công thức (2) nếu điểm ĐHBmax ≥ 22,5 + Ngoài các điểm ưu tiên theo quy định của Bộ GD&ĐT, thí sinh được cộng thêm các điểm thưởng của Trường (ĐCT) cụ thể theo bảng 3. ĐCT được căn cứ theo các yếu tố sau: Trường THPT có điểm tuyển sinh lớp 10 cao của các tỉnh/thành; - Trường THPT có lượng SV nhập học cao tại Trường qua các năm; - Trường THPT thuộc khu vực Đông Nam Bộ; - Nhóm trường THPT ưu tiên tuyển sinh học tại phân hiệu Bình Phước: tất cả các trường THPT tại Bình Phước, trường thuộc các tỉnh Tây Ninh, Bình Dương, Đắk Nông lân cận phân hiệu tại Tp. Đồng Xoài - Bình Phước; một số trường THPT thuộc các Tỉnh Đắk Lắk, Lâm Đồng, Gia Lai. Điểm cộng của Trường – ĐCT: (Áp dụng cho phương thức xét tuyển bằng Học bạ - Mã: 200) VD minh họa: 3.3 THỜI GIAN XÉT TUYỂN Tổng điểm xét tuyển tối thiểu đạt 60% điểm đánh giá tối đa của thang điểm.",
+      "programs": []
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 ĐỐI TƯỢNG 1) Tuyển thẳng theo quy chế của Bộ GD-ĐT 2) Ưu tiên xét tuyển thí sinh các trường THPT có ký kết hợp tác 4.2 QUY CHẾ Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo và ưu tiên xét tuyển theo Đề án tuyển sinh của Trường a) Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo Căn cứ Thông tư ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục mầm non theo Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 và Thông tư 06/2025/TT-BGDĐT ngày 19 tháng ",
+      "eligibility": "ĐỐI TƯỢNG 1) Tuyển thẳng theo",
+      "rules": "quy chế của Bộ GD-ĐT 2) Ưu tiên xét tuyển thí sinh các trường THPT có ký kết hợp tác 4.2 QUY CHẾ Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo và ưu tiên xét tuyển theo Đề án tuyển sinh của Trường a) Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo Căn cứ Thông tư ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục mầm non theo Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 và Thông tư 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 của Bộ Giáo dục và Đào tạo. Nhà trường tổ chức xét tuyển thẳng với các nội dung cụ thể sau: - Diện xét tuyển: Tuyển thẳng thí sinh đạt giai quốc gia. - Nội dung xét: Học sinh giỏi (Toán, Lý, Hóa, Văn, Anh, Sinh, Tin, Sử, Địa) hoặc Cuộc thi Khoa học kỹ thuật. - Tiêu chuẩn: Học sinh tốt nghiệp năm 2025 đạt giải Nhất, Nhì, Ba ở các năm 2023, 2024, 2025. - Phương thức xét: + Đối với Học sinh giỏi (HSG) quốc gia: Xét tuyển các chương trình/ngành có môn trong tổ hợp xét tuyển trùng với môn đạt giải. + Đối với giải Cuộc thi Khoa học kỹ thuật (KHKT) quốc gia: Xét tuyển tất cả các chương trình/ngành đào tạo. b) Ưu tiên xét tuyển theo Đề án tuyển sinh của Trường Nhà trường ưu tiên xét tuyển cho 03",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Kỹ Thuật TPHCM các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null
+}

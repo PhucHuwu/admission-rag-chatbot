@@ -1,0 +1,1629 @@
+{
+  "university": {
+    "code": "XDA",
+    "name": "Trường Đại học Xây dựng Hà Nội",
+    "short_name": "HUCE",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 55 đường Giải Phóng, Hai Bà Trưng, Hà Nội.",
+    "website": "https://huce.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 4700,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-xay-dung-ha-noi-XDA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0223/thong-tin-tuyen-sinh-dai-hoc-xay-dung-hn-2026-dk.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC XÂY DỰNG HÀ NỘI 2026 Thông tin tuyển sinh trường Đại học Xây dựng Hà Nội (HUCE) năm 2026 Năm 2026, trường Đại học Xây dựng Hà Nội dự kiến tuyển sinh hơn 4.700 chỉ tiêu dựa trên 6 phương thức xét tuyển như sau: xét điểm thi tốt nghiệp, xét học bạ ba năm theo tổ hợp, dùng điểm ba kỳ thi đánh giá năng lực (SPT), tư duy (TSA) và V-SAT, tuyển thẳng. Phương thức 1: Xét kết quả thi tốt nghiệp THPT 2026 Phương thức 2: Xét kết quả học tập cấp THPT (học bạ) kết hợp với điều kiện về điểm thi tốt nghiệp THPT Phương thức 3: Xét tuyển sử dụng kết quả kỳ thi Đánh giá tư duy năm 2025, năm 2026 do Đại học Bách khoa Hà Nội chủ trì tổ chức Phương thức 4: Xét tuyển sử dụng kết quả kỳ thi Đánh giá năng lực năm 2026 do Trường ĐH Sư phạm Hà Nội tổ chức. Phương thức 5: Xét tuyển sử dụng kết quả thi Đánh giá đầu vào đại học trên máy tính năm 2026 do các Trường Đại học phối hợp với Trung tâm Khảo thí quốc gia và Đánh giá chất lượng giáo dục, Cục Quản lý chất lượng, Bộ Giáo dục và Đào tạo (BGDĐT) tổ chức. Phương thức 6: Tuyển thẳng theo quy định của Bộ GDĐT",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Xét tuyển ở tất cả các chương trình đào tạo (CTĐT). Các CTĐT có tổ hợp xét tuyển các môn năng khiếu sử dụng kết quả thi các môn năng khiếu do Trường tổ chức. Thông tin chi tiết xem tại https://tuyensinh.huce.edu.vn/thong-bao-to-chuc-thi-mon-nang-khieu-ky-tuyen-sinh-dai-hoc-nam-2026-4 Với các tổ hợp H00 và H07, Trường có lấy kết quả thi các môn Hình họa, Bố cục tạo hình/Trang trí từ các cơ sở đào tạo: Trường Đại học Kiến trúc Hà Nội, Trường Đại học Mỹ thuật công nghiệp, Trường Đại h",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển ở tất cả các chương trình đào tạo (CTĐT). Các CTĐT có tổ hợp xét tuyển các môn năng khiếu sử dụng kết quả thi các môn năng khiếu do Trường tổ chức. Thông tin chi tiết xem tại https://tuyensinh.huce.edu.vn/thong-bao-to-chuc-thi-mon-nang-khieu-ky-tuyen-sinh-dai-hoc-nam-2026-4 Với các tổ hợp H00 và H07, Trường có lấy kết quả thi các môn Hình họa, Bố cục tạo hình/Trang trí từ các cơ sở đào tạo: Trường Đại học Kiến trúc Hà Nội, Trường Đại học Mỹ thuật công nghiệp, Trường Đại học Mỹ thuật Việt Nam, Trường Đại học Nghệ thuật - Đại học Huế, Trường Đại học Mỹ thuật TP. Hồ Chí Minh và Trường Đại học Kiến trúc TP. Hồ Chí Minh; Thí sinh có chứng chỉ ngoại ngữ quốc tế Tiếng Anh (Tiếng Pháp) tương đương IELTS 5.0 trở lên có thể sử dụng để quy đổi điểm thay thế điểm môn Tiếng Anh (Tiếng Pháp) trong tổ hợp xét tuyển (Bảng 1). Các chứng chỉ còn hiệu lực tính đến ngày xét tuyển. Không xét tuyển với các chứng chỉ có hình thức thi ”Home Edition”. 1.2",
+      "rules": "QUY CHẾ Công thức tính điểm xét tuyển(thang điểm 30): - Đối với các tổ hợp:(V00, V01, V02, V06, V10 ĐX = ((Môn Toán x 2) + Môn 2 + Môn Vẽ MT/5 x3 )+ Điểm cộng + ĐƯT - Đối với tổ hợp môn xét tuyển còn lại: ĐX = (Môn 1 + Môn 2 + Môn 3) + Điểm cộng + ĐƯT Trong đó: - Môn 1, Môn 2, Môn 3 là kết quả thi của các môn ứng với từng tổ hợp xét tuyển; - Môn Vẽ Mỹ thuật là tổng điểm của 2 bài thi: Hình họa và Sáng tác (thang điểm 20); - Điểm cộng là điểm thưởng cho các thí sinh có thành tích đặc biệt hoặc thí sinh hệ chuyên; - ĐƯT : Là điểm ưu tiên khu vực và",
+      "programs": [
+        {
+          "program_code": "7210110",
+          "program_name": "Mỹ thuật đô thị (*)",
+          "subject_groups": [
+            "H00",
+            "H07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [
+            "V00",
+            "V02",
+            "V10"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580102",
+          "program_name": "Kiến trúc cảnh quan",
+          "subject_groups": [
+            "V00",
+            "V02",
+            "V06"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580103",
+          "program_name": "Kiến trúc nội thất",
+          "subject_groups": [
+            "V00",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580105",
+          "program_name": "Quy hoạch vùng và đô thị",
+          "subject_groups": [
+            "V00",
+            "V01",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG - Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu; - Xét tuyển dựa vào tổng điểm trung bình 03 năm cấp THPT của các môn trong tổ hợp xét tuyển tương ứng; - Trường hợp môn học trong tổ hợp xét tuyển không học đủ 06 học kỳ cấp THPT theo năm do thay đổi lựa chọn môn học thì sử dụng kết quả học tập môn học khác gần lĩnh vực thay thế; Thí sinh có chứng chỉ ngoại ngữ quốc tế Tiếng Anh (Tiếng Pháp) tương đương IELTS 5.0 trở lên có thể sử dụng để quy đổi điểm thay thế điể",
+      "eligibility": "ĐỐI TƯỢNG - Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu; - Xét tuyển dựa vào tổng điểm trung bình 03 năm cấp THPT của các môn trong tổ hợp xét tuyển tương ứng; - Trường hợp môn học trong tổ hợp xét tuyển không học đủ 06 học kỳ cấp THPT theo năm do thay đổi lựa chọn môn học thì sử dụng kết quả học tập môn học khác gần lĩnh vực thay thế; Thí sinh có chứng chỉ ngoại ngữ quốc tế Tiếng Anh (Tiếng Pháp) tương đương IELTS 5.0 trở lên có thể sử dụng để quy đổi điểm thay thế điểm môn Tiếng Anh (Tiếng Pháp) trong tổ hợp xét tuyển (Bảng 1). IELTS TOEFL iBT TOEIC TCF DELF Điểm quy đổi Nghe Đọc Nói Viết 5.0 41-45 360 345 150 140 350-399 >50 (B1) 8.0 5.5 46-60 400 385 160 150 400-430 50-60 (B2) 8.5 6.0 61-75 430 400 170 160 431-465 61-70 (B2) 9.0 6.5 76-93 460 431 170 170 466-499 71-80 (B2) 9.5 7.0-9.0 94 trở lên 490 455 180 180 500 trở lên 81 trở lên (B2) 10 Ghi chú:Chứng chỉ TCF và chứng chỉ DELF chỉ xét tuyển với tổ hợp D24, D29 và V10 Các chứng chỉ còn hiệu lực tính đến ngày xét tuyển. Không xét tuyển với các chứng chỉ có hình thức thi ”Home Edition”. 2.2",
+      "rules": "QUY CHẾ Công thức tính điểm xét tuyển (thang điểm 30): ĐX = (Môn 1 + Môn 2 + Môn 3) + Điểm cộng + ĐƯT (nếu có) Trong đó: Môn 1 = (TB cả năm lớp 10 môn 1 + TB cả năm lớp 11 môn 1 + TB cả năm lớp 12 môn 1)/3; Môn 2 = (TB cả năm lớp 10 môn 2 + TB cả năm lớp 11 môn 2 + TB cả năm lớp 12 môn 2)/3; Môn 3 = (TB cả năm lớp 10 môn 3 + TB cả năm lớp 11 môn 3 + TB cả năm lớp 12 môn 3)/3; - Điểm cộng là điểm thưởng cho các thí sinh có thành tích đặc biệt hoặc thí sinh hệ chuyên; - ĐƯT: Điểm ưu tiên khu vực và",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEIC"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Nghe"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-anh-gia-tu-duy",
+      "method_name": "3 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "3.1 ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 3.2 QUY CHẾ Xét tuyển sử dụng kết quả kỳ thi Đánh giá tư duy năm 2025, 2026 do Đại học Bách khoa Hà Nội chủ trì tổ chức (TSA). 3.3 THỜI GIAN XÉT TUYỂN Kế hoạch xét tuyển: Trường sẽ thông báo theo Kế hoạch của Bộ GDĐT. Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT từ ngày 02/7 đến 17 giờ 00 ngày 14/7/2026 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 3.2",
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả kỳ thi Đánh giá tư duy năm 2025, 2026 do Đại học Bách khoa Hà Nội chủ trì tổ chức (TSA). 3.3 THỜI GIAN XÉT TUYỂN Kế hoạch xét tuyển: Trường sẽ thông báo theo Kế hoạch của Bộ GDĐT. Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT từ ngày 02/7 đến 17 giờ 00 ngày 14/7/2026",
+      "programs": [
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-h-su-pham-hn",
+      "method_name": "4 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "4.1 ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 4.2 ĐIỀU KIỆN XÉT TUYỂN Điều kiện đăng ký xét tuyển: Trường sẽ thông báo theo Kế hoạch của Bộ GDĐT. 4.3 QUY CHẾ Xét tuyển sử dụng kết quả kỳ thi Đánh giá năng lực năm 2026 do Trường Đại học Sư phạm Hà Nội tổ chức (SPT) 4.4 THỜI GIAN XÉT TUYỂN Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT từ ngày 02/7 đến 17 giờ 00 ngày 14/7/2026 DANH SÁCH NGÀNH ĐÀO TẠO THEO ",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 4.2",
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả kỳ thi Đánh giá năng lực năm 2026 do Trường Đại học Sư phạm Hà Nội tổ chức (SPT) 4.4 THỜI GIAN XÉT TUYỂN Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT từ ngày 02/7 đến 17 giờ 00 ngày 14/7/2026",
+      "programs": [
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-au-vao-v-sat",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "5.1 ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 5.2 ĐIỀU KIỆN XÉT TUYỂN Điều kiện xét tuyển theo thông báo của Bộ GDĐT 5.3 QUY CHẾ Xét tuyển sử dụng kết quả Kỳ thi Đánh giá đầu vào đại học trên máy tính năm 2026 do các Trường Đại học phối hợp với Trung tâm Khảo thí quốc gia và Đánh giá chất lượng giáo dục, Cục Quản lý chất lượng, Bộ GDĐT tổ chức (V-SAT). 5.4 THỜI GIAN XÉT TUYỂN Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển ở các CTĐT trừ các CTĐT có xét tuyển các môn năng khiếu. 5.2",
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả Kỳ thi Đánh giá đầu vào đại học trên máy tính năm 2026 do các Trường Đại học phối hợp với Trung tâm Khảo thí quốc gia và Đánh giá chất lượng giáo dục, Cục Quản lý chất lượng, Bộ GDĐT tổ chức (V-SAT). 5.4 THỜI GIAN XÉT TUYỂN Kế hoạch đăng ký xét tuyển: Thí sinh đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT từ ngày 02/7 đến 17 giờ 00 ngày 14/7/2026",
+      "programs": [
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 ĐỐI TƯỢNG 1. Đối tượng tuyển thẳng a) Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các CTĐT do Hiệu trưởng quyết định; b) Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi cấp quốc gia hoặc quốc tế do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng vào các CTĐT phù hợp, cụ thể: Stt Môn thi Chương trình đào tạo 1 Toán học, Vật lý Tất cả các CTĐT 2 Hóa học Các CTĐT (trừ các CTĐT thuộc nhóm ngàn",
+      "eligibility": "ĐỐI TƯỢNG 1. Đối tượng tuyển thẳng a) Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các CTĐT do Hiệu trưởng quyết định; b) Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi cấp quốc gia hoặc quốc tế do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng vào các CTĐT phù hợp, cụ thể: Stt Môn thi Chương trình đào tạo 1 Toán học, Vật lý Tất cả các CTĐT 2 Hóa học Các CTĐT (trừ các CTĐT thuộc nhóm ngành Mỹ thuật, Mỹ thuật ứng dụng, Kiến trúc và quy hoạch) 3 Tin học Công nghệ thông tin, Khoa học máy tính, Khoa học dữ liệu. 4 Sinh học Kỹ thuật Cấp thoát nước, Kỹ thuật Môi trường, Kỹ thuật vật liệu, Công nghệ kỹ thuật Vật liệu xây dựng. Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia được tuyển thẳng vào CTĐT phù hợp với môn đoạt giải như sau: Thời gian đoạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng. - Thí sinh đạt giải nhất, nhì, ba kỳ thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia và đạt ngưỡng đảm bảo chất lượng đầu vào của CTĐT. Thời gian đoạt giải không quá 03 năm tính tới thời điểm nếu được xét tuyển thẳng; - Thí sinh đoạt giải chính thức trong cuộc thi nghệ thuật quốc tế về mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận thì được xét tuyển thẳng vào học các CTĐT thuộc các nhóm ngành Kiến trúc và quy hoạch, Mỹ thuật và Mỹ thuật ứng dụng tùy vào môn thi; thời gian đoạt giải không quá 04 năm tính tới thời điểm xét tuyển thẳng. c) Hiệu trưởng căn cứ kết quả học tập cấp THPT, trung học nghề của thí sinh và yêu cầu đầu vào của CTĐT để xem xét, quyết định nhận vào học những trường hợp quy định dưới đây: - Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của CTĐT phù hợp với quy định của Bộ GDĐT; - Thí sinh là người Việt Nam học tập cấp THPT ở nước ngoài hoặc học tập chương trình nước ngoài bằng tiếng nước ngoài ở Việt Nam nếu tương đương với trình độ THPT của Việt Nam đồng thời đạt chuẩn năng lực ngôn ngữ theo yêu cầu của CTĐT phù hợp với quy định của Bộ GDĐT; - Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ;",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210110",
+          "program_name": "Mỹ thuật đô thị (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210110",
+          "program_name": "Mỹ thuật đô thị (*)",
+          "subject_groups": [
+            "H00",
+            "H07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340409",
+          "program_name": "Quản lý dự án (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510105",
+          "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng (*)",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "SP1",
+            "SP2"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "VS1",
+            "VS2"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP5"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật Môi trường",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS5"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [
+            "V00",
+            "V02",
+            "V10"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580102",
+          "program_name": "Kiến trúc cảnh quan",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580102",
+          "program_name": "Kiến trúc cảnh quan",
+          "subject_groups": [
+            "V00",
+            "V02",
+            "V06"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580103",
+          "program_name": "Kiến trúc nội thất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580103",
+          "program_name": "Kiến trúc nội thất",
+          "subject_groups": [
+            "V00",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580105",
+          "program_name": "Quy hoạch vùng và đô thị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7580105",
+          "program_name": "Quy hoạch vùng và đô thị",
+          "subject_groups": [
+            "V00",
+            "V01",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "SP1",
+            "SP2",
+            "SP3",
+            "SP4"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "VS1",
+            "VS2",
+            "VS3",
+            "VS4"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Xây dựng Hà Nội Tại đây",
+  "tuition_text": "Thông tin về học phí, học bổng của Trường Học phí đại học chính quy chương trình chuẩn (Kỹ sư/Kiến trúc sư/Cử nhân) trung bình năm học 2026-2027: 20.900.000đ/năm học (Trường thu học phí theo tín chỉ). Lộ trình tăng học phí thực hiện theo Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 và Nghị định sửa đổi, bổ sung số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ. Tổng học bổng năm học 2025-2026 của Trường là 27.006.050.000đ, trong đó học bổng khuyến khích học tập: 17.269.650.000đ, học bổng của các doanh nghiệp, các tổ chức tài trợ: 9.736.400.000đ",
+  "timeline_text": null
+}

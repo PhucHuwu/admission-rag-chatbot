@@ -1,0 +1,468 @@
+{
+  "university": {
+    "code": "QST",
+    "name": "Đại học Khoa học tự nhiên",
+    "short_name": "HCMUS",
+    "location": [],
+    "address": "cơ sở 1 tại 227 Nguyễn Văn Cừ, Phường 4, Quận 5, Tp. Hồ Chí Minh; cơ sở 2 tại Khu đô thị Đại học Quốc gia, Phường Linh Trung, Thành phố Thủ Đức (Sinh viên chính quy chương trình chuẩn học tại cơ sở Linh Trung, sinh viên chính quy chương trình theo đề án học tại cơ sở Nguyễn Văn Cừ).",
+    "website": "http://www.hcmus.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-khoa-hoc-tu-nhien-tphcm-QST.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0228/phuong-huong-tuyen-sinh-trinh-do-dai-hoc-khoa-hoc-tu-nhien.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TPHCM 2026 Thông tin tuyển sinh Đại học Khoa Học Tự Nhiên – Đại Học Quốc Gia TPHCM (HCMUS) năm 2026 Năm 2026, trường Đại học Khoa học tự nhiên - ĐHQG TPHCM tuyển sinh dựa trên 2 phương thức xét tuyển như sau: Phương thức 1: Phương thức 1a (Mã phương thức xét tuyển: 301): Xét tuyển thẳng, ưu tiên xét tuyển theo Thông tư 08/2022/TT-BGDĐT về việc ban hành quy chế tuyển sinh đại học chính quy ngày 06 tháng 6 năm 2022 của Bộ GD&ĐT và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 của Bộ trưởng về việc Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non. (thông báo sau) Phương thức 1b (Mã phương thức xét tuyển: 410): Xét tuyển dành cho thí sinh có quốc tịch nước ngoài và tốt nghiệp THPT của nước ngoài dựa trên kết quả học tập THPT của thí sinh. Phương thức này chỉ dành cho các chương trình đào tạo theo đề án (chương trình tiên tiến, chương trình tăng cường tiếng Anh). (thông báo sau) Phương thức 2 (Mã phương thức xét tuyển: 500): Xét tuyển dựa trên phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT năm 2026 hay kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM) tổ chức năm 2026 theo ngành/nhóm ngành với điểm học bạ 03 năm lớp 10, 11, 12 (thông báo sau) Khám phá thêm Toán Thống k&ecirc; Khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức 1a (Mã phương thức xét tuyển: 301): Xét tuyển thẳng, ưu tiên xét tuyển theo Thông tư 08/2022/TT-BGDĐT về việc ban hành quy chế tuyển sinh đại học chính quy ngày 06 tháng 6 năm 2022 của Bộ GD&ĐT và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 của Bộ trưởng về việc Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non. (thông báo sau) Phương thức 1b (Mã phương thức xét tuyển: 410): Xét tuyển dành cho thí sinh có q",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1a (Mã phương thức xét tuyển: 301): Xét tuyển thẳng, ưu tiên xét tuyển theo Thông tư 08/2022/TT-BGDĐT về việc ban hành",
+      "rules": "quy chế tuyển sinh đại học chính quy ngày 06 tháng 6 năm 2022 của Bộ GD&ĐT và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 của Bộ trưởng về việc Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non. (thông báo sau) Phương thức 1b (Mã phương thức xét tuyển: 410): Xét tuyển dành cho thí sinh có quốc tịch nước ngoài và tốt nghiệp THPT của nước ngoài dựa trên kết quả học tập THPT của thí sinh. Phương thức này chỉ dành cho các chương trình đào tạo theo đề án (chương trình tiên tiến, chương trình tăng cường tiếng Anh). (thông báo sau) 1.2 ĐIỀU KIỆN XÉT TUYỂN Phương thức 1a: Xét tuyển thẳng, ưu tiên xét tuyển theo Điều 8 Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non và các văn bản liên quan. Lưu ý mỗi ngành / nhóm ngành xét tuyển sẽ có quy định về thứ tự ưu tiên cho các loại giải thưởng và thứ hạng giải thưởng được xét. Phương thức 1b: Xét tuyển dành cho thí sinh có quốc tịch nước ngoài và tốt nghiệp THPT của nước ngoài Điểm xét tuyển đối với diện Ưu tiên xét tuyển thẳng theo quy định của ĐHQG-HCM được tính theo công thức như sau: Điểm_xét_tuyển = ĐTB + ĐC (1) Trong đó: ĐTB: Tổng điểm trung bình cộng kết quả học tập 03 năm lớp 10, 11 và 12 (hay kết quả học tập của 03 năm học cuối cấp THPT của thí sinh). ĐC: Điểm cộng theo quy định Trong trường hợp thí sinh có mức Điểm xét tuyển bằng nhau mà phải lựa chọn, Hội đồng tuyển sinh sẽ căn cứ vào bài luận xét tuyển của thí sinh. 1.3 QUY CHẾ Ngoài ra, đối với thí sinh đăng ký vào Ngành Thiết kế vi mạch, Ngành Công nghệ bán dẫn theo Quy định 2101/QĐ-BGDĐT ngày 22/7/2025 của Bộ GDĐT về Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại học, thạc sĩ, ngưỡng đảm bảo chất lượng của thí sinh khi đăng ký phải đạt thêm các điều kiện như sau: Nếu thí sinh đăng ký xét tuyển theo Phương thức 1a và Phương thức 1b thì thí sinh cần có điểm trung bình cộng môn Toán 03 năm lớp 10, 11, 12 có giá trị lớn hơn hay bằng 20% điểm cao nhất môn Toán toàn quốc trong kỳ thi THPT 2026 Điểm cộng áp dụng cho thí sinh có nguyện vọng đăng ký xét tuyển các phương thức 1b, và phương thức 2 được quy định cụ thể tại các thông báo chi tiết của các phương thức tương ứng. Thông tin chung về điểm cộng như sau: Môn đoạt giải được cộng điểm: Thí sinh đoạt giải các môn sau đều được điểm cộng: Toán học, Vật lý học, Hóa học, Sinh học, Tin học, Trí tuệ nhân tạo (Kỳ thi Olympic Trí tuệ nhân tạo toàn quốc VOAI/quốc tế), Tiếng Anh. Riêng thí sinh đoạt giải môn Địa lý thì được cộng điểm vào các ngành/nhóm ngành như sau: Hải dương học, Nhóm ngành Địa chất học, Kinh tế đất đai, Kỹ thuật địa chất, Khoa học Môi trường, Công nghệ kỹ thuật môi trường, Quản lý tài nguyên môi trường. Điểm cộng cơ sở theo giải thưởng học thuật, thành tích học tập hay thành tích đặc biệt của thí sinh sẽ được thông báo cụ thể trong thông báo tuyển sinh của Trường trong đó điểm cộng cơ sở tối đa là 5% trên thang điểm tối đa của Điểm xét tuyển. Đối với các giải học thuật quốc tế khác sẽ do Hội đồng tuyển sinh xem xét và quyết định mức cộng điểm tương ứng với các giải trên theo quy định của Bộ GDĐT và ĐHQG-HCM. Công thức tính điểm cộng (Trường hợp đối với thang 30 thì Điểm cộng cơ sở tối đa là 1,5) Điểm cộng bằng Điểm cộng cơ sở đối với thí sinh có tổng điểm nhỏ hơn 28,5 điểm. Điểm cộng đối với thí sinh có tổng điểm từ 28,5 trở lên được xác định theo công thức sau: Điểm cộng = [(30 – Tổng điểm đạt được của thí sinh ) / 1.5] * Điểm cộng cơ sở",
+      "programs": [
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7420101",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7440122",
+          "program_name": "Khoa học Vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7440228",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7440301",
+          "program_name": "Khoa học Môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ Vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ Kỹ thuật Môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520402",
+          "program_name": "Kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7520403",
+          "program_name": "Vật lý y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐỐI TƯỢNG Phương thức 2 (Mã phương thức xét tuyển: 500): Xét tuyển dựa trên phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT năm 2026 hay kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM) tổ chức năm 2026 theo ngành/nhóm ngành với điểm học bạ 03 năm lớp 10, 11, 12 (thông báo sau) 2.2 ĐIỀU KIỆN XÉT TUYỂN Tất cả điểm tổ hợp của kết quả điểm thi THPT 2026, điểm tổ hợp của học bạ, kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2026 sẽ được chuẩn hó",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 2 (Mã phương thức xét tuyển: 500): Xét tuyển dựa trên phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT năm 2026 hay kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM) tổ chức năm 2026 theo ngành/nhóm ngành với điểm học bạ 03 năm lớp 10, 11, 12 (thông báo sau) 2.2",
+      "rules": "QUY CHẾ a. Các điều kiện sử dụng trong xét tuyển và ngưỡng đầu vào Tất cả thí sinh (bao gồm cả thí sinh được xét tuyển thẳng) phải thực hiện đăng ký xét tuyển (ĐKXT) trực tuyến, đăng ký tất cả nguyện vọng xét tuyển (NVXT) trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT và nộp lệ phí xét tuyển trực tuyến trên Hệ thống theo quy định của Bộ GDĐT. Điểm cộng đối với giải thưởng học thuật chỉ được xét và công nhận khi thí sinh gửi minh chứng về cho Trường theo đúng thời gian quy định trong thông báo tuyển sinh ứng với từng phương thức xét tuyển để Trường thực hiện công tác rà soát. Tất cả trường hợp minh chứng gửi sau thời gian quy định và Trường không kịp thời thực hiện rà soát thì sẽ không công nhận điểm cộng cho thí sinh. Thí sinh có nguyện vọng đăng ký xét tuyển bắt buộc phải khai thông tin, nộp hồ sơ đầy đủ theo quy định trong thông báo tuyển sinh ứng với phương thức xét tuyển để Trường thực hiện xét tuyển/sơ tuyển/cộng điểm thưởng. Thí sinh khai báo chính xác và chịu trách nhiệm thông tin khai báo của mình. Tất cả chứng chỉ ngoại ngữ quốc tế tiếng Anh (TOEFL iBT hay IELTS) chỉ được quy đổi sang điểm môn tiếng Anh (chỉ áp dụng đối với các tổ hợp có môn tiếng Anh của kết quả kỳ thi THPT 2026 trong Phương thức 2) khi thí sinh gửi minh chứng về cho Trường theo đúng thời gian quy định của Thông báo tuyển sinh đối với từng phương thức. Đối với Phương thức 2, chứng chỉ ngoại ngữ quốc tế tiếng Anh (TOEFL iBT hay IELTS) được quy đổi từ mức 4.5 trở lên theo quy định tại mục 4.d dưới đây. Đối với xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học chính quy hiện hành của Bộ GDĐT (Phương thức 1a), ngưỡng đảm bảo chất lượng đầu vào, điều kiện ĐKXT áp dụng theo quy định của Bộ GDĐT. Đối với thí sinh là người có quốc tịch nước ngoài và tốt nghiệp THPT theo chương trình của nước ngoài thì xét tuyển dựa trên chứng chỉ ngoại ngữ quốc tế (tiếng Anh) kết hợp với kết quả học tập THPT. Đối với xét tuyển dựa trên phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT năm 2026 hay kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2026 với điểm học bạ 03 năm lớp 10, 11, 12 (Phương thức 2) ngưỡng đảm bảo chất lượng sẽ được Hội đồng tuyển sinh Trường quyết định và công bố sau khi có điểm kỳ thi tốt nghiệp THPT để thí sinh điều chỉnh theo kế hoạch tuyển sinh chung của Bộ GDĐT. Ngoài ra, đối với thí sinh đăng ký vào Ngành Thiết kế vi mạch, Ngành Công nghệ bán dẫn theo Quy định 2101/QĐ-BGDĐT ngày 22/7/2025 của Bộ GDĐT về Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại học, thạc sĩ, ngưỡng đảm bảo chất lượng của thí sinh khi đăng ký phải đạt thêm các điều kiện như sau: Nếu thí sinh đăng ký xét tuyển theo Phương thức 1a và Phương thức 1b thì thí sinh cần có điểm trung bình cộng môn Toán 03 năm lớp 10, 11, 12 có giá trị lớn hơn hay bằng 20% điểm cao nhất môn Toán toàn quốc trong kỳ thi THPT 2026. Nếu thí sinh đăng ký xét tuyển theo Phương thức 2 thì thí sinh cần điểm thi môn Toán có giá trị lớn hơn hay bằng 20% điểm cao nhất môn Toán toàn quốc trong kỳ thi THPT 2026 và tổng điểm tổ hợp 03 môn xét tuyển lớn hơn hay bằng mức điểm nằm trong 25% tổng điểm cao nhất toàn quốc của các tổ hợp 03 môn xét tuyển. Hoặc Trong trường hợp thí sinh không có dự thi THPT 2026 thì thí sinh có điểm trung bình cộng môn Toán 03 năm lớp 10, 11, 12 có giá trị lớn hơn hay bằng 20% điểm cao nhất môn Toán toàn quốc trong kỳ thi THPT 2026 và đạt mức điểm đánh giá năng lực do ĐHQG- HCM tổ chức năm 2026 khi quy đổi sang thang điểm 30 lớn hơn hay bằng mức điểm nằm trong 25% tổng điểm cao nhất toàn quốc của các tổ hợp 03 môn xét tuyển. b. Điểm cộng Điểm cộng áp dụng cho thí sinh có nguyện vọng đăng ký xét tuyển các phương thức 1b, và phương thức 2 được quy định cụ thể tại các thông báo chi tiết của các phương thức tương ứng. Thông tin chung về điểm cộng như sau: Môn đoạt giải được cộng điểm: Thí sinh đoạt giải các môn sau đều được điểm cộng: Toán học, Vật lý học, Hóa học, Sinh học, Tin học, Trí tuệ nhân tạo (Kỳ thi Olympic Trí tuệ nhân tạo toàn quốc VOAI/quốc tế), Tiếng Anh. Riêng thí sinh đoạt giải môn Địa lý thì được cộng điểm vào các ngành/nhóm ngành như sau: Hải dương học, Nhóm ngành Địa chất học, Kinh tế đất đai, Kỹ thuật địa chất, Khoa học Môi trường, Công nghệ kỹ thuật môi trường, Quản lý tài nguyên môi trường. Điểm cộng cơ sở theo giải thưởng học thuật, thành tích học tập hay thành tích đặc biệt của thí sinh sẽ được thông báo cụ thể trong thông báo tuyển sinh của Trường trong đó điểm cộng cơ sở tối đa là 5% trên thang điểm tối đa của Điểm xét tuyển. Đối với các giải học thuật quốc tế khác sẽ do Hội đồng tuyển sinh xem xét và quyết định mức cộng điểm tương ứng với các giải trên theo quy định của Bộ GDĐT và ĐHQG-HCM. Công thức tính điểm cộng (Trường hợp đối với thang 30 thì Điểm cộng cơ sở tối đa là 1,5) Điểm cộng bằng Điểm cộng cơ sở đối với thí sinh có tổng điểm nhỏ hơn 28,5 điểm. Điểm cộng đối với thí sinh có tổng điểm từ 28,5 trở lên được xác định theo công thức sau: Điểm cộng = [(30 – Tổng điểm đạt được của thí sinh ) / 1.5] * Điểm cộng cơ sở c. Tiêu chí phân ngành Đối với Nhóm ngành Vật lý học (Vật lý học, Công nghệ vật lý điện tử và tin học), Nhóm ngành Địa chất (Địa chất, Kinh tế đất đai): sinh viên học hết năm thứ nhất sau đó dựa trên kết quả học tập của sinh viên năm thứ nhất để phân ngành. Đối với Nhóm ngành Khoa học dữ liệu (Khoa học dữ liệu, Thống kê): sinh viên học hết năm thứ hai sau đó dựa trên kết quả học tập của sinh viên năm thứ nhất và năm thứ hai để phân ngành. Đối với Nhóm ngành Toán học, Nhóm ngành Máy tính và công nghệ thông tin: sinh viên học hết năm thứ nhất, năm thứ hai (có thể thêm học kỳ 1 năm thứ ba) sau đó dựa trên kết quả học tập của sinh viên năm thứ nhất, năm thứ hai (có thể thêm học kỳ 1 năm thứ ba) để phân ngành. d. cách quy đổi chứng chỉ ngoại ngữ quốc tế tiếng Anh TOEFL iBT/ IELTS sang thang 10. Xét tuyển dựa trên phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT năm 2026 hay kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2026 với điểm học bạ 03 năm lớp 10, 11, 12 Điểm_xét_tuyển = Điểm_học_lực + Điểm_cộng + Điểm_ưu_tiên Trong đó: Trường hợp 1: Đối với thí sinh có điểm thi THPT 2026 Điểm_học_lực_1 = w1 × Điểm_THPT + w2 × Điểm_học_bạ (3) Trường hợp 2: Đối với thí sinh có điểm kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2026 Điểm_học_lực_2 = w3 × Điểm_ĐGNL + w4 × Điểm_học_bạ (4) Điểm_học_lực của (2) sẽ được tính là : Điểm_học_lực = max (Điểm_học_lực_1, Điểm_học_lực_2) (5) Trong các công thức trên, chi tiết các điểm thành phần được giải thích như sau: Điểm_học_bạ là tổng điểm trung bình trong học bạ của ba năm lớp 10, 11, 12 của 03 môn nằm trong một tổ hợp của ngành / nhóm ngành (xem mục 3) có giá trị lớn nhất trong số các tổ hợp xét tuyển của ngành / nhóm ngành. Điểm_học_bạ tính theo thang 30 điểm. Tổ hợp có đủ điểm 03 năm lớp 10, 11, 12 được ưu tiên lựa chọn đầu tiên để tính trong công thức (3) và công thức (4). Trong trường hợp sau khi xét tất cả tổ hợp nhưng thí sinh không có tổ hợp nào có đủ 03 môn cho 03 năm học lớp 10, 11, 12, thì điểm của 01 năm lớp 10 bị thiếu sẽ được quy đổi bằng trung bình điểm của 02 năm lớp 11 và lớp 12. Trong trường hợp kết quả học tập của thí sinh không có tổ hợp môn nào có đủ 03 năm lớp 10, 11, 12 hay tổ hợp môn đủ 02 năm lớp 11, 12 thì Điểm_học_bạ và Điểm_học_lực sẽ được chọn là 0 điểm vì hồ sơ xét tuyển không hợp lệ. Điểm_THPT là tổng điểm 03 môn trong kỳ thi THPT 2026 của một tổ hợp có giá trị lớn nhất trong các tổ hợp xét tuyển của ngành / nhóm ngành (mục 3). Điểm THPT tính theo thang 30 điểm. Điểm quy đổi tiếng Anh của chứng chỉ ngoại ngữ quốc tế (TOEFL iBT hay IELTS) chỉ được áp dụng cho tổ hợp môn sử dụng kết quả thi THPT trong đó có môn tiếng Anh. Điểm_ĐGNL là điểm thi ĐGNL lớn nhất của thí sinh trong 02 kỳ thi ĐGNL ĐHQG-HCM trong năm 2026. Điểm_ĐGNL được quy đổi về thang 30 điểm để tính Điểm_học_lực theo công thức như sau: Điểm_ĐGNL = (Điểm thi ĐGNL / Max_Điểm_thi_ĐGNL) × 30 (6) Trong đó Max_Điểm_thi_ĐGNL là điểm thi lớn nhất xét trên tất cả thí sinh được công bố công khai của 02 đợt thi ĐGNL chính thức do ĐHQG-HCM tổ chức trong năm 2026 (không tính các kì thi bổ sung nếu có). Điểm_ĐGNL trong công thức (4) và (5) là điểm thi lớn nhất của từng thí sinh tham gia xét tuyển vào Trường có được sau 02 đợt thi ĐGNL trong năm 2026. Điểm_cộng là điểm cộng được tính dựa trên mục 4.b, lưu ý thí sinh chỉ được cộng 01 loại điểm cộng có mức điểm cao nhất. Điểm_ưu_tiên là điểm ưu tiên khu vực",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7420101",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420101",
+          "program_name": "Sinh học",
+          "subject_groups": [
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "X15",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ Sinh học",
+          "subject_groups": [
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "X15",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hoá học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C02",
+            "D07",
+            "X11",
+            "X12"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7440122",
+          "program_name": "Khoa học Vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7440122",
+          "program_name": "Khoa học Vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7440228",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7440228",
+          "program_name": "Hải dương học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7440301",
+          "program_name": "Khoa học Môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7440301",
+          "program_name": "Khoa học Môi trường",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "X10",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B08",
+            "D07",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ Vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ Vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ Kỹ thuật Môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ Kỹ thuật Môi trường",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07",
+            "X10",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B08",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520402",
+          "program_name": "Kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7520402",
+          "program_name": "Kỹ thuật hạt nhân",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7520403",
+          "program_name": "Vật lý y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7520403",
+          "program_name": "Vật lý y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "A00",
+            "A07",
+            "C01",
+            "C04",
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "X10",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Khoa học tự nhiên - ĐHQG TPHCM các năm Tại đây",
+  "tuition_text": "",
+  "timeline_text": null
+}

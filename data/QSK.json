@@ -1,0 +1,40 @@
+{
+  "university": {
+    "code": "QSK",
+    "name": "Đại học Kinh tế - Luật",
+    "short_name": "UEL",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "Số 669 Quốc lộ 1, Khu phố 3, Phường Linh Xuân, Thành Phố Thủ Đức, Thành Phố Hồ Chí Minh.",
+    "website": "https://www.uel.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 3200,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-kinh-te-luat-tphcm-QSK.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0409/thong-tin-tuyen-sinh-truong-dai-hoc-kinh-te-luat-dhqg-tphcm-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KINH TẾ LUẬT TPHCM 2026 Thông tin tuyển sinh năm 2026 Trường Đại học Kinh Tế Luật – Đại Học Quốc Gia TPHCM (UEL) Năm 2026, trường Đại học kinh tế Luật - Đại học Quốc gia TPHCM (UEL) dự kiến tuyển 3.200 chỉ tiêu và tuyển sinh theo 2 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng và ưu tiên xét tuyển thẳng theo quy chế tuyển sinh của Bộ GD&ĐT (tối đa 5%) Phương thức 2: Xét tuyển tổng hợp (Điểm bài thi Đánh giá năng lực (ĐGNL), Bài thi tốt nghiệp trung học phổ thông (TNTHPT), Điểm học bạ, …) Khám phá thêm Tài nguyên giáo dục giáo dục Hướng dẫn Thành phố & Địa phương",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-xet-tuyen-ket-hop",
+      "method_name": "1 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "1.1 QUY CHẾ Đối tượng và điều kiện đăng ký ĐT1: thí sinh CÓ kết quả thi ĐGNL ĐHQG-HCM năm 2026; ĐT2: thí sinh KHÔNG CÓ kết quả thi ĐGNL ĐHQG-HCM năm 2026; ĐT3: Thí sinh tự do CHỈ CÓ kết quả thi ĐGNL ĐHQG-HCM năm 2026 (đã tốt nghiệp THPT); ĐT4: Thí sinh có chứng chỉ tuyển sinh quốc tế như: bằng tú tài quốc tế (IB), A-level, SAT, ACT. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340120_408_I Quản trị kinh doanh (chuyên ngành Marketing) A0",
+      "eligibility": "Đối tượng và",
+      "rules": "QUY CHẾ",
+      "programs": []
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh tuyển thẳng theo quy định của Bộ GD&ĐT (theo Điều 8 quy chế tuyển sinh đại học ban hành theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ GD&ĐT). Đối với thí sinh đoạt giải học sinh giỏi Nhất, Nhì, Ba quốc gia phải có môn thi đoạt giải nằm trong tổ hợp xét tuyển của Trường. Điểm trung bình cộng học lực 03 năm THPT đạt loại Tốt từ 8,0 trở lên. Đối với thí sinh có quốc tịch khác quốc tịch Việt Nam (Lào, Campuchia, Thái Lan...) và tốt nghiệp THPT của nước ngoài (gọi tắ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tuyển thẳng theo quy định của Bộ GD&ĐT (theo Điều 8",
+      "rules": "quy chế tuyển sinh đại học ban hành theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ GD&ĐT). Đối với thí sinh đoạt giải học sinh giỏi Nhất, Nhì, Ba quốc gia phải có môn thi đoạt giải nằm trong tổ hợp xét tuyển của Trường. Điểm trung bình cộng học lực 03 năm THPT đạt loại Tốt từ 8,0 trở lên. Đối với thí sinh có quốc tịch khác quốc tịch Việt Nam (Lào, Campuchia, Thái Lan...) và tốt nghiệp THPT của nước ngoài (gọi tắt thí sinh nước ngoài): Thí sinh nước ngoài đăng ký học tập chương trình bằng tiếng Anh cần đạt điều kiện về ngôn ngữ tiếng Anh của chương trình đó; Thí sinh nước ngoài đăng ký học tập chương trình bằng tiếng Việt cần đạt điều kiện về ngôn ngữ tiếng Việt theo quy định hiện hành của Bộ GD&ĐT. 2.2 QUY CHẾ Hội đồng tuyển sinh xem xét các hồ sơ xét tuyển thẳng và quyết định",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem thêm điểm chuẩn các năm của trường Đại học Kinh tế Luật Tại đây.",
+  "tuition_text": null,
+  "timeline_text": null
+}
