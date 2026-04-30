@@ -199,5 +199,84 @@
   ],
   "cutoff_scores_text": null,
   "tuition_text": "- Thí sinh trúng tuyển vào các trường Quân đội được bảo đảm về ăn, ở, mặc; không phải nộp tiền, không phải đóng học phí; hằng tháng tất cả học viên được cấp phụ cấp sinh hoạt; được sử dụng miễn phí cơ sở vật chất của nhà trường cho học tập, rèn luyện, nghiên cứu khoa học; được cấp phát không thu tiền trang thiết bị đồ dùng phục vụ cho học tập.",
-  "timeline_text": "Thời gian đăng ký sơ tuyển: Từ ngày 10/02/2026 đến ngày 15/4/2026. 1. Hồ sơ đăng ký sơ tuyển - Mỗi thí sinh phải làm 01 bộ hồ sơ đăng ký sơ tuyển (do Ban TSQS Bộ Quốc phòng phát hành thống nhất trong toàn quốc) và làm bộ hồ sơ đăng ký dự Kỳ thi tốt nghiệp THPT do Sở GD&ĐT quy định. - Hồ sơ sơ tuyển tuyệt đối không được tẩy xoá, nếu sửa chữa phải có chữ ký và dấu của cơ quan có thẩm quyền. Hồ sơ gồm có: + 03 phiếu đăng ký sơ tuyển (Mẫu ĐK01-A, Mẫu ĐK01-B, Mẫu ĐK01-C). + 01 phiếu khám sức khỏe. + 01 bản thẩm tra, xác minh lí lịch . + 01 giấy chứng nhận được hưởng ưu tiên đối với những thí sinh thuộc diện ưu tiên (nếu có). + 04 ảnh chân dung cỡ 4x6 cm (chụp thẳng kiểu căn cước, cỡ 4x6 cm, trên nền phông màu trắng, trong thời hạn 06 tháng tính đến thời điểm đăng ký dự tuyển). 2. Đăng ký sơ tuyển - Thí sinh là thanh niên ngoài Quân đội mua hồ sơ và đăng ký sơ tuyển tại Ban TSQS cấp xã, phường, đặc khu (gọi chung là cấp xã). - Thí sinh là quân nhân tại ngũ mua hồ sơ và đăng ký sơ tuyển tại đơn vị cấp trung đoàn hoặc tương đương (gọi chung là cấp trung đoàn). 3. Kê khai và nộp hồ sơ sơ tuyển - Thí sinh phải tự mình viết kê khai các mẫu biểu, hồ sơ sơ tuyển thuộc phần quy định thí sinh tự khai, phải ghi rõ trường đăng ký xét tuyển nguyện vọng 1 là Trường Sĩ quan Thông tin, tổ hợp các môn đăng ký xét tuyển và các nội dung quy định trên phiếu, không nhờ người khác viết hộ; trực tiếp nộp hồ sơ đăng ký sơ tuyển theo đúng thời gian quy định; Ban TSQS cấp xã hoặc đơn vị cấp trung đoàn hướng dẫn viết kê khai, đối chiếu, thu và ký xác nhận hồ sơ theo đúng quy định. - Bản thẩm tra xác minh chính trị do cán bộ tuyển sinh Ban Chỉ huy quân sự cấp xã (đối với thanh niên ngoài Quân đội), đơn vị (đối với quân nhân) đi thẩm tra xác minh theo quy định. - Khám sức khỏe sơ tuyển do Hội đồng khám tuyển sức khỏe cấp xã và đơn vị cấp trung đoàn tổ chức. - Thí sinh thuộc diện được cộng điểm ưu tiên theo đối tượng, nộp 1 giấy chứng nhận được hưởng ưu tiên hợp lệ; đối tượng là con thương binh, con bệnh binh, con của người được cấp “Giấy chứng nhận người hưởng chính sách như thương binh\", phải có bản sao hợp lệ Giấy chứng nhận thương binh, bệnh binh... - Thí sinh chịu trách nhiệm về tính xác thực của các thông tin đăng ký xét tuyển. Hội đồng Tuyển sinh có quyền từ chối tiếp nhận, không xét tuyển hoặc buộc thôi học trong trường hợp thí sinh đã được công nhận nhập học nếu phát hiện thí sinh không đảm bảo các điều kiện trúng tuyển khi đối chiếu thông tin đăng ký xét tuyển và dữ liệu đăng ký dự thi với hồ sơ gốc. 4. Đăng ký, tham dự các kỳ thi để lấy điểm xét tuyển - Thí sinh là thanh niên ngoài Quân đội đăng ký, tham dự kỳ thi tốt nghiệp THPT theo quy định của Bộ GD&ĐT; đăng ký, tham dự các kỳ thi khác theo quy định của Bộ Quốc phòng và cơ sở tổ chức thi. - Thí sinh là quân nhân tại ngũ đã sơ tuyển, đủ tiêu chuẩn sơ tuyển, Ban Tuyển sinh quân sự cấp trung đoàn chịu trách nhiệm liên hệ, hướng dẫn thí sinh làm thủ tục đăng ký, tham dự các kỳ thi theo quy định."
+  "timeline_text": "Thời gian đăng ký sơ tuyển: Từ ngày 10/02/2026 đến ngày 15/4/2026. 1. Hồ sơ đăng ký sơ tuyển - Mỗi thí sinh phải làm 01 bộ hồ sơ đăng ký sơ tuyển (do Ban TSQS Bộ Quốc phòng phát hành thống nhất trong toàn quốc) và làm bộ hồ sơ đăng ký dự Kỳ thi tốt nghiệp THPT do Sở GD&ĐT quy định. - Hồ sơ sơ tuyển tuyệt đối không được tẩy xoá, nếu sửa chữa phải có chữ ký và dấu của cơ quan có thẩm quyền. Hồ sơ gồm có: + 03 phiếu đăng ký sơ tuyển (Mẫu ĐK01-A, Mẫu ĐK01-B, Mẫu ĐK01-C). + 01 phiếu khám sức khỏe. + 01 bản thẩm tra, xác minh lí lịch . + 01 giấy chứng nhận được hưởng ưu tiên đối với những thí sinh thuộc diện ưu tiên (nếu có). + 04 ảnh chân dung cỡ 4x6 cm (chụp thẳng kiểu căn cước, cỡ 4x6 cm, trên nền phông màu trắng, trong thời hạn 06 tháng tính đến thời điểm đăng ký dự tuyển). 2. Đăng ký sơ tuyển - Thí sinh là thanh niên ngoài Quân đội mua hồ sơ và đăng ký sơ tuyển tại Ban TSQS cấp xã, phường, đặc khu (gọi chung là cấp xã). - Thí sinh là quân nhân tại ngũ mua hồ sơ và đăng ký sơ tuyển tại đơn vị cấp trung đoàn hoặc tương đương (gọi chung là cấp trung đoàn). 3. Kê khai và nộp hồ sơ sơ tuyển - Thí sinh phải tự mình viết kê khai các mẫu biểu, hồ sơ sơ tuyển thuộc phần quy định thí sinh tự khai, phải ghi rõ trường đăng ký xét tuyển nguyện vọng 1 là Trường Sĩ quan Thông tin, tổ hợp các môn đăng ký xét tuyển và các nội dung quy định trên phiếu, không nhờ người khác viết hộ; trực tiếp nộp hồ sơ đăng ký sơ tuyển theo đúng thời gian quy định; Ban TSQS cấp xã hoặc đơn vị cấp trung đoàn hướng dẫn viết kê khai, đối chiếu, thu và ký xác nhận hồ sơ theo đúng quy định. - Bản thẩm tra xác minh chính trị do cán bộ tuyển sinh Ban Chỉ huy quân sự cấp xã (đối với thanh niên ngoài Quân đội), đơn vị (đối với quân nhân) đi thẩm tra xác minh theo quy định. - Khám sức khỏe sơ tuyển do Hội đồng khám tuyển sức khỏe cấp xã và đơn vị cấp trung đoàn tổ chức. - Thí sinh thuộc diện được cộng điểm ưu tiên theo đối tượng, nộp 1 giấy chứng nhận được hưởng ưu tiên hợp lệ; đối tượng là con thương binh, con bệnh binh, con của người được cấp “Giấy chứng nhận người hưởng chính sách như thương binh\", phải có bản sao hợp lệ Giấy chứng nhận thương binh, bệnh binh... - Thí sinh chịu trách nhiệm về tính xác thực của các thông tin đăng ký xét tuyển. Hội đồng Tuyển sinh có quyền từ chối tiếp nhận, không xét tuyển hoặc buộc thôi học trong trường hợp thí sinh đã được công nhận nhập học nếu phát hiện thí sinh không đảm bảo các điều kiện trúng tuyển khi đối chiếu thông tin đăng ký xét tuyển và dữ liệu đăng ký dự thi với hồ sơ gốc. 4. Đăng ký, tham dự các kỳ thi để lấy điểm xét tuyển - Thí sinh là thanh niên ngoài Quân đội đăng ký, tham dự kỳ thi tốt nghiệp THPT theo quy định của Bộ GD&ĐT; đăng ký, tham dự các kỳ thi khác theo quy định của Bộ Quốc phòng và cơ sở tổ chức thi. - Thí sinh là quân nhân tại ngũ đã sơ tuyển, đủ tiêu chuẩn sơ tuyển, Ban Tuyển sinh quân sự cấp trung đoàn chịu trách nhiệm liên hệ, hướng dẫn thí sinh làm thủ tục đăng ký, tham dự các kỳ thi theo quy định.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac-TTH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06"
+            ],
+            "score": 23.84,
+            "note": null
+          },
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06"
+            ],
+            "score": 22.75,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Bắc)",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Nam)",
+            "subject_groups": [],
+            "score": 89,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Bắc)",
+            "subject_groups": [],
+            "score": 827,
+            "note": null
+          },
+          {
+            "program_code": "7860219",
+            "program_name": "Chỉ huy - Tham mưu Thông tin (miền Nam)",
+            "subject_groups": [],
+            "score": 789,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

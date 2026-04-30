@@ -215,5 +215,57 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học viện Y Dược Học Cổ Truyền Việt Nam Tại đây",
   "tuition_text": "Từ năm học 2025-2026, Học viện thực hiện thu học phí theo lộ trình quy định tại Nghị định 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo. Cụ thể như sau: - Ngành Bác sĩ Y Khoa áp dụng mức thu học phí là: 3.110.000 đồng/tháng (31.100.000 đồng/năm học) - Ngành Bác sĩ Y học cổ truyền áp dụng mức thu học phí là: 3.110.000 đồng/tháng (31.100.000 đồng/ năm học) - Ngành Dược sĩ áp dụng mức thu học phí là: 2.760.000 đồng/tháng (27.600.000 đồng/năm học) Lộ trình tăng học phí hàng năm theo quy định chung và theo quyết định loại hình tự chủ của cấp có thẩm quyền đối với Học viện. Mỗi học kì, Học viện dành tối thiểu 8% nguồn thu từ học phí để cấp học bổng khuyến khích học tập cho sinh viên",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-HYD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "A02",
+              "D08",
+              "X14"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "A02",
+              "D08",
+              "X14"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02",
+              "X10"
+            ],
+            "score": 21.35,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

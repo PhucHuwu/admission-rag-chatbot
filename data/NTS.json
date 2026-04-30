@@ -112,5 +112,571 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Ngoại thương (Cơ sở phía Nam) các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-thuong-co-so-phia-nam-NTS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.3,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "KTES2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.35,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.45,
+            "note": null
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.45,
+            "note": null
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "QTKS2 1",
+            "program_name": "CT CLC Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.65,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.65,
+            "note": null
+          },
+          {
+            "program_code": "TCHS2.1",
+            "program_name": "CT CLC Tài chinh - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.2,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.77,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.08,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.82,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.58,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 27.93,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 28.33,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KTES2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.01,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTES2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.09,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.15,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.02,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.38,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.57,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.12,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "QTKS2 1",
+            "program_name": "CT CLC Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.97,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKS2 1",
+            "program_name": "CT CLC Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.68,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.22,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.5,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "TCHS2.1",
+            "program_name": "CT CLC Tài chinh - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.05,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHS2.1",
+            "program_name": "CT CLC Tài chinh - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.89,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 28.39,
+            "note": null
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 27.96,
+            "note": null
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 27.72,
+            "note": null
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 28.1,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 28.67,
+            "note": null
+          },
+          {
+            "program_code": "KTES1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [],
+            "score": 28.38,
+            "note": null
+          },
+          {
+            "program_code": "KTKS1.l",
+            "program_name": "CT TC Kế toán - Kiểm toán",
+            "subject_groups": [],
+            "score": 28.27,
+            "note": null
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": null
+          },
+          {
+            "program_code": "QTKS1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 28.29,
+            "note": null
+          },
+          {
+            "program_code": "TCHS1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 28.46,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQS2.1",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 29.55,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTES2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [],
+            "score": 28.56,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "MKTS2.1",
+            "program_name": "CT ĐHNNQT truyền thông Marketing tích hợp",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKS2 1",
+            "program_name": "CT CLC Quản tri kinh doanh",
+            "subject_groups": [],
+            "score": 28.26,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHS2.1",
+            "program_name": "CT CLC Tài chinh - Ngân hàng",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          }
+        ]
+      }
+    ]
+  }
 }

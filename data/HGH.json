@@ -60,5 +60,88 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Sĩ quan phòng hóa các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-phong-hoa-HGH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.99,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.45,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 90,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [],
+            "score": 797,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [],
+            "score": 779,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

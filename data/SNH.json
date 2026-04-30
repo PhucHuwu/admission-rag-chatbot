@@ -187,5 +187,107 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Sĩ quan Công binh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-SNH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 22.45,
+            "note": "TS miền Bắc; Tiêu chí phụ 1: Toán >= 7.20; Tiêu chí phụ 2: Lý >= 7.00"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 22.05,
+            "note": "TS miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 25.209,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 24.463,
+            "note": "TS Miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 15.6,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 16.425,
+            "note": "TS Miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 15.6,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 16.425,
+            "note": "TS Miền Nam"
+          }
+        ]
+      }
+    ]
+  }
 }

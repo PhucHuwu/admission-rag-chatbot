@@ -2197,5 +2197,3389 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Nông Lâm TPHCM các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nong-lam-tphcm-NLS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "51140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Cao đẳng)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Đại học)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "D08",
+              "X12",
+              "X28",
+              "X16"
+            ],
+            "score": 23.84,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 20.9,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C04",
+              "D01",
+              "X04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00",
+              "D07",
+              "D08",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D01",
+              "D07"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B02",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "51140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Cao đẳng)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 23.06,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Đại học)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 21.94,
+            "note": null
+          },
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "D08",
+              "X12",
+              "X28",
+              "X16"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 28.01,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 23.51,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.88,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 24.98,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.99,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.99,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 26.72,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 23.74,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C04",
+              "D01",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 22.79,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 22.79,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00",
+              "D07",
+              "D08",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 21.38,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 27.73,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 27.73,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D01",
+              "D07"
+            ],
+            "score": 24.86,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 24.13,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 24.13,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B02",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.91,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [],
+            "score": 822,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 1000,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 726,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 726,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 722,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 722,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [],
+            "score": 679,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 810,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 810,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 686,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 697,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 741,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 741,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 738,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 738,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [],
+            "score": 767,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [],
+            "score": 713,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 775,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 775,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [],
+            "score": 713,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 792,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 655,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 764,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 764,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [],
+            "score": 764,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [],
+            "score": 650,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [],
+            "score": 689,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [],
+            "score": 619,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 619,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [],
+            "score": 669,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 669,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [],
+            "score": 713,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [],
+            "score": 622,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [],
+            "score": 811,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [],
+            "score": 811,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [],
+            "score": 695,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 715,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [],
+            "score": 715,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "51140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Cao đẳng)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non (Trình độ Đại học)",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "D08",
+              "X12",
+              "X28",
+              "X16"
+            ],
+            "score": 23.84,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 20.9,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08",
+              "X14"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C04",
+              "D01",
+              "X04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C04",
+              "X01",
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00",
+              "D07",
+              "D08",
+              "D01",
+              "B03",
+              "X04"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D01",
+              "D07"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B02",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "D08",
+              "X28"
+            ],
+            "score": 23.84,
+            "note": null
+          },
+          {
+            "program_code": "7140215",
+            "program_name": "Sư phạm kỹ thuật nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "D08",
+              "X28"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 28.01,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7310101C",
+            "program_name": "Kinh tế (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "7340101C",
+            "program_name": "Quản trị kinh doanh (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 20.9,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 23.51,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.88,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7420201C",
+            "program_name": "Công nghệ sinh học (Chương trình nâng cao)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 24.98,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7480201C",
+            "program_name": "Công nghệ thông tin (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.99,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201C",
+            "program_name": "Công nghệ kỹ thuật cơ khí (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.99,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.72,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "7510401C",
+            "program_name": "Công nghệ kỹ thuật hoá học (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7519007",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08",
+              "X28"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08",
+              "X28"
+            ],
+            "score": 23.74,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101C",
+            "program_name": "Công nghệ thực phẩm (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101T",
+            "program_name": "Công nghệ thực phẩm (Chương trình tiên tiến)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thủy sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và An toàn thực phẩm",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7549001",
+            "program_name": "Công nghệ chế biến lâm sản",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 22.79,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 20.26,
+            "note": null
+          },
+          {
+            "program_code": "7620105C",
+            "program_name": "Chăn nuôi (Chương trình nâng cao)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 22.79,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7620114",
+            "program_name": "Kinh doanh nông nghiệp",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620116",
+            "program_name": "Phát triển nông thôn",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620201",
+            "program_name": "Lâm học",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620202",
+            "program_name": "Lâm nghiệp đô thị",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lý tài nguyên rừng",
+            "subject_groups": [
+              "D01",
+              "D08"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.38,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 27.73,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "7640101T",
+            "program_name": "Thú y (Chương trình tiên tiến)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 27.73,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 24.86,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 24.13,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7850103C",
+            "program_name": "Quản lý đất đai (Chương trình nâng cao)",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 24.13,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7859002",
+            "program_name": "Tài nguyên và Du lịch Sinh thái",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 23.91,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7859007",
+            "program_name": "Cảnh quan và Kỹ thuật hoa viên",
+            "subject_groups": [
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

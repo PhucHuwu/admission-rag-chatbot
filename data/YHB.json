@@ -573,5 +573,230 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học Y Hà Nội các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-ha-noi-YHB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 28.13,
+            "note": null
+          },
+          {
+            "program_code": "7720101YHT",
+            "program_name": "Y khoa Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7720301YHT",
+            "program_name": "Điều dưỡng Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.34,
+            "note": null
+          },
+          {
+            "program_code": "7720502",
+            "program_name": "Kỹ thuật phục hình răng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7720601YHT",
+            "program_name": "Kỹ thuật xét nghiệm y học Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 18.35,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.57,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720603YHT",
+            "program_name": "Kỹ thuật phục hồi chức năng Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 17.3,
+            "note": null
+          },
+          {
+            "program_code": "7720699",
+            "program_name": "Khúc xạ nhãn khoa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 18.2,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

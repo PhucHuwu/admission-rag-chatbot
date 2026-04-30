@@ -219,5 +219,121 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Thể Dục Thể Thao TPHCM các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-tphcm-TDS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 35.36,
+            "note": "Điểm thi THPT Kết hợp thi năng khiếu, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7729001",
+            "program_name": "Y sinh học thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Điểm thi THPT Kết hợp thi năng khiếu, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Ọuản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Điểm thi THPT Kết hợp thi năng khiếu, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Điểm thi THPT Kết hợp thi năng khiếu, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 35.36,
+            "note": "Học bạ THPT Kết hợp thi năng khiếu, học lực xếp loại khá trở lên hoặc điểm thi THPT từ 6.5 điểm, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7729001",
+            "program_name": "Y sinh học thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Học bạ THPT Kết hợp thi năng khiếu, học lực xếp loại khá trở lên hoặc điểm thi THPT từ 6.5 điểm, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Ọuản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Học bạ THPT Kết hợp thi năng khiếu, học lực xếp loại khá trở lên hoặc điểm thi THPT từ 6.5 điểm, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T04",
+              "T06"
+            ],
+            "score": 21,
+            "note": "Học bạ THPT Kết hợp thi năng khiếu, học lực xếp loại khá trở lên hoặc điểm thi THPT từ 6.5 điểm, điểm năng khiếu x2, đạt tối thiểu 5 điểm trở lên"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -223,5 +223,204 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Kỹ thuật và Công nghệ an ninh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ky-thuat-va-cong-nghe-an-ninh-phia-nam-HCN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.7,
+            "note": "Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.53,
+            "note": "Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 25.21,
+            "note": "Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 23.96,
+            "note": "Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.33,
+            "note": "Gửi học viện Kỹ thuật Mật mã, Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7720100",
+            "program_name": "Y Khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.05,
+            "note": "Gửi trường ĐH Y Dược, ĐHQGHN, Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y Khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 20.01,
+            "note": "Gửi Học viện Quân y, Bộ Quốc phòng, Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y Khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 23.49,
+            "note": "Gửi Học viện Quân y, Bộ Quốc phòng, Kết hợp điểm thi THPT và điểm ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.7,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.53,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 25.21,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7480200",
+            "program_name": "Nhóm ngành Kỹ thuật - Hậu cần (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 23.96,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y Khoa",
+            "subject_groups": [],
+            "score": 20.01,
+            "note": "Gửi Học viện Quân y, Bộ Quốc phòng, Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y Khoa",
+            "subject_groups": [],
+            "score": 23.49,
+            "note": "Gửi Học viện Quân y, Bộ Quốc phòng, Kết hợp CCQT và điểm thi ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
 }

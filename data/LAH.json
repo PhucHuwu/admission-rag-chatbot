@@ -282,5 +282,163 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Lục quân 1 các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan-LAH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 1",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 2",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 3",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 15.85,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 4",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 20.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân",
+            "subject_groups": [],
+            "score": 94,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 1",
+            "subject_groups": [],
+            "score": 71,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 2",
+            "subject_groups": [],
+            "score": 68,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 3",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 4",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân",
+            "subject_groups": [],
+            "score": 845,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 1",
+            "subject_groups": [],
+            "score": 565,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 2",
+            "subject_groups": [],
+            "score": 540,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 3",
+            "subject_groups": [],
+            "score": 515,
+            "note": null
+          },
+          {
+            "program_code": "7860222",
+            "program_name": "Quân sự cơ sở - Quân khu 4",
+            "subject_groups": [],
+            "score": 670,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân",
+            "subject_groups": [],
+            "score": 26.39,
+            "note": "Xét tuyển thẳng diện huyện nghèo"
+          }
+        ]
+      }
+    ]
+  }
 }

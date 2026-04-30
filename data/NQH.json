@@ -441,5 +441,288 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Khoa học Quân sự các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-khoa-hoc-quan-su-he-quan-su-NQH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nam)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nữ)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.01,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nam)",
+            "subject_groups": [
+              "D01",
+              "D02"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nữ)",
+            "subject_groups": [
+              "D01",
+              "D02"
+            ],
+            "score": 29.17,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nam)",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 24.68,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nữ)",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 28.89,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nam)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.35,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nữ)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 26.09,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 117,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 127,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 105,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 134,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 109,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 132,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 123,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 139,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 103,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 101,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nam)",
+            "subject_groups": [],
+            "score": 1040,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (Thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 1105,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nam)",
+            "subject_groups": [],
+            "score": 960,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga (Thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 1127,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nam)",
+            "subject_groups": [],
+            "score": 980,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc (Thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 1124,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nam)",
+            "subject_groups": [],
+            "score": 1080,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế (Thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 1133,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [],
+            "score": 935,
+            "note": null
+          },
+          {
+            "program_code": "7860231",
+            "program_name": "Trinh sát kỹ thuật (Thí sinh Nam, miền Nam)",
+            "subject_groups": [],
+            "score": 915,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

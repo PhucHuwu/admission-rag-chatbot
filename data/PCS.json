@@ -256,5 +256,73 @@
   ],
   "cutoff_scores_text": "Xem điểm của trường Đại học Phòng cháy chữa cháy (Phía Nam) các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phong-chay-chua-chay-phia-nam-PCS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.75,
+            "note": "Điểm thi THPT và ĐGNL BCA"
+          },
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.62,
+            "note": "Điểm thi THPT và ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.75,
+            "note": "CCQT và ĐGNL BCA"
+          },
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.62,
+            "note": "CCQT và ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -942,5 +942,662 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Bạc Liêu các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": ""
+  "timeline_text": "",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-bac-lieu-DBL.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục tiểu học",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 26.99,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và văn hóa Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "X01",
+              "X03"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11",
+              "D14",
+              "D15",
+              "D84"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X03",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục tiểu học",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 27.49,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và văn hóa Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "X01",
+              "X03"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11",
+              "D14",
+              "D15",
+              "D84"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X03",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X04",
+              "X14",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục tiểu học",
+            "subject_groups": [],
+            "score": 874.67,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và văn hóa Việt Nam",
+            "subject_groups": [],
+            "score": 725,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thực vật",
+            "subject_groups": [],
+            "score": 550,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục tiểu học",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 348.85,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và văn hóa Việt Nam",
+            "subject_groups": [
+              "B03",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 245.26,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "B03",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 200,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

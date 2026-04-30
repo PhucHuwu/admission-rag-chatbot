@@ -498,5 +498,471 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Y Dược – Đại Học Thái Nguyên các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "1. Tổ chức tuyển sinh Phương thức xét tuyển Nội dung Thời gian Ghi chú Xét tuyển thẳng (PTXT 301) Nhận hồ sơ xét tuyển và lệ phí Trước 17 giờ 00 ngày 20/6/2026 Xem Mục 1.2.4 Công bố danh sách đủ điều kiện 21/6 → 30/6/2026 Các phương thức còn lại Đăng ký NV 02/7 → 14/7/2026 Xét tuyển 29/7 → 10/8/2026 Công bố trúng tuyển Trước 13/8/2026 2. Ưu tiên xét tuyển Chính sách ưu tiên (khu vực, đối tượng) thực hiện theo quy chế tuyển sinh của Bộ GD&ĐT (Điều 7, Thông tư 06/2026/TT-BGDĐT, ngày 15/02/2026). Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT (hoặc trung cấp, trung học nghề) và một năm kế tiếp. 3. Lệ phí xét tuyển TT Phương thức xét tuyển Số tiền và cách thức nộp tiền 1 Xét kết quả thi tốt nghiệp THPT (PTXT 100) Theo quy định Bộ GD&ĐT 2 Học bạ / HSA / V-SAT 60.000 VNĐ/hồ sơ 3 Xét tuyển thẳng 200.000 VNĐ/hồ sơ 4 Quy đổi IELTS 60.000 VNĐ/hồ sơ"
+  "timeline_text": "1. Tổ chức tuyển sinh Phương thức xét tuyển Nội dung Thời gian Ghi chú Xét tuyển thẳng (PTXT 301) Nhận hồ sơ xét tuyển và lệ phí Trước 17 giờ 00 ngày 20/6/2026 Xem Mục 1.2.4 Công bố danh sách đủ điều kiện 21/6 → 30/6/2026 Các phương thức còn lại Đăng ký NV 02/7 → 14/7/2026 Xét tuyển 29/7 → 10/8/2026 Công bố trúng tuyển Trước 13/8/2026 2. Ưu tiên xét tuyển Chính sách ưu tiên (khu vực, đối tượng) thực hiện theo quy chế tuyển sinh của Bộ GD&ĐT (Điều 7, Thông tư 06/2026/TT-BGDĐT, ngày 15/02/2026). Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT (hoặc trung cấp, trung học nghề) và một năm kế tiếp. 3. Lệ phí xét tuyển TT Phương thức xét tuyển Số tiền và cách thức nộp tiền 1 Xét kết quả thi tốt nghiệp THPT (PTXT 100) Theo quy định Bộ GD&ĐT 2 Học bạ / HSA / V-SAT 60.000 VNĐ/hồ sơ 3 Xét tuyển thẳng 200.000 VNĐ/hồ sơ 4 Quy đổi IELTS 60.000 VNĐ/hồ sơ",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-thai-nguyen-DTY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 25.85,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 20.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 25.85,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 18.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 20,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 18.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 25.85,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [],
+            "score": 18.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 20,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [],
+            "score": 18.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 26.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 25.85,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 18.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 20,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 18.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 26.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "D07",
+              "D08"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

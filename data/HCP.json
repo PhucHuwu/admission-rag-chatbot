@@ -1084,5 +1084,844 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học Viện Chính Sách và Phát Triển các năm Tại đây",
   "tuition_text": "Học viện thu Học phí theo quy định của Nhà nước đối với trường đại học công lập tự chủ chỉ thường xuyên. Năm học 2026 – 2027, dự kiến mức học phí cho khoá tuyển sinh năm 2026 (khóa 17) cụ thể như sau: (i) Chương trình hệ chuẩn: 28.000.000 đồng/người học/năm học (ii) Chương trình chất lượng cao: 35.000.000 - 40.000.000 đồng/người học/năm học (iii) Chương trình định hướng nghề nghiệp quốc tế: 35.000.000 đồng/người học/năm học Lộ trình tăng học phí hàng năm thực hiện theo Nghị định số 238/2025/NĐ-CP ngày 03/9/2025 của Chính phủ.",
-  "timeline_text": "Học viện xét tuyển theo kế hoạch tuyển sinh chung năm 2026 của Bộ Giáo dục và Đào tạo; Hình thức tuyển sinh: trực tuyến/online, cụ thể: Với xét tuyển thẳng: Thí sinh nộp hồ sơ đăng ký xét tuyển thẳng và ưu tiên xét tuyển trực tuyến/online trên hệ thống của Học viện và theo thông báo chi tiết của Học viện. Với xét tuyển kết hợp: Thí sinh nộp hồ sơ đăng ký xét tuyển kết hợp trực tuyến/online trên hệ thống của Học viện và trên hệ thống của Bộ Giáo dục và Đào tạo theo thông báo chi tiết của Học viện và kế hoạch chung của Bộ Giáo dục và Đào tạo."
+  "timeline_text": "Học viện xét tuyển theo kế hoạch tuyển sinh chung năm 2026 của Bộ Giáo dục và Đào tạo; Hình thức tuyển sinh: trực tuyến/online, cụ thể: Với xét tuyển thẳng: Thí sinh nộp hồ sơ đăng ký xét tuyển thẳng và ưu tiên xét tuyển trực tuyến/online trên hệ thống của Học viện và theo thông báo chi tiết của Học viện. Với xét tuyển kết hợp: Thí sinh nộp hồ sơ đăng ký xét tuyển kết hợp trực tuyến/online trên hệ thống của Học viện và trên hệ thống của Bộ Giáo dục và Đào tạo theo thông báo chi tiết của Học viện và kế hoạch chung của Bộ Giáo dục và Đào tạo.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-chinh-sach-va-phat-trien-HCP.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngành Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09"
+            ],
+            "score": 30.02,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Ngành Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.02,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Ngành Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22.36,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Ngành Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7310106_1",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.61,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310106_2",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh doanh toàn cầu)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 27.14,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Ngành Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.39,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 24.39,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.39,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Ngành Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7340101_1",
+            "program_name": "Ngành Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.91,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340115_2",
+            "program_name": "Ngành Marketing",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.66,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340201_1",
+            "program_name": "Ngành Tài chính - Ngân hàng (Chuyên ngành Tài chính chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 29.9,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340201_2",
+            "program_name": "Ngành Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 26.54,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Ngành Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D09",
+              "D84"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.73,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Ngành Luật Kinh tế",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.73,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngành Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09"
+            ],
+            "score": 30.02,
+            "note": "Điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Ngành Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Ngành Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22.36,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Ngành Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_1",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.61,
+            "note": "Điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7310106_2",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh doanh toàn cầu)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 27.14,
+            "note": "Điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Ngành Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 24.39,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Ngành Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.3,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101_1",
+            "program_name": "Ngành Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.91,
+            "note": "Điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7340115_2",
+            "program_name": "Ngành Marketing",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.66,
+            "note": "Điểm đã quy đổi,Thang điểm 40"
+          },
+          {
+            "program_code": "7340201_1",
+            "program_name": "Ngành Tài chính - Ngân hàng (Chuyên ngành Tài chính chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 29.9,
+            "note": "Điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7340201_2",
+            "program_name": "Ngành Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 26.54,
+            "note": "Điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Ngành Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D09",
+              "D84"
+            ],
+            "score": 24.73,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngành Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 30.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Ngành Kinh tế",
+            "subject_groups": [],
+            "score": 22.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Ngành Kinh tế phát triển",
+            "subject_groups": [],
+            "score": 22.36,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Ngành Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_1",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 28.61,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_2",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh doanh toàn cầu)",
+            "subject_groups": [],
+            "score": 27.14,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Ngành Kinh tế số",
+            "subject_groups": [],
+            "score": 23.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 24.39,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Ngành Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 22.3,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101_1",
+            "program_name": "Ngành Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 28.91,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115_2",
+            "program_name": "Ngành Marketing",
+            "subject_groups": [],
+            "score": 28.66,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201_1",
+            "program_name": "Ngành Tài chính - Ngân hàng (Chuyên ngành Tài chính chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 29.9,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201_2",
+            "program_name": "Ngành Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 26.54,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Ngành Kế toán",
+            "subject_groups": [],
+            "score": 23.23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [],
+            "score": 24.73,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngành Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 30.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Ngành Kinh tế",
+            "subject_groups": [],
+            "score": 22.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Ngành Kinh tế phát triển",
+            "subject_groups": [],
+            "score": 22.36,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Ngành Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_1",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 28.61,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_2",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh doanh toàn cầu)",
+            "subject_groups": [],
+            "score": 27.14,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Ngành Kinh tế số",
+            "subject_groups": [],
+            "score": 23.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 24.39,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Ngành Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 22.3,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101_1",
+            "program_name": "Ngành Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 28.91,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115_2",
+            "program_name": "Ngành Marketing",
+            "subject_groups": [],
+            "score": 28.66,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201_1",
+            "program_name": "Ngành Tài chính - Ngân hàng (Chuyên ngành Tài chính chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 29.9,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201_2",
+            "program_name": "Ngành Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 26.54,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Ngành Kế toán",
+            "subject_groups": [],
+            "score": 23.23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [],
+            "score": 24.73,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngành Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09"
+            ],
+            "score": 30.02,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Ngành Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.02,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Ngành Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22.36,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Ngành Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 22,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310106_1",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh tế đối ngoại chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.61,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7310106_2",
+            "program_name": "Ngành Kinh tế quốc tế (Chuyên ngành Kinh doanh toàn cầu)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 27.14,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Ngành Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.35,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 24.39,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Ngành Quản lý nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.39,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Ngành Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 22.3,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101_1",
+            "program_name": "Ngành Quản trị kinh doanh (Chuyên ngành Quản trị kinh doanh chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.91,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7340115_2",
+            "program_name": "Ngành Marketing",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 28.66,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7340201_1",
+            "program_name": "Ngành Tài chính - Ngân hàng (Chuyên ngành Tài chính chất lượng cao giảng dạy bằng Tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 29.9,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "7340201_2",
+            "program_name": "Ngành Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84"
+            ],
+            "score": 26.54,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi, Thang điểm 40"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Ngành Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84"
+            ],
+            "score": 23.23,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "A01",
+              "D09",
+              "D84"
+            ],
+            "score": 24.73,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Ngành Luật Kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.73,
+            "note": "Kết hợp CCTA và học bạ, điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

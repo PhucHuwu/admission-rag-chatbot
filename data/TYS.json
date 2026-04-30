@@ -489,5 +489,139 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học Y khoa Phạm Ngọc Thạch các năm Tại đây",
   "tuition_text": "Học phí dự kiến năm học 2026 – 2027 căn cứ theo thông báo được đăng tại địa chỉ https://www.pnt.edu.vn/vi/thong-bao/, cụ thể như sau: STT Ngành học Học phí dự kiến năm học 2026 – 2027 (đơn vị tính: Đồng) Ghi chú 1 Y khoa 81.000.000 2 Răng Hàm Mặt 81.000.000 3 Dược học 68.000.000 4 Y học cổ truyền 68.000.000 5 Các ngành cử nhân 47.000.000",
-  "timeline_text": "Thí sinh đăng ký, điều chỉnh, bổ sung nguyện vọng xét tuyển trực tuyến thông qua cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo theo kế hoạch chung và hướng dẫn của Bộ Giáo dục và Đào tạo từ ngày 02/7/2026 đến 17 giờ 00 phút ngày 14/7/2026. Thí sinh phải nộp lệ phí xét tuyển bằng hình thức trực tuyến từ ngày 15/7/2026 đến 17 giờ 00 phút ngày 21/7/2026 theo hướng dẫn của Bộ Giáo dục và Đào tạo. Thí sinh trúng tuyển xác nhận nhập học trực tuyến trên Hệ thống chậm nhất là 17 giờ 00 phút ngày 21/8/2026."
+  "timeline_text": "Thí sinh đăng ký, điều chỉnh, bổ sung nguyện vọng xét tuyển trực tuyến thông qua cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo theo kế hoạch chung và hướng dẫn của Bộ Giáo dục và Đào tạo từ ngày 02/7/2026 đến 17 giờ 00 phút ngày 14/7/2026. Thí sinh phải nộp lệ phí xét tuyển bằng hình thức trực tuyến từ ngày 15/7/2026 đến 17 giờ 00 phút ngày 21/7/2026 theo hướng dẫn của Bộ Giáo dục và Đào tạo. Thí sinh trúng tuyển xác nhận nhập học trực tuyến trên Hệ thống chậm nhất là 17 giờ 00 phút ngày 21/8/2026.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-khoa-pham-ngoc-thach-TYS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng Hàm Mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.26,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 20.55,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7720699",
+            "program_name": "Khúc xạ nhãn khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

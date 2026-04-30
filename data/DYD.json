@@ -970,5 +970,967 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Yersin Đà Lạt các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "1) Phiếu đăng ký xét tuyển 2) Bản sao học bạ THPT (có chứng thực hoặc mang theo bản chính để đối chiếu). 3) Bản sao bằng tốt nghiệp THPT có chứng thực hoặc giấy chứng nhận tốt nghiệp tạm thời (đối với thí sinh tốt nghiệp năm 2026; có thể bổ sung sau). 4) Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo: giấy chứng nhận đối tượng ưu tiên, Sổ hộ khẩu… (nếu có). 5) Lệ phí xét tuyển: 20.000đ/1 nguyện vọng."
+  "timeline_text": "1) Phiếu đăng ký xét tuyển 2) Bản sao học bạ THPT (có chứng thực hoặc mang theo bản chính để đối chiếu). 3) Bản sao bằng tốt nghiệp THPT có chứng thực hoặc giấy chứng nhận tốt nghiệp tạm thời (đối với thí sinh tốt nghiệp năm 2026; có thể bổ sung sau). 4) Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo: giấy chứng nhận đối tượng ưu tiên, Sổ hộ khẩu… (nếu có). 5) Lệ phí xét tuyển: 20.000đ/1 nguyện vọng.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-yersin-da-lat-DYD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D11",
+              "D01",
+              "X79",
+              "X78",
+              "A01"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C02",
+              "B08",
+              "D07",
+              "C00"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D11",
+              "X78",
+              "C00",
+              "C03",
+              "C04"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "X02",
+              "C00",
+              "X01"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C01",
+              "C04",
+              "X02",
+              "K01",
+              "X25"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "X01",
+              "C00",
+              "D14",
+              "D15"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B08",
+              "A02",
+              "B00",
+              "X16"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "X16",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "X15",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "C03",
+              "C04",
+              "D15",
+              "D14",
+              "C00",
+              "A07"
+            ],
+            "score": 15.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D11",
+              "D01",
+              "X79",
+              "X78",
+              "A01"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D11",
+              "D01",
+              "X79",
+              "X78",
+              "A01"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C02",
+              "B08",
+              "D07",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C02",
+              "B08",
+              "D07",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D11",
+              "X78",
+              "C00",
+              "C03",
+              "C04"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D11",
+              "X78",
+              "C00",
+              "C03",
+              "C04"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "X02",
+              "C00",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "X02",
+              "C00",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C01",
+              "C04",
+              "X02",
+              "K01",
+              "X25"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C01",
+              "C04",
+              "X02",
+              "K01",
+              "X25"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "X01",
+              "C00",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "X01",
+              "C00",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07",
+              "D01",
+              "K01",
+              "X27",
+              "X56",
+              "X02"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B08",
+              "X16",
+              "X14",
+              "X66",
+              "C08",
+              "D01",
+              "B03"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "X03",
+              "H01",
+              "V00",
+              "V02"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B08",
+              "A02",
+              "B00",
+              "X16"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển; Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B08",
+              "A02",
+              "B00",
+              "X16"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3); Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "X16",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển; Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "X16",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3); Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "X15",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển; Kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "X15",
+              "B08",
+              "A02",
+              "X14",
+              "D07",
+              "X10",
+              "X12",
+              "A00"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3); Kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "C03",
+              "C04",
+              "D15",
+              "D14",
+              "C00",
+              "A07"
+            ],
+            "score": 18,
+            "note": "Điểm TB cả năm lớp 12 (nhân hệ số 3)"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "C03",
+              "C04",
+              "D15",
+              "D14",
+              "C00",
+              "A07"
+            ],
+            "score": 18,
+            "note": "Tổng điểm TB 3 môn lớp 12 theo tổ hợp xét tuyển"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 20,
+            "note": "Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 20,
+            "note": "Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

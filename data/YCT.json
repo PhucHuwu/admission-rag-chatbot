@@ -674,5 +674,163 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Y Dược Cần Thơ các năm Tại đây",
   "tuition_text": "Học phí dự kiến với sinh viên đại học chính quy: TT Ngành Học phí năm học 1 Y khoa, Dược học 71.050.000 đ 2 Răng hàm mặt 66.500.000 đ 3 Y học cổ truyền, Y học dự phòng 64.050.000 đ 4 Điều dưỡng, Kỹ thuật xét nghiệm y học 57.137.000 đ 5 Kỹ thuật Hình ảnh y học, Hộ sinh, Y tế công cộng, Dinh dưỡng, KT Y sinh, Kỹ thuật Phục hồi chức năng, Tâm lý học (dự kiến) 50.141.000 đ - Mức học phí đối với diện đào tạo theo hợp đồng trên cơ sở ký kết đào tạo với UBND các tỉnh theo Nghị định 81/2021/NĐ-CP và Nghị định 97/2023/NĐ-CP.",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-can-tho-YCT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520212",
+            "program_name": "Kỹ thuật Y sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X06"
+            ],
+            "score": 18.85,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.6,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.4,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật Hình ảnh y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.88,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.88,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.4,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

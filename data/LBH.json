@@ -309,5 +309,140 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Lục quân 2 các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "- Đăng kí sơ tuyển: Thanh niên ngoài Quân đội sơ tuyển tại Ban Tuyển sinh quân sự cấp xã (phường, đặc khu). Quân nhân tại ngũ sơ tuyển tại Ban Tuyển sinh quân sự đơn vị cấp trung đoàn. Thời gian: Từ 10/02 đến 15/04/2026 - Đăng kí xét tuyển: Thí sinh được đăng ký một hoặc nhiều phương thức xét tuyển của Trường. Khi có nhiều thí sinh cùng bằng điểm, xét tiêu chí phụ theo quy định của Bộ Quốc phòng"
+  "timeline_text": "- Đăng kí sơ tuyển: Thanh niên ngoài Quân đội sơ tuyển tại Ban Tuyển sinh quân sự cấp xã (phường, đặc khu). Quân nhân tại ngũ sơ tuyển tại Ban Tuyển sinh quân sự đơn vị cấp trung đoàn. Thời gian: Từ 10/02 đến 15/04/2026 - Đăng kí xét tuyển: Thí sinh được đăng ký một hoặc nhiều phương thức xét tuyển của Trường. Khi có nhiều thí sinh cùng bằng điểm, xét tiêu chí phụ theo quy định của Bộ Quốc phòng",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-LBH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [],
+            "score": 750,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [],
+            "score": 825,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

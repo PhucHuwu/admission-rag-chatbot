@@ -2182,5 +2182,1131 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Lạc Hồng các năm Tại đây",
   "tuition_text": "TT Tên ngành Mã ngành Học phí (đ/học kỳ) 1 Dược học (Dược sĩ) 7720201 25.500.000 2 Công nghệ thông tin 7480201 19.500.000 3 An toàn thông tin 7480202 19.500.000 4 Trí tuệ nhân tạo (AI) 7480107 19.000.000 5 Thương mại điện tử 7340122 19.000.000 6 Truyền thông đa phương tiện 7320104 19.000.000 7 Công nghệ kỹ thuật công trình xây dựng 7510102 18.500.000 8 Công nghệ kỹ thuật cơ khí 7510201 19.000.000 9 Công nghệ kỹ thuật Cơ điện tử 7510203 19.000.000 10 Công nghệ kỹ thuật điện, điện tử 7510301 19.500.000 11 Công nghệ kỹ thuật điều khiển và tự động hóa 7510303 19.000.000 12 Công nghệ kỹ thuật ô tô 7510205 19.500.000 13 Công nghệ thực phẩm 7540101 18.500.000 14 Khoa học môi trường 7440301 18.500.000 15 Quản trị kinh doanh 7340101 19.500.000 16 Kinh doanh quốc tế 7310120 19.000.000 17 Marketing 7340115 19.000.000 18 Luật kinh tế 7380107 19.000.000 19 Luật 7380101 19.000.000 20 Quản trị dịch vụ du lịch và lữ hành 7810103 18.500.000 21 Kế toán 7340301 19.000.000 22 Tài chính - Ngân hàng 7340201 19.500.000 23 Logistics và Quản lý chuỗi cung ứng 7510605 19.500.000 24 Quản lý công nghiệp 7510601 19.000.000 25 Quan hệ công chúng 7320108 19.000.000 26 Tâm lý học 7310401 19.000.000 27 Ngôn ngữ Anh 7220201 19.500.000 28 Ngôn ngữ Trung Quốc 7220204 19.000.000 29 Đông phương học 7310608 19.000.000",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-lac-hong-DLH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "X78",
+              "D14",
+              "D15",
+              "D10",
+              "D09"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7310120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học - Nhật Bản học - Hàn Quốc học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "C04",
+              "X01",
+              "C03",
+              "X04"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "C04",
+              "X01",
+              "C03",
+              "X04"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C03",
+              "C04"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường (03 Chuyên ngành) - Công nghệ môi trường - An toàn, sức khỏe và Môi trường - Năng lượng xanh và Sinh thái môi trường",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X08",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 15.75,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "X04",
+              "A00",
+              "A03",
+              "A04"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "X04",
+              "A00",
+              "A03",
+              "A04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng (02 Chuyên ngành) - Xây dựng cầu đường - Xây dựng dân dụng và công nghiệp",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15.6,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật Cơ khí",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật Cơ điện tử",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ôtô - Công nghệ kỹ thuật ô tô - Công nghệ kỹ thuật ô tô điện",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử - Công nghệ kỹ thuật diện, diện tử - Công nghệ kỹ thuật vi mạch",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "CNKT điều khiển và tự động hóa",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (03 Chuyên ngành) - Công nghệ thực phẩm - Quản lý chất lượng và An toàn thực phẩm - Khoa học thực phẩm và Dinh dưỡng",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C02",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Dược sĩ)",
+            "subject_groups": [
+              "D01",
+              "C02",
+              "B03",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "X78",
+              "D14",
+              "D15",
+              "D10",
+              "D09"
+            ],
+            "score": 18.78,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 18.6,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7310120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 19.98,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học - Nhật Bản học - Hàn Quốc học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 19.11,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "C04",
+              "X01",
+              "C03",
+              "X04"
+            ],
+            "score": 18.21,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "C04",
+              "X01",
+              "C03",
+              "X04"
+            ],
+            "score": 17.91,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.39,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.1,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C03",
+              "C04"
+            ],
+            "score": 20.43,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 19.56,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.3,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.1,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường (03 Chuyên ngành) - Công nghệ môi trường - An toàn, sức khỏe và Môi trường - Năng lượng xanh và Sinh thái môi trường",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X08",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 18.1,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "X04",
+              "A00",
+              "A03",
+              "A04"
+            ],
+            "score": 18.1,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "X04",
+              "A00",
+              "A03",
+              "A04"
+            ],
+            "score": 16.08,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng (02 Chuyên ngành) - Xây dựng cầu đường - Xây dựng dân dụng và công nghiệp",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.1,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật Cơ khí",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.93,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật Cơ điện tử",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.18,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ôtô - Công nghệ kỹ thuật ô tô - Công nghệ kỹ thuật ô tô điện",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.68,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử - Công nghệ kỹ thuật diện, diện tử - Công nghệ kỹ thuật vi mạch",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.78,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "CNKT điều khiển và tự động hóa",
+            "subject_groups": [
+              "D01",
+              "X02",
+              "X04",
+              "X08",
+              "A03",
+              "A04"
+            ],
+            "score": 18.27,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 18.12,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (03 Chuyên ngành) - Công nghệ thực phẩm - Quản lý chất lượng và An toàn thực phẩm - Khoa học thực phẩm và Dinh dưỡng",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C02",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 18.24,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Dược sĩ)",
+            "subject_groups": [
+              "D01",
+              "C02",
+              "B03",
+              "B00",
+              "D07",
+              "B08"
+            ],
+            "score": 21.27,
+            "note": "Điểm trung bình lớp 12"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X04",
+              "Y09",
+              "C04",
+              "C03"
+            ],
+            "score": 19.83,
+            "note": "Điểm trung bình lớp 12"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học - Nhật Bản học - Hàn Quốc học",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường (03 Chuyên ngành) - Công nghệ môi trường - An toàn, sức khỏe và Môi trường - Năng lượng xanh và Sinh thái môi trường",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng (02 Chuyên ngành) - Xây dựng cầu đường - Xây dựng dân dụng và công nghiệp",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật Cơ khí",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật Cơ điện tử",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ôtô - Công nghệ kỹ thuật ô tô - Công nghệ kỹ thuật ô tô điện",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử - Công nghệ kỹ thuật diện, diện tử - Công nghệ kỹ thuật vi mạch",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "CNKT điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (03 Chuyên ngành) - Công nghệ thực phẩm - Quản lý chất lượng và An toàn thực phẩm - Khoa học thực phẩm và Dinh dưỡng",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Dược sĩ)",
+            "subject_groups": [],
+            "score": 700,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 760,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7310120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học - Nhật Bản học - Hàn Quốc học",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường (03 Chuyên ngành) - Công nghệ môi trường - An toàn, sức khỏe và Môi trường - Năng lượng xanh và Sinh thái môi trường",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng (02 Chuyên ngành) - Xây dựng cầu đường - Xây dựng dân dụng và công nghiệp",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật Cơ khí",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật Cơ điện tử",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ôtô - Công nghệ kỹ thuật ô tô - Công nghệ kỹ thuật ô tô điện",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử - Công nghệ kỹ thuật diện, diện tử - Công nghệ kỹ thuật vi mạch",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "CNKT điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (03 Chuyên ngành) - Công nghệ thực phẩm - Quản lý chất lượng và An toàn thực phẩm - Khoa học thực phẩm và Dinh dưỡng",
+            "subject_groups": [],
+            "score": 500,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Dược sĩ)",
+            "subject_groups": [],
+            "score": 700,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 633,
+            "note": "PT: ĐGNL trường Đại học Lạc Hồng"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -202,5 +202,121 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn trường Đại học Y khoa Vinh các năm Tại đây",
   "tuition_text": "Thu theo Quyết định số 448/QĐ-ĐHYKV ngày 19/03/2024 của Hiệu trưởng Trường ĐHYK Vinh. Năm học 2024-2025, mức thu theo từng ngành như sau: - Các ngành Y khoa và Dược học: 3.100.000 đồng/tháng/sinh viên - Các ngành Y học dự phòng, Điều dưỡng và Kỹ thuật xét nghiệm y học: 2.340.000 đồng/tháng/ sinh viên",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-khoa-vinh-YKV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 17.25,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "DLT7720301",
+            "program_name": "Điều dưỡng liên thông",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 14,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -87,5 +87,51 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Khoa Giáo Dục Thể Chất – Đại Học Huế các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-giao-duc-the-chat-hue-DHC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thế chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T07",
+              "T08"
+            ],
+            "score": 21.41,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thế chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T07",
+              "T08"
+            ],
+            "score": 23.2,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

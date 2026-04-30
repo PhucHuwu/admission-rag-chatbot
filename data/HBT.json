@@ -482,5 +482,1576 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học viện Báo chí và Tuyên truyền các năm Tại đây",
   "tuition_text": "Học phí dự kiến với sinh viên chính quy khóa 46 (2026 – 2030) - Các chương trình đào tạo giảng viên lý luận chính trị: Triết học, Chủ nghĩa xã hội khoa học, Kinh tế chính trị, Lịch sử Đảng Cộng sản Việt Nam, Tư tưởng Hồ Chí Minh: miễn học phí. - Các chương trình đào tạo hệ đại trà, dự kiến: 558.800đ/tín chỉ (chưa bao gồm 13 tín chỉ Giáo dục thể chất, Giáo dục Quốc phòng - An ninh). - Các chương trình đào tạo đạt kiểm định chất lượng, dự kiến: 1.175.400d/tín chỉ (chưa bao gồm 13 tín chỉ Giáo dục thể chất, Giáo dục Quốc phòng - An ninh). - Các chương trình đào tạo đạt kiểm định chất lượng, gồm: Quảng cáo; Quan hệ công chúng chuyên nghiệp; Quan hệ chính trị và truyền thông quốc tế; Thông tin đối ngoại; Ngôn ngữ Anh; Xã hội học; Biên tập xuất bản; Báo in; Ảnh báo chí; Báo phát thanh; Báo truyền hình; Quay phim truyền hình; Báo mạng điện tử; Truyền thông đại chúng; Truyền thông đa phương tiện; Truyền thông marketing; Xuất bản điện tử; Quản lý công; Truyền thông quốc tế; Công tác xã hội; Quản lý nhà nước; Quản lý kinh tế; Truyền thông chính sách; Chính trị phát triển. - Lộ trình tăng học phí cho từng năm và điều chỉnh theo hướng dẫn của Chính phủ, Bộ Giáo dục và Đào tạo và Học viện Chính trị quốc gia Hồ Chí Minh.",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-bao-chi-va-tuyen-truyen-HBT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "527",
+            "program_name": "Kinh tế, chuyên ngành Quản lý kinh tế",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 24.58,
+            "note": null
+          },
+          {
+            "program_code": "527",
+            "program_name": "Kinh tế, chuyên ngành Quản lý kinh tế",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "530",
+            "program_name": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "530",
+            "program_name": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "531",
+            "program_name": "Chính trị học, chuyên ngành Chính trị phát triển",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.07,
+            "note": null
+          },
+          {
+            "program_code": "531",
+            "program_name": "Chính trị học, chuyên ngành Chính trị phát triển",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.57,
+            "note": null
+          },
+          {
+            "program_code": "533",
+            "program_name": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.17,
+            "note": null
+          },
+          {
+            "program_code": "533",
+            "program_name": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "538",
+            "program_name": "Chính trị học, chuyên ngành Truyền thông chính sách",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "538",
+            "program_name": "Chính trị học, chuyên ngành Truyền thông chính sách",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.82,
+            "note": null
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 34.57,
+            "note": null
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 34.82,
+            "note": null
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.32,
+            "note": null
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 34.08,
+            "note": null
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 34.83,
+            "note": null
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 35.08,
+            "note": null
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.58,
+            "note": null
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 34.3,
+            "note": null
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 35.05,
+            "note": null
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 35.3,
+            "note": null
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.8,
+            "note": null
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 34.96,
+            "note": null
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 35.71,
+            "note": null
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 35.96,
+            "note": null
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 35.46,
+            "note": null
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.64,
+            "note": null
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 34.39,
+            "note": null
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 34.64,
+            "note": null
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.14,
+            "note": null
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 34.57,
+            "note": null
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 35.32,
+            "note": null
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 35.57,
+            "note": null
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 35.07,
+            "note": null
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35,
+            "note": null
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 35.75,
+            "note": null
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36,
+            "note": null
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 35.5,
+            "note": null
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35,
+            "note": null
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 35.75,
+            "note": null
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36,
+            "note": null
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 35.5,
+            "note": null
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.73,
+            "note": null
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36.48,
+            "note": null
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36.73,
+            "note": null
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 36.23,
+            "note": null
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 36.2,
+            "note": null
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36.95,
+            "note": null
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 37.2,
+            "note": null
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 36.7,
+            "note": null
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 36.5,
+            "note": null
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 37.25,
+            "note": null
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 37.5,
+            "note": null
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.25,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36.25,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 35.75,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.11,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.61,
+            "note": null
+          },
+          {
+            "program_code": "7229008",
+            "program_name": "Chủ nghĩa xã hội khoa học",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 22.96,
+            "note": null
+          },
+          {
+            "program_code": "7229008",
+            "program_name": "Chủ nghĩa xã hội khoa học",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.46,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C03",
+              "D14"
+            ],
+            "score": 34.76,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 35.76,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "X71"
+            ],
+            "score": 35.26,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 24.32,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24.82,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.18,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 23.68,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 24.44,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24.94,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 36.5,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 37.25,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 37.5,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.74,
+            "note": null
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36.49,
+            "note": null
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36.74,
+            "note": null
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 36.24,
+            "note": null
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 36,
+            "note": null
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36.75,
+            "note": null
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 36.5,
+            "note": null
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.5,
+            "note": null
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 36.25,
+            "note": null
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 36.5,
+            "note": null
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 36,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D01",
+              "X02"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C03",
+              "X01"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.83,
+            "note": null
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 34.58,
+            "note": null
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 34.83,
+            "note": null
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.33,
+            "note": null
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.69,
+            "note": null
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 34.44,
+            "note": null
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 34.69,
+            "note": null
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 34.19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "527",
+            "program_name": "Kinh tế, chuyên ngành Quản lý kinh tế",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 27.33,
+            "note": null
+          },
+          {
+            "program_code": "530",
+            "program_name": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.02,
+            "note": null
+          },
+          {
+            "program_code": "531",
+            "program_name": "Chính trị học, chuyên ngành Chính trị phát triển",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.09,
+            "note": null
+          },
+          {
+            "program_code": "533",
+            "program_name": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.17,
+            "note": null
+          },
+          {
+            "program_code": "538",
+            "program_name": "Chính trị học, chuyên ngành Truyền thông chính sách",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.93,
+            "note": null
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 36.62,
+            "note": null
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 36.84,
+            "note": null
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.03,
+            "note": null
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.61,
+            "note": null
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 36.46,
+            "note": null
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.27,
+            "note": null
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.64,
+            "note": null
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.64,
+            "note": null
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.27,
+            "note": null
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.67,
+            "note": null
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.93,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 37.85,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7229008",
+            "program_name": "Chủ nghĩa xã hội khoa học",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C03",
+              "D14",
+              "X70",
+              "X71"
+            ],
+            "score": 37.43,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 27.11,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.18,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.65,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 27.21,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.93,
+            "note": null
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.28,
+            "note": null
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.5,
+            "note": null
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 38.07,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 27.01,
+            "note": null
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 36.63,
+            "note": null
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "X78",
+              "X79"
+            ],
+            "score": 36.51,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "527",
+            "program_name": "Kinh tế, chuyên ngành Quản lý kinh tế",
+            "subject_groups": [],
+            "score": 26.66,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "530",
+            "program_name": "Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa",
+            "subject_groups": [],
+            "score": 25.23,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "531",
+            "program_name": "Chính trị học, chuyên ngành Chính trị phát triển",
+            "subject_groups": [],
+            "score": 25.31,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "533",
+            "program_name": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+            "subject_groups": [],
+            "score": 25.4,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "538",
+            "program_name": "Chính trị học, chuyên ngành Truyền thông chính sách",
+            "subject_groups": [],
+            "score": 26.23,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "602",
+            "program_name": "Báo chí, chuyên ngành Báo in",
+            "subject_groups": [],
+            "score": 34.99,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "603",
+            "program_name": "Báo chí, chuyên ngành Ảnh báo chí",
+            "subject_groups": [],
+            "score": 35.21,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "604",
+            "program_name": "Báo chí, chuyên ngành Báo phát thanh",
+            "subject_groups": [],
+            "score": 35.4,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "605",
+            "program_name": "Báo chí, chuyên ngành Báo truyền hình",
+            "subject_groups": [],
+            "score": 35.98,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "606",
+            "program_name": "Báo chí, chuyên ngành Quay phim truyền hình",
+            "subject_groups": [],
+            "score": 34.83,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "607",
+            "program_name": "Báo chí, chuyên ngành Báo mạng điện tử",
+            "subject_groups": [],
+            "score": 35.64,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "610",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+            "subject_groups": [],
+            "score": 36.01,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "611",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+            "subject_groups": [],
+            "score": 36.01,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "614",
+            "program_name": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu",
+            "subject_groups": [],
+            "score": 36.65,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "615",
+            "program_name": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+            "subject_groups": [],
+            "score": 37.05,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "616",
+            "program_name": "Quan hệ công chúng, chuyên ngành Truyền thông marketing",
+            "subject_groups": [],
+            "score": 37.32,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 36.23,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 25.35,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7229008",
+            "program_name": "Chủ nghĩa xã hội khoa học",
+            "subject_groups": [],
+            "score": 25.21,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 35.8,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [],
+            "score": 26.42,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 25.41,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 25.92,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 26.53,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 37.32,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7320105",
+            "program_name": "Truyền thông đại chúng",
+            "subject_groups": [],
+            "score": 36.65,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7320107",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [],
+            "score": 36.88,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7320110",
+            "program_name": "Quảng cáo",
+            "subject_groups": [],
+            "score": 36.44,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 26.32,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "801",
+            "program_name": "Xuất bản, chuyên ngành Biên tập xuất bản",
+            "subject_groups": [],
+            "score": 35,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          },
+          {
+            "program_code": "802",
+            "program_name": "Xuất bản, chuyên ngành Xuất bản điện tử",
+            "subject_groups": [],
+            "score": 34.88,
+            "note": "CCQT tiếng Anh, chứng chỉ SAT và học bạ THPT"
+          }
+        ]
+      }
+    ]
+  }
 }

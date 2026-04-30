@@ -492,5 +492,161 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học Viện Kỹ Thuật Quân Sự các năm Tại đây",
   "tuition_text": "Đối với học viên quân sự: Khi thí sinh trúng tuyển và nhập học trở thành học viên của Học viện, học viên được bao cấp toàn bộ về kinh phí đào tạo, đồng thời được nhận phụ cấp sinh hoạt hàng tháng theo quy định của Bộ Quốc phòng",
-  "timeline_text": "Thí sinh đăng ký xét tuyển đào tạo kỹ sư quân sự cần thực hiện theo 2 bước sau: Bước 1: Làm hồ sơ đăng ký tại Ban chỉ huy quân sự xã (phường) nơi đăng ký thường trú. Thời gian: 10/02/2026 - 15/4/2026 Bước 2: Làm thủ tục đăng ký xét tuyển theo quy định của Bộ GD&ĐT. Học viện xét tuyển các thí sinh đã hoàn thành sơ tuyển tại Bước 1 và đăng ký nguyện vọng cao nhất (NV1) vào Học viện."
+  "timeline_text": "Thí sinh đăng ký xét tuyển đào tạo kỹ sư quân sự cần thực hiện theo 2 bước sau: Bước 1: Làm hồ sơ đăng ký tại Ban chỉ huy quân sự xã (phường) nơi đăng ký thường trú. Thời gian: 10/02/2026 - 15/4/2026 Bước 2: Làm thủ tục đăng ký xét tuyển theo quy định của Bộ GD&ĐT. Học viện xét tuyển các thí sinh đã hoàn thành sơ tuyển tại Bước 1 và đăng ký nguyện vọng cao nhất (NV1) vào Học viện.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ky-thuat-quan-su-he-quan-su-KQH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 28.83,
+            "note": null
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 29.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 27.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 26.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 28.83,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 29.25,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+            "subject_groups": [],
+            "score": 27.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+            "subject_groups": [],
+            "score": 26.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 28.83,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nữ)",
+            "subject_groups": [],
+            "score": 29.25,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Bắc, thí sinh Nam)",
+            "subject_groups": [],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "QS",
+            "program_name": "Kỹ sư quân sự (miền Nam, thí sinh Nam)",
+            "subject_groups": [],
+            "score": 27.1,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

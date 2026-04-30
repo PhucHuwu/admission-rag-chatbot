@@ -144,5 +144,65 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Kỹ thuật mật mã các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ky-thuat-mat-ma-KMA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201KMA",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 24.17,
+            "note": null
+          },
+          {
+            "program_code": "7480202KMA",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 24.42,
+            "note": null
+          },
+          {
+            "program_code": "7480202KMP",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 23.2,
+            "note": "Đào tạo tại TPHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 23.48,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

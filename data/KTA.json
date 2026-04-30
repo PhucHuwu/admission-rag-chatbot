@@ -703,5 +703,525 @@
   ],
   "cutoff_scores_text": null,
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kien-truc-ha-noi-KTA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.6,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 19.85,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7480201_1",
+            "program_name": "Công nghệ đa phương tiện (Chuyên ngành của ngành Công nghệ thông tin)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7480201_2",
+            "program_name": "Công nghệ game (Chuyên ngành thuộc ngành Công nghệ thông tin)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7510105",
+            "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Xây dựng dân dụng và công nghiệp (Chuyên ngành thuộc ngành Kỹ thuật xâv dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.75,
+            "note": null
+          },
+          {
+            "program_code": "7580201_1",
+            "program_name": "Xây dựng công trình ngầm dô thị (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 18.35,
+            "note": null
+          },
+          {
+            "program_code": "7580201_2",
+            "program_name": "Quản lý dự án xây dựng (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 19.98,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật hạ tầng đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": null
+          },
+          {
+            "program_code": "7580210_1",
+            "program_name": "Kỹ thuật môi trường đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": null
+          },
+          {
+            "program_code": "7580210_2",
+            "program_name": "Công nghệ cơ điện công trình (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": null
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế Xây dựng",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.85,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7580302_1",
+            "program_name": "Quản lý bất động sản (Chuyên ngành thuộc ngành Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 18.6,
+            "note": null
+          },
+          {
+            "program_code": "7580302_2",
+            "program_name": "Quản lý vận tải và Logistics (Chuyên ngành thuộc ngành Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 22,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7510105",
+            "program_name": "Công nghệ kỹ thuật vật liệu xây dựng",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Xây dựng dân dụng và công nghiệp (Chuyên ngành thuộc ngành Kỹ thuật xâv dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 20.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201_1",
+            "program_name": "Xây dựng công trình ngầm dô thị (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 18.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201_2",
+            "program_name": "Quản lý dự án xây dựng (Chuyên ngành thuộc ngành Kỹ thuật xây dựng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 19.98,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật hạ tầng đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sớ hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580210_1",
+            "program_name": "Kỹ thuật môi trường đô thị (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580210_2",
+            "program_name": "Công nghệ cơ điện công trình (Chuyên ngành thuộc ngành Kỹ thuật cơ sở hạ tầng)",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 16.1,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210105",
+            "program_name": "Điêu khắc",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 22.75,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210105_1",
+            "program_name": "Mỹ thuật đô thị (Chuyên ngành thuộc ngành Điêu khắc)",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 22.75,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 24,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210403_1",
+            "program_name": "Nghệ thuật số (Chuyên ngành thuộc Thiết kế đồ họa)",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 24.15,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 22.99,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 27.77,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101_1",
+            "program_name": "Chương trình tiên tiến ngành Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 24.85,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580102",
+            "program_name": "Kiến trúc cảnh quan",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 25.75,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580105",
+            "program_name": "Quy hoạch vùng và đô thị",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 26.3,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580105_1",
+            "program_name": "Thiết kế đô thị (Chuyên ngành thuộc ngành Quy hoạch vùng và đô thị)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 26.25,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "H00",
+              "H02"
+            ],
+            "score": 23,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT và năng khiếu, điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

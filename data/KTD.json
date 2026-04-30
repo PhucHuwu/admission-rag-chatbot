@@ -458,5 +458,541 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Kiến Trúc Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Xem chi tiết Bảng quy đổi điểm của các phương thức xét tuyển tại trường Đại Học Kiến Trúc Đà Nẵng năm 2025 TẠI ĐÂY Phương thức xét tuyển Phương thức 1: Xét theo điểm thi tốt nghiệp THPT năm 2026 Phương thức 2: Kết hợp kết quả thi tốt nghiệp và điểm thi năng khiếu Phương thức 3: Xét theo kết quả học tập cấp THPT (học bạ) Phương thức 4: Kết hợp kết quả học tập cấp THPT (học bạ) & điểm thi năng khiếu Cách đăng ký xét tuyển Đợt 1: Thí sinh ĐKXT trực tuyến theo quy định và kế hoạch chung trên Cổng thông tin tuyển sinh của Bộ GDĐT (bắt buộc). Thí sinh chọn căn cứ để xét tuyển bao gồm: Thứ tự nguyện vọng; Mã trường KTD - Trường Đại học Kiến trúc Đà Nẵng; Mã ngành học. Các đợt bổ sung (nếu có): Thí sinh ĐKXT trực tuyến theo đường dẫn http://xettuyen.dau.edu.vn và gửi hồ sơ ĐKXT về Trường qua bưu điện theo hình thức chuyển phát nhanh (hoặc nộp trực tiếp tại Trường). Thời gian: 02/07 - 14/07/2026 Từ 22/08/2026 (các đợt bổ sung nếu có)."
+  "timeline_text": "Xem chi tiết Bảng quy đổi điểm của các phương thức xét tuyển tại trường Đại Học Kiến Trúc Đà Nẵng năm 2025 TẠI ĐÂY Phương thức xét tuyển Phương thức 1: Xét theo điểm thi tốt nghiệp THPT năm 2026 Phương thức 2: Kết hợp kết quả thi tốt nghiệp và điểm thi năng khiếu Phương thức 3: Xét theo kết quả học tập cấp THPT (học bạ) Phương thức 4: Kết hợp kết quả học tập cấp THPT (học bạ) & điểm thi năng khiếu Cách đăng ký xét tuyển Đợt 1: Thí sinh ĐKXT trực tuyến theo quy định và kế hoạch chung trên Cổng thông tin tuyển sinh của Bộ GDĐT (bắt buộc). Thí sinh chọn căn cứ để xét tuyển bao gồm: Thứ tự nguyện vọng; Mã trường KTD - Trường Đại học Kiến trúc Đà Nẵng; Mã ngành học. Các đợt bổ sung (nếu có): Thí sinh ĐKXT trực tuyến theo đường dẫn http://xettuyen.dau.edu.vn và gửi hồ sơ ĐKXT về Trường qua bưu điện theo hình thức chuyển phát nhanh (hoặc nộp trực tiếp tại Trường). Thời gian: 02/07 - 14/07/2026 Từ 22/08/2026 (các đợt bổ sung nếu có).",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kien-truc-da-nang-KTD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04",
+              "H00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị Kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật Điện - Điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07",
+              "X26",
+              "X27",
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07",
+              "X26",
+              "X27",
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị Dịch vụ du lịch và Lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04",
+              "H00"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị Kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật Điện - Điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07",
+              "X26",
+              "X27",
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "Thiết kế nội thất",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07",
+              "X26",
+              "X27",
+              "V00",
+              "V01",
+              "V02",
+              "V03",
+              "V04"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị Dịch vụ du lịch và Lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

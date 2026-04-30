@@ -464,5 +464,2966 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Khoa học tự nhiên - ĐHQG TPHCM các năm Tại đây",
   "tuition_text": "",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-tphcm-QST.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C02",
+              "X02",
+              "X06",
+              "X10"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 22.88,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "D01",
+              "D07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 20.96,
+            "note": null
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 20.57,
+            "note": null
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 20.06,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 22.86,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 24.72,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 24.3,
+            "note": null
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 23.15,
+            "note": null
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 22.55,
+            "note": null
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CT TCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CT TCTA)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 26.18,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.37,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 25.87,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 24.68,
+            "note": null
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.65,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 23.05,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 22.35,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A00",
+              "A06"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 21.05,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "B00",
+              "B02"
+            ],
+            "score": 21.19,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A07",
+              "C01",
+              "C02",
+              "C04",
+              "X02"
+            ],
+            "score": 22.55,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "D01",
+              "D10"
+            ],
+            "score": 20.71,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.46,
+            "note": null
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A04",
+              "X06",
+              "X07",
+              "X08",
+              "X10"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.15,
+            "note": null
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.65,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.06,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 19.95,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 21.81,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 19.39,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 17.6,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 25.36,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 25.66,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.66,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 25.11,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 27.92,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.17,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 27.67,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 28.5,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 27.92,
+            "note": null
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 29.92,
+            "note": null
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "X26"
+            ],
+            "score": 29.81,
+            "note": null
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 29.56,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 29.39,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "X26"
+            ],
+            "score": 29.1,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.85,
+            "note": null
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 25.87,
+            "note": null
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 24.62,
+            "note": null
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 24.99,
+            "note": null
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 24.37,
+            "note": null
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 27.27,
+            "note": null
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 26.66,
+            "note": null
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.16,
+            "note": null
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 23.61,
+            "note": null
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 25.22,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 25.07,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.82,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 24.07,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 24.86,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.54,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 19.56,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 25.35,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 25.1,
+            "note": null
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 24.45,
+            "note": null
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "75202a1",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 28.27,
+            "note": null
+          },
+          {
+            "program_code": "75202a1",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 27.61,
+            "note": null
+          },
+          {
+            "program_code": "75202a1",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "75202a1",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 27.36,
+            "note": null
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.88,
+            "note": null
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.84,
+            "note": null
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 26.13,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "X26"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C04"
+            ],
+            "score": 22.95,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "D01",
+              "D10"
+            ],
+            "score": 21.15,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.9,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A01",
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 20.75,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [],
+            "score": 797,
+            "note": null
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [],
+            "score": 696,
+            "note": null
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [],
+            "score": 673,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [],
+            "score": 817,
+            "note": null
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [],
+            "score": 800,
+            "note": null
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CTTCTA)",
+            "subject_groups": [],
+            "score": 804,
+            "note": null
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [],
+            "score": 917,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [],
+            "score": 886,
+            "note": null
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [],
+            "score": 797,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [],
+            "score": 790,
+            "note": null
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [],
+            "score": 742,
+            "note": null
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [],
+            "score": 707,
+            "note": null
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [],
+            "score": 711,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [],
+            "score": 658,
+            "note": null
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [],
+            "score": 573,
+            "note": null
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [],
+            "score": 910,
+            "note": null
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [],
+            "score": 1019,
+            "note": null
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [],
+            "score": 1136,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 1092,
+            "note": null
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [],
+            "score": 906,
+            "note": null
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [],
+            "score": 972,
+            "note": null
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [],
+            "score": 842,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [],
+            "score": 832,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [],
+            "score": 673,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [],
+            "score": 910,
+            "note": null
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [],
+            "score": 864,
+            "note": null
+          },
+          {
+            "program_code": "7520231",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [],
+            "score": 1002,
+            "note": null
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [],
+            "score": 876,
+            "note": null
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [],
+            "score": 882,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [],
+            "score": 723,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 693,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [],
+            "score": 26.99,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CT TCTA)",
+            "subject_groups": [],
+            "score": 27.11,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [],
+            "score": 26.99,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CTTCTA)",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [],
+            "score": 24.49,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CT Tiên tiến)",
+            "subject_groups": [],
+            "score": 29.98,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [],
+            "score": 28.99,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [],
+            "score": 27.49,
+            "note": "Kết hợp CCNNQT với học bạ"
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [],
+            "score": 27.69,
+            "note": "Kết hợp CCNNQT với học bạ"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A00",
+              "X02",
+              "X06",
+              "X10"
+            ],
+            "score": 27.85,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 27.21,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 26.85,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 27.58,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.08,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 27.12,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 27.02,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 25.58,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 26.04,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 26.79,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 25.22,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420101_DKD",
+            "program_name": "Sinh học (CTTCTA)",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 25.75,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 28.03,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 27.12,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 27.31,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 27.87,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X15",
+              "X16"
+            ],
+            "score": 26.88,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7420201_DKD",
+            "program_name": "Công nghệ Sinh học (CT TCTA)",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 27.11,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 27.9,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CTTCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.28,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_DKD",
+            "program_name": "Vật lý học (CTTCTA)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.64,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 28.8,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.38,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440102_NN",
+            "program_name": "Nhóm ngành Vật lý học (CT: 150), Công nghệ Vật lý điện tử và tin học (CT: 60), Công nghệ bán dẫn (CT: 60)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.6,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 28.59,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.99,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 28.37,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 28.02,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 27.85,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 26.85,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 27.58,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440112_DKD",
+            "program_name": "Hóa học (CT TCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 27.12,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 27.52,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 27.05,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 27.79,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.14,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học Vật liệu",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 26.76,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 27.44,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.71,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 26.23,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 27.15,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440122_DKD",
+            "program_name": "Khoa học Vật liệu (CT TCTA)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.63,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "B00",
+              "B02"
+            ],
+            "score": 25.7,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A07",
+              "C01",
+              "C02",
+              "C04",
+              "X02"
+            ],
+            "score": 26.78,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "D01",
+              "D10"
+            ],
+            "score": 26.14,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.21,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A00",
+              "A06"
+            ],
+            "score": 27.1,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440201_NN",
+            "program_name": "Nhóm ngành Địa chất học (CT: 40), Kinh tế đất đai (CT: 50)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 26.29,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A04",
+              "X06",
+              "X07",
+              "X08",
+              "X10"
+            ],
+            "score": 27.14,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.34,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440228",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.82,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 25.05,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 26.33,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 25.7,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 26.68,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.77,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 25.83,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.74,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 23.75,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 25.43,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7440301_DKD",
+            "program_name": "Khoa học Môi trường (CTTCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 24.68,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 28.32,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 28.24,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.23,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.22,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460101_NN",
+            "program_name": "Nhóm ngành Toán học (Toán học, Toán ứng dụng, Toán tin)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 28.75,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 29.45,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 29.25,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 29.23,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.17,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7460108_NN",
+            "program_name": "Nhóm ngành Khoa học dữ liệu (CT:80), Thống kê (CT:40)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 29.2,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 29.96,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 29.96,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 29.98,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480101_TT",
+            "program_name": "Khoa học máy tính (CTTiên tiến)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 29.96,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 29.78,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 29.7,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 29.69,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 29.67,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 27.87,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.47,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 27.97,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_DKD",
+            "program_name": "Công nghệ thông tin (CT TCTA)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 27.8,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 29,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 28.63,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 28.6,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7480201_NN",
+            "program_name": "Nhóm ngành máy tính và Công nghệ thông tin (Công nghệ thông tin; Kỹ thuật phần mềm; Hệ thống thông tin; Khoa học máy tính)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.54,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X07",
+              "X08",
+              "X12"
+            ],
+            "score": 28.22,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.42,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 27.97,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510401_DKD",
+            "program_name": "Công nghệ kỹ thuật Hóa học (CTTCTA)",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 27.57,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X10"
+            ],
+            "score": 28.16,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.59,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14"
+            ],
+            "score": 27.33,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 27.91,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ Vật liệu",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 25.84,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 26.79,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.91,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 25.22,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ Kỹ thuật Môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 26.45,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 28.75,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 28.31,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.54,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 28.21,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 28.4,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 27.89,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.17,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520207_DKD",
+            "program_name": "Kỹ thuật điện tử - viễn thông (CT TCTA)",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 27.8,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520231",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 29.13,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520231",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 29.25,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520231",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 29.08,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520231",
+            "program_name": "Thiết kế vi mạch",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "X06",
+              "X07"
+            ],
+            "score": 29.37,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 28.5,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.01,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520402",
+            "program_name": "Kỹ thuật hạt nhân",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.27,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A03",
+              "A04",
+              "X05",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 28.57,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.09,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520403",
+            "program_name": "Vật lý y khoa",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.35,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 27.25,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 26.48,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.93,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C04"
+            ],
+            "score": 26.94,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "D01",
+              "D10"
+            ],
+            "score": 26.33,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.4,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 26.66,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "D07",
+              "X11"
+            ],
+            "score": 26.07,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A06",
+              "X06",
+              "X10",
+              "X12"
+            ],
+            "score": 26.98,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.15,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 25.52,
+            "note": "ƯTXT thẳng và ƯTXT theo quy định ĐHQGHCM"
+          }
+        ]
+      }
+    ]
+  }
 }

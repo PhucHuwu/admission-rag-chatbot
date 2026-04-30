@@ -1328,5 +1328,1071 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Kỹ Thuật Công Nghiệp – Đại Học Thái Nguyên các năm Tại đây",
   "tuition_text": "- Điểm trúng tuyển được quy đổi tương đương giữa các phương thức xét tuyển. - Nguồn xét tuyển: Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. - Điểm quy đổi ngoại ngữ: Nhà trường thực hiện quy đổi chứng chỉ ngoại ngữ môn Tiếng Anh tương đương điểm thi tốt nghiệp THPT như trong bảng sau: STT Tiếng Anh IELTS Điểm quy đổi 1 5.0 8.0 2 5.5 8.9 3 6.0 9.0 4 6.5 9.5 5 7.0 - 9.0 10",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-cong-nghiep-thai-nguyen-DTK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ Chế tạo máy",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tô (Chuyên ngành: Công nghệ ô tô điện và ô tô lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật điện; điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp (Chuyên ngành: Logistics)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7510604",
+            "program_name": "Kinh tế công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (Chuyên ngành: Tự động hóa thiết ké và chế tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (Chuyên ngành: Robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô điện và điều khiển thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô và giao thông thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (Chuyên ngành: Công nghệ điện tử; bán dẫn và vi mạch)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.5,
+            "note": "Điểm môn Toán từ 8 điểm trở lên"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7905218",
+            "program_name": "Kỹ thuật cơ khí - Chương trình tiên tiến (Chuyên ngành: Tự động hóa cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7905228",
+            "program_name": "Kỹ thuật điện - Chương trình tiên tiến",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ Chế tạo máy",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tồ (Chuyên ngành: Công nghệ ô tô điện và ô tô lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật điện; điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp (Chuyên ngành: Logistics)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510604",
+            "program_name": "Kinh tế công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (Chuyên ngành: Tự động hóa thiết ké và chế tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (Chuyên ngành: Robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô điện và điều khiển thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô và giao thông thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (Chuyên ngành: Công nghệ điện tử; bán dẫn và vi mạch)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã quy đổi; Điểm môn Toán từ 8;4 điểm trở lên"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7905218",
+            "program_name": "Kỹ thuật cơ khí - Chương trình tiên tiến (Chuyên ngành: Tự động hóa cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7905228",
+            "program_name": "Kỹ thuật điện - Chương trình tiên tiến",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ Chế tạo máy",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ Kỹ thuật ô tồ (Chuyên ngành: Công nghệ ô tô điện và ô tô lai)",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật điện; điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp (Chuyên ngành: Logistics)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510604",
+            "program_name": "Kinh tế công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (Chuyên ngành: Tự động hóa thiết ké và chế tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (Chuyên ngành: Robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô điện và điều khiển thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (Chuyên ngành: Kỹ thuật ô tô và giao thông thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (Chuyên ngành: Công nghệ điện tử; bán dẫn và vi mạch)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã quy đổi; điểm môn Toán từ 8 điểm trở lên"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7905218",
+            "program_name": "Kỹ thuật cơ khí - Chương trình tiên tiến (Chuyên ngành: Tự động hóa cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7905228",
+            "program_name": "Kỹ thuật điện - Chương trình tiên tiến",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -369,5 +369,129 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Khoa Quốc tế - Đại học Huế các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-quoc-te-dai-hoc-hue-DHI.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

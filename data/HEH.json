@@ -60,5 +60,240 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Hậu cần các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Trình tự thực hiện thủ tục sơ tuyển tuyển sinh đào tạo trình độ đại học hệ quân sự năm 2026 Bước 1: Thí sinh đăng ký dự tuyển trực tiếp kê khai các mẫu biểu, hồ sơ sơ tuyển thuộc phần quy định cá nhân tự khai và nộp cho Ban Tuyển sinh quân sự cấp xã (đối với thanh niên ngoài Quân đội), cấp trung đoàn (đối với quân nhân tại ngũ). Bước 2: Ban Tuyển sinh cấp xã tổ chức khám sơ tuyển sức khỏe; tổ chức xác minh chính trị gửi hồ sơ sơ tuyển lên Ban Tuyển sinh quân sự tỉnh. Bước 3: Ban Tuyển sinh quân sự cấp tỉnh xét duyệt gửi hồ sơ, danh sách thí sinh đăng ký dự tuyển cho các nhà trường và báo cáo Ban Tuyển sinh quân sự Bộ Quốc phòng. Bước 4: Các nhà trường tổ chức thẩm định và xét duyệt hồ sơ thí sinh đăng ký dự tuyển; tổng hợp báo cáo kết quả xét duyệt hồ sơ về Ban Tuyển sinh quân sự Bộ Quốc phòng, thông báo kết quả xét duyệt hồ sơ cho các địa phương trước ngày 01 tháng 6; gửi phiếu báo kết quả cho thí sinh đủ điều kiện dự tuyển trước ngày 05 tháng 6 hằng năm."
+  "timeline_text": "Trình tự thực hiện thủ tục sơ tuyển tuyển sinh đào tạo trình độ đại học hệ quân sự năm 2026 Bước 1: Thí sinh đăng ký dự tuyển trực tiếp kê khai các mẫu biểu, hồ sơ sơ tuyển thuộc phần quy định cá nhân tự khai và nộp cho Ban Tuyển sinh quân sự cấp xã (đối với thanh niên ngoài Quân đội), cấp trung đoàn (đối với quân nhân tại ngũ). Bước 2: Ban Tuyển sinh cấp xã tổ chức khám sơ tuyển sức khỏe; tổ chức xác minh chính trị gửi hồ sơ sơ tuyển lên Ban Tuyển sinh quân sự tỉnh. Bước 3: Ban Tuyển sinh quân sự cấp tỉnh xét duyệt gửi hồ sơ, danh sách thí sinh đăng ký dự tuyển cho các nhà trường và báo cáo Ban Tuyển sinh quân sự Bộ Quốc phòng. Bước 4: Các nhà trường tổ chức thẩm định và xét duyệt hồ sơ thí sinh đăng ký dự tuyển; tổng hợp báo cáo kết quả xét duyệt hồ sơ về Ban Tuyển sinh quân sự Bộ Quốc phòng, thông báo kết quả xét duyệt hồ sơ cho các địa phương trước ngày 01 tháng 6; gửi phiếu báo kết quả cho thí sinh đủ điều kiện dự tuyển trước ngày 05 tháng 6 hằng năm.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hau-can-he-quan-su-HEH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.33,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.33,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.33,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 28.33,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 27.83,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 101,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 113,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 109,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Bắc)",
+            "subject_groups": [],
+            "score": 910,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nam miền Nam)",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Bắc)",
+            "subject_groups": [],
+            "score": 1010,
+            "note": null
+          },
+          {
+            "program_code": "7860218",
+            "program_name": "Hậu cần quân sự (Thí sinh Nữ miền Nam)",
+            "subject_groups": [],
+            "score": 985,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

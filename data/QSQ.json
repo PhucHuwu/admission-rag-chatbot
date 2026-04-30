@@ -4136,5 +4136,446 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Quốc tế, Đại học Quốc gia TPHCM các năm Tại đây.",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-dhqg-tphcm-QSQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26,
+            "note": "Môn Anh hệ số 2"
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Thang điểm 35, Môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 31,
+            "note": "Môn Anh hệ số 2"
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Thang điểm 35, Môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 721,
+            "note": null
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 603,
+            "note": null
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 757,
+            "note": null
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 653,
+            "note": null
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 622,
+            "note": null
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 935,
+            "note": null
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 668,
+            "note": null
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 805,
+            "note": null
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 602,
+            "note": null
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 728,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 32.28,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, Môn Anh nhân hệ số 2"
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 27.56,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, tính theo thang điểm 35, môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 24.83,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 25.5,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 23.44,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 34.03,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, Môn Anh nhân hệ số 2"
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 28.17,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 25.17,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 24.9,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 24.5,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          }
+        ]
+      }
+    ]
+  }
 }

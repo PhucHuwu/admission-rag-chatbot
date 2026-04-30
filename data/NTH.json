@@ -76,5 +76,1865 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Ngoại Thương các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Thời gian đăng ký và công bố kết quả: Phương thức Xét tuyển thẳng theo Quy chế của Bộ GD&ĐT Xét tuyển sử dụng kết quả học tập THPT khi đáp ứng các điều kiện đảm bảo chất lượng của Trường Xét tuyển sử dụng kết quả đánh giá năng lực, đánh giá tư duy trong nước và kết quả đánh giá năng lực quốc tế Xét tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2026 Đăng ký trên Cổng thông tin tuyển sinh của Trường Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Đối với thí sinh đăng ký ưu tiên xét tuyển: Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026.Đối với tất cả thí sinh: Dự kiến trong tháng 7/2026 Đăng ký trên Cổng thông tin tuyển sinh của Bộ GD&ĐT Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Công bố kết quả Trước 30/6/2026 Trước 17h00 ngày 13/8/2026 Trước 17h00 ngày 13/8/2026 Trước 17h00 ngày 13/8/2026"
+  "timeline_text": "Thời gian đăng ký và công bố kết quả: Phương thức Xét tuyển thẳng theo Quy chế của Bộ GD&ĐT Xét tuyển sử dụng kết quả học tập THPT khi đáp ứng các điều kiện đảm bảo chất lượng của Trường Xét tuyển sử dụng kết quả đánh giá năng lực, đánh giá tư duy trong nước và kết quả đánh giá năng lực quốc tế Xét tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2026 Đăng ký trên Cổng thông tin tuyển sinh của Trường Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026 Đối với thí sinh đăng ký ưu tiên xét tuyển: Từ ngày 25/05/2026 đến 17h00 ngày 20/06/2026.Đối với tất cả thí sinh: Dự kiến trong tháng 7/2026 Đăng ký trên Cổng thông tin tuyển sinh của Bộ GD&ĐT Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT (từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026) Công bố kết quả Trước 30/6/2026 Trước 17h00 ngày 13/8/2026 Trước 17h00 ngày 13/8/2026 Trước 17h00 ngày 13/8/2026",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-thuong-co-so-phia-bac-NTH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "KDQH2.1",
+            "program_name": "CT CLC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.6,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 26.3,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.3,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KDQH4.1",
+            "program_name": "CT TT i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 36.4,
+            "note": null
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 35.4,
+            "note": null
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 36.59,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.55,
+            "note": null
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D06",
+              "D07"
+            ],
+            "score": 26.55,
+            "note": null
+          },
+          {
+            "program_code": "KTEH2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTEH4.1",
+            "program_name": "CT TT Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.5,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.7,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D03",
+              "D07"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "KTQH2.1",
+            "program_name": "CT CLC Kinh tế quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.4,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.15,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "NNAH1.1",
+            "program_name": "CT TC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 32.4,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "NNAH2.1",
+            "program_name": "CT CLC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.3,
+            "note": "Xét 2 môn thi TN và CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH1.1",
+            "program_name": "CT TC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 30,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH2.1",
+            "program_name": "CT CLC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D06"
+            ],
+            "score": 30,
+            "note": "Xét 2 môn thi TN và CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 30,
+            "note": "Xét 2 môn thi TN và CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 30,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH1.1",
+            "program_name": "CT TC Tiếng Trung Thương mại",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 35.15,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH2.1",
+            "program_name": "CT CLC Tiếng Trung thương mại",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 35,
+            "note": "Xét 2 môn thi TN và CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.2,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "QTKH2.1",
+            "program_name": "CT CLC Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.2,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "QTKH4.1",
+            "program_name": "CT TT Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.5,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.36,
+            "note": null
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.36,
+            "note": null
+          },
+          {
+            "program_code": "TCHH2.1",
+            "program_name": "CT CLC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          },
+          {
+            "program_code": "TCHH4.1",
+            "program_name": "CT TT Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27,
+            "note": "Xét 2 môn thi TN và CCNNQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.62,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.41,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.1",
+            "program_name": "CT CLC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.57,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.1",
+            "program_name": "CT CLC Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.09,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.42,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.56,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.59,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 27.97,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 26.77,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 27.86,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "D07"
+            ],
+            "score": 27.08,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.08,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.97,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.77,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.86,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KDQH4.1",
+            "program_name": "CT TT i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.66,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH4.1",
+            "program_name": "CT TT i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.79,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 37.97,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên; Thang điểm 40"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 38.64,
+            "note": "HSG quốc gia kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 37.45,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 38.56,
+            "note": "HSG quốc gia; Thang điểm 40"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.33,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.72,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.67,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.86,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế dối ngoại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D06",
+              "D07"
+            ],
+            "score": 28.47,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế dối ngoại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D06",
+              "D07"
+            ],
+            "score": 28.16,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.57,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.5,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH4.1",
+            "program_name": "CT TT Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.96,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH4.1",
+            "program_name": "CT TT Kinh tế đối ngoại",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.3,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.14,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.55,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.72,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.98,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.7,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.47,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D07"
+            ],
+            "score": 28.1,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D07"
+            ],
+            "score": 27.44,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTQH2.1",
+            "program_name": "CT CLC Kinh tế quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.04,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTQH2.1",
+            "program_name": "CT CLC Kinh tế quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.11,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.42,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.69,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.59,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.88,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.44,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.26,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.36,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.46,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.76,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.25,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "NNAH1.1",
+            "program_name": "CT TC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 34.8,
+            "note": "HSG quốc gia; Thang điểm 40"
+          },
+          {
+            "program_code": "NNAH1.1",
+            "program_name": "CT TC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 36.17,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên; Thang điểm 40"
+          },
+          {
+            "program_code": "NNAH2.1",
+            "program_name": "CT CLC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 37.64,
+            "note": "HSG quốc gia kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNAH2.1",
+            "program_name": "CT CLC Tiếng Anh thương mại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 35.67,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH1.1",
+            "program_name": "CT TC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 33.68,
+            "note": "HSG quốc gia; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH1.1",
+            "program_name": "CT TC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 36,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH2.1",
+            "program_name": "CT CLC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D06"
+            ],
+            "score": 34.07,
+            "note": "HSG quốc gia kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH2.1",
+            "program_name": "CT CLC Tiếng Nhật thương mại",
+            "subject_groups": [
+              "D06"
+            ],
+            "score": 33.41,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 33.41,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 33.68,
+            "note": "HSG quốc gia; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 36,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 34.07,
+            "note": "HSG quốc gia kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH1.1",
+            "program_name": "CT TC Tiếng Trung Thương mại",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 36.36,
+            "note": "HSG quốc gia; Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH1.1",
+            "program_name": "CT TC Tiếng Trung Thương mại",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 36.57,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên; Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH2.1",
+            "program_name": "CT CLC Tiếng Trung thương mại",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 35.57,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH2.1",
+            "program_name": "CT CLC Tiếng Trung thương mại",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 37.37,
+            "note": "HSG quốc gia kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.75,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.9,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.96,
+            "note": "HSG quốc gia"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.4,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên"
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.77,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.55,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH2.1",
+            "program_name": "CT CLC Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.91,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH2.1",
+            "program_name": "CT CLC Quản trị kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.51,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH4.1",
+            "program_name": "CT TT Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.63,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH4.1",
+            "program_name": "CT TT Quản tri kinh doanh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.95,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.96,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.04,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH2.1",
+            "program_name": "CT CLC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.81,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH2.1",
+            "program_name": "CT CLC Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.02,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH4.1",
+            "program_name": "CT TT Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.3,
+            "note": "HSG quốc gia kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH4.1",
+            "program_name": "CT TT Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.41,
+            "note": "HSG cấp tỉnh hoặc HS hệ chuyên kết hợp CCNNQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 28.2,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 28.03,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [],
+            "score": 27.63,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [],
+            "score": 27.63,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [],
+            "score": 36.9,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [],
+            "score": 27.2,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế dối ngoại",
+            "subject_groups": [],
+            "score": 28.07,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [],
+            "score": 27.82,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [],
+            "score": 27.51,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 27.79,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [],
+            "score": 27.48,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [],
+            "score": 27.39,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "NNAH1.1",
+            "program_name": "CT TC Tiếng Anh thương mại",
+            "subject_groups": [],
+            "score": 36.29,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "NNNH1.1",
+            "program_name": "CT TC Tiếng Nhật thương mại",
+            "subject_groups": [],
+            "score": 36,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [],
+            "score": 36,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "NNTH1.1",
+            "program_name": "CT TC Tiếng Trung Thương mại",
+            "subject_groups": [],
+            "score": 36.77,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 27.24,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 27.56,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 27.7,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQH1.1",
+            "program_name": "CT TC Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 28.51,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 28.42,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [],
+            "score": 28.25,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [],
+            "score": 28.25,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [],
+            "score": 37.75,
+            "note": "Điểm đã được quy đổi, thang điểm 40"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [],
+            "score": 27.77,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTEH1.1",
+            "program_name": "CT TC Kinh tế dối ngoại",
+            "subject_groups": [],
+            "score": 28.44,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTKH1.1",
+            "program_name": "CT TC Kế toán - Kiếm toán",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [],
+            "score": 28.22,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "KTQH.1",
+            "program_name": "CT TC Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 28.29,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "LAWH1.1",
+            "program_name": "CT TC Luật thương mại quốc tế",
+            "subject_groups": [],
+            "score": 28.21,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [],
+            "score": 28.18,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [],
+            "score": 28.35,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 27.93,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "QTKH1.1",
+            "program_name": "CT TC Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 28.23,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          },
+          {
+            "program_code": "TCHH1.1",
+            "program_name": "CT TC Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 28.26,
+            "note": "Điểm đã được quy đổi, thang điểm 30"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "KDQH2.1",
+            "program_name": "CT CLC Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.2",
+            "program_name": "CT ĐHNNQT Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 29.08,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.3",
+            "program_name": "CT ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",
+            "subject_groups": [],
+            "score": 28.54,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH2.4",
+            "program_name": "CT ĐHNNQT Kinh doanh số",
+            "subject_groups": [],
+            "score": 28.54,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KDQH4.1",
+            "program_name": "CT TT i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh",
+            "subject_groups": [],
+            "score": 29.42,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KHMH2 .1",
+            "program_name": "Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh",
+            "subject_groups": [],
+            "score": 38.39,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "KTCH2.1",
+            "program_name": "CT ĐHPTQT Kinh tế chính trị quốc tế",
+            "subject_groups": [],
+            "score": 27.33,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH2.1",
+            "program_name": "CT CLC Kinh tế đối ngoại",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTEH4.1",
+            "program_name": "CT TT Kinh tế đối ngoại",
+            "subject_groups": [],
+            "score": 29.61,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTKH2.1",
+            "program_name": "CT ĐHNNQT ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA",
+            "subject_groups": [],
+            "score": 28.28,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "KTQH2.1",
+            "program_name": "CT CLC Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 28.58,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "LAWH2.1",
+            "program_name": "CT ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp",
+            "subject_groups": [],
+            "score": 27.97,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "MKTH2.1",
+            "program_name": "CT ĐHNNQT Marketing số",
+            "subject_groups": [],
+            "score": 28.88,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "NNAH2.1",
+            "program_name": "CT CLC Tiếng Anh thương mại",
+            "subject_groups": [],
+            "score": 37.5,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNNH2.1",
+            "program_name": "CT CLC Tiếng Nhật thương mại",
+            "subject_groups": [],
+            "score": 35.5,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNPH1.1",
+            "program_name": "CT Tích hợp tiếng Pháp thương mại",
+            "subject_groups": [],
+            "score": 35.5,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "NNTH2.1",
+            "program_name": "CT CLC Tiếng Trung thương mại",
+            "subject_groups": [],
+            "score": 37.37,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT; Thang điểm 40"
+          },
+          {
+            "program_code": "QKSH2.1",
+            "program_name": "CT ĐHNNQT Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH2.1",
+            "program_name": "CT CLC Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 28.06,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "QTKH4.1",
+            "program_name": "CT TT Quản tri kinh doanh",
+            "subject_groups": [],
+            "score": 28.19,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH2.1",
+            "program_name": "CT CLC Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 28.41,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          },
+          {
+            "program_code": "TCHH4.1",
+            "program_name": "CT TT Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 28.82,
+            "note": "ĐGNL quốc tế kết hợp CCNNQT"
+          }
+        ]
+      }
+    ]
+  }
 }

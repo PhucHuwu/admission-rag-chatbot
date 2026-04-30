@@ -402,5 +402,191 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học viện Ngân hàng (Phân viện Bắc Ninh) các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Nguyên tắc xét tuyển: Học viện xét tuyển theo mã xét tuyển (ứng với các chương trình đào tạo), lấy điểm từ cao xuống thấp cho đến hết chỉ tiêu, không phân biệt thứ tự nguyện vọng giữa các thí sinh. Điểm xét được tính theo thang 30 và làm tròn đến hai chữ số thập phân. Điểm xét tuyển thực hiện theo quy định tại Mục 2 trong Thông tin tuyển sinh. Đối với PTXT 2 và PTXT 3, Học viện sẽ triển khai thu hồ sơ để thu thập dữ liệu, tính toán điểm cộng (bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích) và điểm xét do nhiều dữ liệu đầu vào của PTXT 2 và PTXT 3 không thuộc nhóm dữ liệu chung và được chia sẻ từ Hệ thống. Đồng thời, Nhà trường sẽ hỗ trợ rà soát hồ sơ của các thí sinh và tối ưu điểm cộng, điểm xét dựa trên hồ sơ thí sinh nộp trên hệ thống của Nhà trường. Thời gian thu hồ sơ dự kiến từ ngày 18/5/2026 đến hết ngày 30/5/2026 trên Cổng thông tin tuyển sinh của Nhà trường tại địa chỉ: https://xettuyen.hvnh.edu.vn Lưu ý: Thí sinh chịu trách nhiệm với hồ sơ gửi trên Cổng thông tin tuyển sinh của Học viện và Nhà trường sử dụng các thông tin trên, cùng với dữ liệu từ Hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo để tiến hành tính toán điểm xét và chạy xét tuyển. Với những thí sinh cung cấp thông tin không đầy đủ hoặc kê khai sai thông tin, Nhà trường có quyền loại bỏ các dữ liệu và điểm PTXT, kết quả trúng tuyển liên quan đến dữ liệu đó của thí sinh và không chịu trách nhiệm về những sai sót của thí sinh. Đối với tất cả các PTXT, thí sinh cần phải đăng ký nguyện vọng xét tuyển trên Cổng thông tin tuyển sinh của Bộ GD&ĐT theo kế hoạch tuyển sinh chung đã công bố, dự kiến từ 02/07/2026 đến 17h00 ngày 14/07/2026. Thời gian công bố điểm chuẩn kết quả trúng tuyển: Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT, dự kiến vào ngày 13/8/2026. Mức thu dịch vụ tuyển sinh Với lệ phí xét tuyển trên hệ thống chung của Bộ GD&ĐT, Học viện thực hiện mức thu theo quy định và thống nhất giữa các cơ sở GDĐH. Đối với PTXT 2 và PTXT 3 nộp hồ sơ trên Cổng thông tin tuyển sinh của Nhà trường, nếu thí sinh có nguyện vọng được rà soát dữ liệu và lựa chọn tối ưu PTXT ứng với dữ liệu đang có, Nhà trường thu mức lệ phí hỗ trợ 200.000 đồng đối với mỗi hồ sơ thí sinh."
+  "timeline_text": "Nguyên tắc xét tuyển: Học viện xét tuyển theo mã xét tuyển (ứng với các chương trình đào tạo), lấy điểm từ cao xuống thấp cho đến hết chỉ tiêu, không phân biệt thứ tự nguyện vọng giữa các thí sinh. Điểm xét được tính theo thang 30 và làm tròn đến hai chữ số thập phân. Điểm xét tuyển thực hiện theo quy định tại Mục 2 trong Thông tin tuyển sinh. Đối với PTXT 2 và PTXT 3, Học viện sẽ triển khai thu hồ sơ để thu thập dữ liệu, tính toán điểm cộng (bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích) và điểm xét do nhiều dữ liệu đầu vào của PTXT 2 và PTXT 3 không thuộc nhóm dữ liệu chung và được chia sẻ từ Hệ thống. Đồng thời, Nhà trường sẽ hỗ trợ rà soát hồ sơ của các thí sinh và tối ưu điểm cộng, điểm xét dựa trên hồ sơ thí sinh nộp trên hệ thống của Nhà trường. Thời gian thu hồ sơ dự kiến từ ngày 18/5/2026 đến hết ngày 30/5/2026 trên Cổng thông tin tuyển sinh của Nhà trường tại địa chỉ: https://xettuyen.hvnh.edu.vn Lưu ý: Thí sinh chịu trách nhiệm với hồ sơ gửi trên Cổng thông tin tuyển sinh của Học viện và Nhà trường sử dụng các thông tin trên, cùng với dữ liệu từ Hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo để tiến hành tính toán điểm xét và chạy xét tuyển. Với những thí sinh cung cấp thông tin không đầy đủ hoặc kê khai sai thông tin, Nhà trường có quyền loại bỏ các dữ liệu và điểm PTXT, kết quả trúng tuyển liên quan đến dữ liệu đó của thí sinh và không chịu trách nhiệm về những sai sót của thí sinh. Đối với tất cả các PTXT, thí sinh cần phải đăng ký nguyện vọng xét tuyển trên Cổng thông tin tuyển sinh của Bộ GD&ĐT theo kế hoạch tuyển sinh chung đã công bố, dự kiến từ 02/07/2026 đến 17h00 ngày 14/07/2026. Thời gian công bố điểm chuẩn kết quả trúng tuyển: Theo kế hoạch tuyển sinh chung của Bộ GD&ĐT, dự kiến vào ngày 13/8/2026. Mức thu dịch vụ tuyển sinh Với lệ phí xét tuyển trên hệ thống chung của Bộ GD&ĐT, Học viện thực hiện mức thu theo quy định và thống nhất giữa các cơ sở GDĐH. Đối với PTXT 2 và PTXT 3 nộp hồ sơ trên Cổng thông tin tuyển sinh của Nhà trường, nếu thí sinh có nguyện vọng được rà soát dữ liệu và lựa chọn tối ưu PTXT ứng với dữ liệu đang có, Nhà trường thu mức lệ phí hỗ trợ 200.000 đồng đối với mỗi hồ sơ thí sinh.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngan-hang-phan-vien-bac-ninh-NHB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 20.45,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.45,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 87,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 83,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [],
+            "score": 84,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 307,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [],
+            "score": 300,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 279,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [],
+            "score": 282,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

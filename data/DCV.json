@@ -317,5 +317,153 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Công nghiệp Vinh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghiep-vinh-DCV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C03",
+              "C20",
+              "D01",
+              "D10",
+              "D15",
+              "X01"
+            ],
+            "score": 28.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C03",
+              "C20",
+              "D01",
+              "D10",
+              "D15",
+              "X01"
+            ],
+            "score": 29,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

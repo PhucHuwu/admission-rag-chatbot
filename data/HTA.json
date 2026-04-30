@@ -72,5 +72,121 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học viện Tòa án các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-toa-an-HTA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.93,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 22.26,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.93,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 22.26,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

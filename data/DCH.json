@@ -60,5 +60,84 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Sĩ quan Đặc Công các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-dac-cong-DCH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [],
+            "score": 785,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

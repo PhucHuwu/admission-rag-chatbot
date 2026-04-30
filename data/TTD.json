@@ -274,5 +274,152 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Thể Dục Thể Thao Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-da-nang-TTD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 23.93,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 24.69,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 28.6,
+            "note": "Xét điểm học bạ và thi NK"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 27.63,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 21,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 21.73,
+            "note": "Xét điểm học bạ và thi NK"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 22.5,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 23.38,
+            "note": "Xét điểm học bạ và thi NK"
+          }
+        ]
+      }
+    ]
+  }
 }

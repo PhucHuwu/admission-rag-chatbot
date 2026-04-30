@@ -442,5 +442,255 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Ngoại Ngữ – Đại Học Thái Nguyên các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Xem chi tiết Bảng quy đổi điểm của các phương thức xét tuyển tại Trường Ngoại Ngữ – Đại Học Thái Nguyên năm 2025 TẠI ĐÂY"
+  "timeline_text": "Xem chi tiết Bảng quy đổi điểm của các phương thức xét tuyển tại Trường Ngoại Ngữ – Đại Học Thái Nguyên năm 2025 TẠI ĐÂY",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-ngoai-ngu-thai-nguyen-DTF.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.07,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

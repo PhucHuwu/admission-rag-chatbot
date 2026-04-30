@@ -138,5 +138,167 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Khoa học sức khỏe - Đại học Quốc Gia TPHCM các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-suc-khoe-tphcm-QSY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [
+              "B00",
+              "A00"
+            ],
+            "score": 21.5,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 18,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 25,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 20.1,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 25.6,
+            "note": "Thang điểm 30"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [],
+            "score": 709,
+            "note": null
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [],
+            "score": 559,
+            "note": null
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [],
+            "score": 867,
+            "note": null
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [],
+            "score": 652,
+            "note": null
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [],
+            "score": 896,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [
+              "B00",
+              "A00"
+            ],
+            "score": 79.4,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 74.46,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 84.6,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 77.4,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 85.5,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          }
+        ]
+      }
+    ]
+  }
 }

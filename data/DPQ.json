@@ -898,5 +898,361 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Phạm Văn Đồng các năm Tại đây",
   "tuition_text": "Mức thu học phí theo tín chỉ khoá tuyển sinh năm học 2026-2027 (dự kiến) Nhóm ngành Mức học phí (1000 đồng/tín chỉ) 1. Bậc cao đẳng Hệ chính quy Giáo dục mầm non 484 2. Bậc đại học Hệ chính quy Khối ngành 1: Khoa học giáo dục và đào tạo giáo viên Sư phạm Tin học 607 Sư phạm Vật lý 607 Sư phạm Ngữ văn 607 Sư phạm Tiếng Anh 607 Giáo dục Tiểu học 607 Sư phạm Toán 607 Sư phạm Khoa học Tự nhiên 607 Sư phạm Hoá 607 Khối ngành 3: Kinh doanh và quản lý, pháp luật Quản trị kinh doanh 607 Marketing 607 Khối ngành 5: Toán, Thống kê máy tính, Công nghệ kỹ thuật, kỹ thuật, sản xuất và chế biến, kiến trúc và xây dựng, nông lâm nghiệp và thủy sản, thú y Công nghệ thông tin 709 Công nghệ kỹ thuật cơ khí 688 Kỹ thuật cơ điện tử 688",
-  "timeline_text": "a. Thời gian đăng ký xét tuyển và xét tuyển - Đợt chính thức Phương thức xét tuyển Thời gian đăng ký xét tuyển Thời gian xét tuyển Phương thức 1 Xét theo lịch chung của Bộ GD&ĐT Xét theo lịch chung của Bộ GD&ĐT Phương thức 2 Phương thức 3 Phương thức 4 Phương thức 5 - Tuyển bổ sung đợt 1 (nếu tuyển chưa đủ chỉ tiêu) + Thời gian nhận hồ sơ ĐKXT: 22/8/2026-30/8/2026. + Thời gian xét tuyển: 04/09/2026. - Thi năng khiếu tuyển sinh bậc cao đẳng ngành Giáo dục Mầm non + Thời gian nhận hồ sơ ĐKXT: 01/5/2026-19/6/2026. + Thời gian thi (dự kiến): Ngày 01 và 02/07/2026. b. Hình thức nhận hồ sơ đăng ký xét tuyển: Đối với đợt xét tuyển chính thức, thí sinh đăng ký, điều chỉnh nguyện vọng trên cổng thông tin của GD&ĐTdựa trên tài khoản cá nhân đã được Bộ GD&ĐT cấp. Đối với đợt xét tuyển bổ sung, thí sinh tải và điền đầy đủ thông tin vào Phiếu đăng ký xét tuyển theo mẫu do nhà trường ban hành (Biểu mẫu đăng trên website tại địa chỉ: tuyensinh.pdu.edu.vn). Sau đó thí sinh nộp hồ sơ đăng ký xét tuyển cho nhà trường qua một trong các hình thức sau: - Nộp hồ sơ trực tiếp tại Trường Đại học Phạm Văn Đồng. - Nộp hồ sơ qua dịch vụ chuyển phát nhanh. Lưu ý: Đối với đợt xét tuyển chính thức, thí sinh đăng ký xét tuyển thực hiện trên hệ thống tuyển sinh của GD&ĐT. Mức thu dịch vụ tuyển sinh - Đợt xét tuyển chính thức: Theo quy định của Bộ GD&ĐT. - Đợt xét tuyển bổ sung: Thí sinh được miễn phí lệ phí đăng ký xét tuyển. - Lệ phí thi năng khiếu: 300.000đ/thí sinh. Nhà trường cam kết giải quyết kịp thời, đúng quy định các khiếu nại của thí sinh trong công tác tuyển sinh theo nguyên tắc bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro. (không trái quy định hiện hành): Không"
+  "timeline_text": "a. Thời gian đăng ký xét tuyển và xét tuyển - Đợt chính thức Phương thức xét tuyển Thời gian đăng ký xét tuyển Thời gian xét tuyển Phương thức 1 Xét theo lịch chung của Bộ GD&ĐT Xét theo lịch chung của Bộ GD&ĐT Phương thức 2 Phương thức 3 Phương thức 4 Phương thức 5 - Tuyển bổ sung đợt 1 (nếu tuyển chưa đủ chỉ tiêu) + Thời gian nhận hồ sơ ĐKXT: 22/8/2026-30/8/2026. + Thời gian xét tuyển: 04/09/2026. - Thi năng khiếu tuyển sinh bậc cao đẳng ngành Giáo dục Mầm non + Thời gian nhận hồ sơ ĐKXT: 01/5/2026-19/6/2026. + Thời gian thi (dự kiến): Ngày 01 và 02/07/2026. b. Hình thức nhận hồ sơ đăng ký xét tuyển: Đối với đợt xét tuyển chính thức, thí sinh đăng ký, điều chỉnh nguyện vọng trên cổng thông tin của GD&ĐTdựa trên tài khoản cá nhân đã được Bộ GD&ĐT cấp. Đối với đợt xét tuyển bổ sung, thí sinh tải và điền đầy đủ thông tin vào Phiếu đăng ký xét tuyển theo mẫu do nhà trường ban hành (Biểu mẫu đăng trên website tại địa chỉ: tuyensinh.pdu.edu.vn). Sau đó thí sinh nộp hồ sơ đăng ký xét tuyển cho nhà trường qua một trong các hình thức sau: - Nộp hồ sơ trực tiếp tại Trường Đại học Phạm Văn Đồng. - Nộp hồ sơ qua dịch vụ chuyển phát nhanh. Lưu ý: Đối với đợt xét tuyển chính thức, thí sinh đăng ký xét tuyển thực hiện trên hệ thống tuyển sinh của GD&ĐT. Mức thu dịch vụ tuyển sinh - Đợt xét tuyển chính thức: Theo quy định của Bộ GD&ĐT. - Đợt xét tuyển bổ sung: Thí sinh được miễn phí lệ phí đăng ký xét tuyển. - Lệ phí thi năng khiếu: 300.000đ/thí sinh. Nhà trường cam kết giải quyết kịp thời, đúng quy định các khiếu nại của thí sinh trong công tác tuyển sinh theo nguyên tắc bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro. (không trái quy định hiện hành): Không",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-pham-van-dong-DPQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 26.87,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 27.25,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "X06",
+              "D01"
+            ],
+            "score": 25.92,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "A01",
+              "C01"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "B00",
+              "D07"
+            ],
+            "score": 26.3,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "X70",
+              "X01"
+            ],
+            "score": 27.02,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "X25",
+              "X78",
+              "D15"
+            ],
+            "score": 26.02,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "B00",
+              "C01"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "X06",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 27.46,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "X06",
+              "D01"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "A01",
+              "C01"
+            ],
+            "score": 27.34,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "B00",
+              "D07"
+            ],
+            "score": 27.04,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "X70",
+              "X01"
+            ],
+            "score": 27.58,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "X25",
+              "X78",
+              "D15"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "B00",
+              "C01"
+            ],
+            "score": 26.87,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "C03",
+              "X74",
+              "X01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "X05",
+              "X06",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X05",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

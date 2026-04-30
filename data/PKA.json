@@ -6819,5 +6819,3236 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học Phenikaa các năm Tại đây",
   "tuition_text": "",
-  "timeline_text": "Hồ sơ xét tuyển 01 Phiếu đăng ký tuyển sinh online theo quy định của Đại học Phenikaa; 01 Bản photo công chứng học bạ THPT (3 năm); 01 Bản photo công chứng CMND/CCCD (hai mặt); 01 Bản photo công chứng giấy chứng nhận tốt nghiệp tạm thời THPT năm 2026; 01 Bản photo công chứng bằng tốt nghiệp THPT (áp dụng cho thí sinh tốt nghiệp trước năm 2026); 01 Bản giấy xác nhận Điểm xét Tốt nghiệp (Theo năm thí sinh tốt nghiệp tương ứng, có trong giấy chứng nhận tốt nghiệp tạm thời hoặc xác nhận được cơ sở đào tạo/Sở GD&ĐT cấp); 01 Bản photo công chứng các giấy tờ minh chứng thành tích (nếu có) như: Giấy chứng nhận học sinh giỏi cấp Tỉnh/Thành phố trở lên; Giấy chứng nhận cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp” cấp Tỉnh/Thành phố trở lên; Giải thưởng các cuộc thi văn nghệ - thể thao cấp Quốc gia trở lên; Chứng chỉ ngoại ngữ (nếu dùng xét tuyển). 01 Bản photo công chứng kết quả kỳ thi của một trong 4 kỳ thi (nếu xét tuyển bằng phương thức 3, 4): Kết quả kỳ thi giá năng lực của Đại học Quốc gia Hà Nội; Kết quả kỳ thi đánh giá tư duy của Đại học Bách khoa Hà Nội; Kết quả kỳ thi SPT 2026 của Trường Đại học Sư phạm Hà Nội; Kết quả kỳ thi đánh giá đầu vào Đại học V-SAT. Thời gian xét tuyển Đợt xét tuyển tất cả các phương thức theo quy định chung của Bộ GD&ĐT: theo kế hoạch của Bộ GD&ĐT. Đợt bổ sung (nếu có): theo thời gian quy định của Bộ đến tháng 12/2026. Hình thức xét tuyển Xét tuyển đợt 1 tất cả các phương thức trên hệ thống của Bộ GD&ĐT: Tất cả các thí sinh đăng ký nguyện vọng trên cổng thông tin chung của Bộ GD&ĐT. Các đợt khác: Thí sinh thực hiện 2 bước: Bước 1: Tất cả thí sinh đăng ký trực tuyến trên website của Đại học tại địa chỉ: https://tuyensinh.phenikaa-uni.edu.vn/. Bước 2: Gửi bản cứng hồ sơ xét tuyển về Đại học Phenikaa. Địa điểm nhận hồ sơ: Phòng Tuyển sinh, tầng 1, nhà A9, Đại học Phenikaa, Đường Nguyễn Trác, phường Dương Nội, Hà Nội."
+  "timeline_text": "Hồ sơ xét tuyển 01 Phiếu đăng ký tuyển sinh online theo quy định của Đại học Phenikaa; 01 Bản photo công chứng học bạ THPT (3 năm); 01 Bản photo công chứng CMND/CCCD (hai mặt); 01 Bản photo công chứng giấy chứng nhận tốt nghiệp tạm thời THPT năm 2026; 01 Bản photo công chứng bằng tốt nghiệp THPT (áp dụng cho thí sinh tốt nghiệp trước năm 2026); 01 Bản giấy xác nhận Điểm xét Tốt nghiệp (Theo năm thí sinh tốt nghiệp tương ứng, có trong giấy chứng nhận tốt nghiệp tạm thời hoặc xác nhận được cơ sở đào tạo/Sở GD&ĐT cấp); 01 Bản photo công chứng các giấy tờ minh chứng thành tích (nếu có) như: Giấy chứng nhận học sinh giỏi cấp Tỉnh/Thành phố trở lên; Giấy chứng nhận cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp” cấp Tỉnh/Thành phố trở lên; Giải thưởng các cuộc thi văn nghệ - thể thao cấp Quốc gia trở lên; Chứng chỉ ngoại ngữ (nếu dùng xét tuyển). 01 Bản photo công chứng kết quả kỳ thi của một trong 4 kỳ thi (nếu xét tuyển bằng phương thức 3, 4): Kết quả kỳ thi giá năng lực của Đại học Quốc gia Hà Nội; Kết quả kỳ thi đánh giá tư duy của Đại học Bách khoa Hà Nội; Kết quả kỳ thi SPT 2026 của Trường Đại học Sư phạm Hà Nội; Kết quả kỳ thi đánh giá đầu vào Đại học V-SAT. Thời gian xét tuyển Đợt xét tuyển tất cả các phương thức theo quy định chung của Bộ GD&ĐT: theo kế hoạch của Bộ GD&ĐT. Đợt bổ sung (nếu có): theo thời gian quy định của Bộ đến tháng 12/2026. Hình thức xét tuyển Xét tuyển đợt 1 tất cả các phương thức trên hệ thống của Bộ GD&ĐT: Tất cả các thí sinh đăng ký nguyện vọng trên cổng thông tin chung của Bộ GD&ĐT. Các đợt khác: Thí sinh thực hiện 2 bước: Bước 1: Tất cả thí sinh đăng ký trực tuyến trên website của Đại học tại địa chỉ: https://tuyensinh.phenikaa-uni.edu.vn/. Bước 2: Gửi bản cứng hồ sơ xét tuyển về Đại học Phenikaa. Địa điểm nhận hồ sơ: Phòng Tuyển sinh, tầng 1, nhà A9, Đại học Phenikaa, Đường Nguyễn Trác, phường Dương Nội, Hà Nội.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phenikaa-PKA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "BI01",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X14",
+              "X15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "BMS",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "CHE1",
+            "program_name": "Kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "DEN1",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "EEE-AI",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "EEE1",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "EEE2",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X10",
+              "X14"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "EEE3",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X06",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "EEE4",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X06",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "F0L1",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "F0L2",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "F0L3",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "F0L4",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "D01",
+              "D11",
+              "D12",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "F0L5",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [
+              "D01",
+              "D11",
+              "D12",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "F0S1",
+            "program_name": "Đông Phương học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D14",
+              "D66",
+              "X70",
+              "X78"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "FBE1",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "A08",
+              "D01",
+              "D07",
+              "X17"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FBE2",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FBE3",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "FBE4",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "A08",
+              "D01",
+              "D07",
+              "X17"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "FBE5",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FBE6",
+            "program_name": "Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FBE7",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FBE8",
+            "program_name": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FIDT1",
+            "program_name": "Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FIDT2",
+            "program_name": "Quản trị kinh doanh (Kinh doanh số)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FIDT3",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FIDT4",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Logistics số)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FIDT5",
+            "program_name": "Marketing (Công nghệ Marketing)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FIDT6",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C04",
+              "D01",
+              "D84",
+              "X25",
+              "X27"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "FIDT7",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "FLC1",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D04",
+              "D09",
+              "D30",
+              "D84",
+              "X25"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "FLE1",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FLF1",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D03",
+              "D09",
+              "D20",
+              "D89",
+              "X37"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "FLJ1",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "FLK1",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "DD2",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FTME",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "FTS1",
+            "program_name": "Du lịch (Định hướng Quản trị du lịch)",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FTS2",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FTS3",
+            "program_name": "Kinh doanh Du lịch số",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "FTS4",
+            "program_name": "Hướng dẫn Du lịch quốc tế",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "HM1",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "D01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "ICT-TN",
+            "program_name": "Tài năng Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X26",
+              "X27"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "ICT-VJ",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "X06",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "ICT1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "ICT2",
+            "program_name": "Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "ICT3",
+            "program_name": "Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X26",
+              "X27"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "ICT4",
+            "program_name": "An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "ICT5",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "MED1",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "MEM1",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "MEM1-IMS",
+            "program_name": "Hệ thống Cơ điện tử thông minh (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "MEM2",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "MIW",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X14"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "MSE-AI",
+            "program_name": "Vật liệu thông minh và trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "MSE-IC",
+            "program_name": "Chip bán dẫn và Công nghệ đóng gói",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "MSE1",
+            "program_name": "Vật liệu tiên tiến và Công nghệ nano",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "MTT1",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "NUR1",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X14"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "PHA1",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X10",
+              "X14"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "RET1",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "RTS1",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "VEE1",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "VEE2",
+            "program_name": "Cơ điện tử ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "VEE3",
+            "program_name": "Kỹ thuật phần mềm ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "BI01",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X14",
+              "X15"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "BMS",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "CHE1",
+            "program_name": "Kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "DEN1",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "EEE-AI",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "EEE1",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "EEE2",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X10",
+              "X14"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "EEE3",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X06",
+              "X26"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "EEE4",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "D08",
+              "X06",
+              "X26"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "F0L1",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "F0L2",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "F0L3",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D12",
+              "D13",
+              "X70"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "F0L4",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "D01",
+              "D11",
+              "D12",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "F0L5",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [
+              "D01",
+              "D11",
+              "D12",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "F0S1",
+            "program_name": "Đông Phương học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C19",
+              "D01",
+              "D14",
+              "D66",
+              "X70",
+              "X78"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "FBE1",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "A08",
+              "D01",
+              "D07",
+              "X17"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FBE2",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 2333,
+            "note": null
+          },
+          {
+            "program_code": "FBE3",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "FBE4",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "A08",
+              "D01",
+              "D07",
+              "X17"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "FBE5",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B04",
+              "D01",
+              "D07",
+              "X13"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FBE6",
+            "program_name": "Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FBE7",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FBE8",
+            "program_name": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 2333,
+            "note": null
+          },
+          {
+            "program_code": "FIDT1",
+            "program_name": "Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT2",
+            "program_name": "Quản trị kinh doanh (Kinh doanh số)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT3",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT4",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Logistics số)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT5",
+            "program_name": "Marketing (Công nghệ Marketing)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT6",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C04",
+              "D01",
+              "D84",
+              "X25",
+              "X27"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "FIDT7",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D84",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 22.81,
+            "note": null
+          },
+          {
+            "program_code": "FLC1",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D04",
+              "D09",
+              "D30",
+              "D84",
+              "X25"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "FLE1",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25",
+              "X26"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FLF1",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D03",
+              "D09",
+              "D20",
+              "D89",
+              "X37"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "FLJ1",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "FLK1",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "DD2",
+              "X25"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FTME",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "FTS1",
+            "program_name": "Du lịch (Định hướng Quản trị du lịch)",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FTS2",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FTS3",
+            "program_name": "Kinh doanh Du lịch số",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "D01",
+              "D09",
+              "D10",
+              "D84",
+              "X25"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "FTS4",
+            "program_name": "Hướng dẫn Du lịch quốc tế",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "HM1",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "D01"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "ICT-TN",
+            "program_name": "Tài năng Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X26",
+              "X27"
+            ],
+            "score": 25.53,
+            "note": null
+          },
+          {
+            "program_code": "ICT-VJ",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D06",
+              "X06",
+              "X26"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "ICT1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "ICT2",
+            "program_name": "Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "ICT3",
+            "program_name": "Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X26",
+              "X27"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "ICT4",
+            "program_name": "An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "ICT5",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "MED1",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "MEM1",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "MEM1-IMS",
+            "program_name": "Hệ thống Cơ điện tử thông minh (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "MEM2",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "MIW",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X14"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "MSE-AI",
+            "program_name": "Vật liệu thông minh và trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "MSE-IC",
+            "program_name": "Chip bán dẫn và Công nghệ đóng gói",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "MSE1",
+            "program_name": "Vật liệu tiên tiến và Công nghệ nano",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X06",
+              "X07"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "MTT1",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "NUR1",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X14"
+            ],
+            "score": 21.79,
+            "note": null
+          },
+          {
+            "program_code": "PHA1",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X10",
+              "X14"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "RET1",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "RTS1",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "D07",
+              "X10"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "VEE1",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "VEE2",
+            "program_name": "Cơ điện tử ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "VEE3",
+            "program_name": "Kỹ thuật phần mềm ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.33,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "BI01",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "BMS",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "CHE1",
+            "program_name": "Kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "DEN1",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 77.38,
+            "note": null
+          },
+          {
+            "program_code": "EEE-AI",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo)",
+            "subject_groups": [],
+            "score": 75.26,
+            "note": null
+          },
+          {
+            "program_code": "EEE1",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 75.26,
+            "note": null
+          },
+          {
+            "program_code": "EEE2",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh)",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "EEE3",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT)",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "EEE4",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "F0L1",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "F0L2",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "F0L3",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "F0L4",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "F0L5",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "F0S1",
+            "program_name": "Đông Phương học",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "FBE1",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FBE2",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FBE3",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "FBE4",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "FBE5",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FBE6",
+            "program_name": "Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FBE7",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FBE8",
+            "program_name": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FIDT1",
+            "program_name": "Kinh tế số",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FIDT2",
+            "program_name": "Quản trị kinh doanh (Kinh doanh số)",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FIDT3",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FIDT4",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Logistics số)",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FIDT5",
+            "program_name": "Marketing (Công nghệ Marketing)",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FIDT6",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 75.26,
+            "note": null
+          },
+          {
+            "program_code": "FIDT7",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "FLC1",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 75.26,
+            "note": null
+          },
+          {
+            "program_code": "FLE1",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FLF1",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "FLJ1",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "FLK1",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FTME",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "FTS1",
+            "program_name": "Du lịch (Định hướng Quản trị du lịch)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FTS2",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FTS3",
+            "program_name": "Kinh doanh Du lịch số",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "FTS4",
+            "program_name": "Hướng dẫn Du lịch quốc tế",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "HM1",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "ICT-TN",
+            "program_name": "Tài năng Khoa học máy tính",
+            "subject_groups": [],
+            "score": 79.84,
+            "note": null
+          },
+          {
+            "program_code": "ICT-VJ",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "ICT1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "ICT2",
+            "program_name": "Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "ICT3",
+            "program_name": "Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "ICT4",
+            "program_name": "An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "ICT5",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "MED1",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 77.38,
+            "note": null
+          },
+          {
+            "program_code": "MEM1",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "MEM1-IMS",
+            "program_name": "Hệ thống Cơ điện tử thông minh (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 92.15,
+            "note": null
+          },
+          {
+            "program_code": "MEM2",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "MIW",
+            "program_name": "Hộ sinh",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "MSE-AI",
+            "program_name": "Vật liệu thông minh và trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "MSE-IC",
+            "program_name": "Chip bán dẫn và Công nghệ đóng gói",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "MSE1",
+            "program_name": "Vật liệu tiên tiến và Công nghệ nano",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "MTT1",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "NUR1",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 59.57,
+            "note": null
+          },
+          {
+            "program_code": "PHA1",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 72.08,
+            "note": null
+          },
+          {
+            "program_code": "RET1",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "RTS1",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "VEE1",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 68.89,
+            "note": null
+          },
+          {
+            "program_code": "VEE2",
+            "program_name": "Cơ điện tử ô tô",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          },
+          {
+            "program_code": "VEE3",
+            "program_name": "Kỹ thuật phần mềm ô tô",
+            "subject_groups": [],
+            "score": 65.7,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "BI01",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "BMS",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "CHE1",
+            "program_name": "Kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "DEN1",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 53.17,
+            "note": null
+          },
+          {
+            "program_code": "EEE-AI",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo)",
+            "subject_groups": [],
+            "score": 51.81,
+            "note": null
+          },
+          {
+            "program_code": "EEE1",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 51.81,
+            "note": null
+          },
+          {
+            "program_code": "EEE2",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh)",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "EEE3",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT)",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "EEE4",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "F0L1",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "F0L2",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "F0L3",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "F0L4",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "F0L5",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "F0S1",
+            "program_name": "Đông Phương học",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "FBE1",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FBE2",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FBE3",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "FBE4",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "FBE5",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FBE6",
+            "program_name": "Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FBE7",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FBE8",
+            "program_name": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FIDT1",
+            "program_name": "Kinh tế số",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FIDT2",
+            "program_name": "Quản trị kinh doanh (Kinh doanh số)",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FIDT3",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FIDT4",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Logistics số)",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FIDT5",
+            "program_name": "Marketing (Công nghệ Marketing)",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FIDT6",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 51.81,
+            "note": null
+          },
+          {
+            "program_code": "FIDT7",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [],
+            "score": 43.98,
+            "note": null
+          },
+          {
+            "program_code": "FLC1",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 51.81,
+            "note": null
+          },
+          {
+            "program_code": "FLE1",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FLF1",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "FLJ1",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "FLK1",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FTME",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "FTS1",
+            "program_name": "Du lịch (Định hướng Quản trị du lịch)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FTS2",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FTS3",
+            "program_name": "Kinh doanh Du lịch số",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "FTS4",
+            "program_name": "Hướng dẫn Du lịch quốc tế",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "HM1",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "ICT-TN",
+            "program_name": "Tài năng Khoa học máy tính",
+            "subject_groups": [],
+            "score": 54.78,
+            "note": null
+          },
+          {
+            "program_code": "ICT-VJ",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "ICT1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "ICT2",
+            "program_name": "Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "ICT3",
+            "program_name": "Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "ICT4",
+            "program_name": "An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "ICT5",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "MED1",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 53.17,
+            "note": null
+          },
+          {
+            "program_code": "MEM1",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "MEM1-IMS",
+            "program_name": "Hệ thống Cơ điện tử thông minh (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 62.84,
+            "note": null
+          },
+          {
+            "program_code": "MEM2",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "MIW",
+            "program_name": "Hộ sinh",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "MSE-AI",
+            "program_name": "Vật liệu thông minh và trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "MSE-IC",
+            "program_name": "Chip bán dẫn và Công nghệ đóng gói",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "MSE1",
+            "program_name": "Vật liệu tiên tiến và Công nghệ nano",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "MTT1",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "NUR1",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 42,
+            "note": null
+          },
+          {
+            "program_code": "PHA1",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 49.85,
+            "note": null
+          },
+          {
+            "program_code": "RET1",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "RTS1",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "VEE1",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 47.89,
+            "note": null
+          },
+          {
+            "program_code": "VEE2",
+            "program_name": "Cơ điện tử ô tô",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          },
+          {
+            "program_code": "VEE3",
+            "program_name": "Kỹ thuật phần mềm ô tô",
+            "subject_groups": [],
+            "score": 45.93,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "BI01",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "BMS",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "CHE1",
+            "program_name": "Kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "DEN1",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 309.47,
+            "note": null
+          },
+          {
+            "program_code": "EEE-AI",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo)",
+            "subject_groups": [],
+            "score": 302.04,
+            "note": null
+          },
+          {
+            "program_code": "EEE1",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 302.04,
+            "note": null
+          },
+          {
+            "program_code": "EEE2",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh)",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "EEE3",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT)",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "EEE4",
+            "program_name": "Kỹ thuật Điện tử - Viễn thông (Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "F0L1",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "F0L2",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "F0L3",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "F0L4",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "F0L5",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "F0S1",
+            "program_name": "Đông Phương học",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "FBE1",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FBE2",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FBE3",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "FBE4",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "FBE5",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FBE6",
+            "program_name": "Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FBE7",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FBE8",
+            "program_name": "Marketing (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FIDT1",
+            "program_name": "Kinh tế số",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FIDT2",
+            "program_name": "Quản trị kinh doanh (Kinh doanh số)",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FIDT3",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FIDT4",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng (Logistics số)",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FIDT5",
+            "program_name": "Marketing (Công nghệ Marketing)",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FIDT6",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 302.04,
+            "note": null
+          },
+          {
+            "program_code": "FIDT7",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [],
+            "score": 242.88,
+            "note": null
+          },
+          {
+            "program_code": "FLC1",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 302.04,
+            "note": null
+          },
+          {
+            "program_code": "FLE1",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FLF1",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "FLJ1",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "FLK1",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FTME",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "FTS1",
+            "program_name": "Du lịch (Định hướng Quản trị du lịch)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FTS2",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FTS3",
+            "program_name": "Kinh doanh Du lịch số",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "FTS4",
+            "program_name": "Hướng dẫn Du lịch quốc tế",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "HM1",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "ICT-TN",
+            "program_name": "Tài năng Khoa học máy tính",
+            "subject_groups": [],
+            "score": 316.92,
+            "note": null
+          },
+          {
+            "program_code": "ICT-VJ",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "ICT1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "ICT2",
+            "program_name": "Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "ICT3",
+            "program_name": "Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "ICT4",
+            "program_name": "An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "ICT5",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "MED1",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 309.47,
+            "note": null
+          },
+          {
+            "program_code": "MEM1",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "MEM1-IMS",
+            "program_name": "Hệ thống Cơ điện tử thông minh (Các học phần chuyên ngành học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 354.19,
+            "note": null
+          },
+          {
+            "program_code": "MEM2",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "MIW",
+            "program_name": "Hộ sinh",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "MSE-AI",
+            "program_name": "Vật liệu thông minh và trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "MSE-IC",
+            "program_name": "Chip bán dẫn và Công nghệ đóng gói",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "MSE1",
+            "program_name": "Vật liệu tiên tiến và Công nghệ nano",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "MTT1",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "NUR1",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 227.43,
+            "note": null
+          },
+          {
+            "program_code": "PHA1",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 287.25,
+            "note": null
+          },
+          {
+            "program_code": "RET1",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "RTS1",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "VEE1",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 272.46,
+            "note": null
+          },
+          {
+            "program_code": "VEE2",
+            "program_name": "Cơ điện tử ô tô",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          },
+          {
+            "program_code": "VEE3",
+            "program_name": "Kỹ thuật phần mềm ô tô",
+            "subject_groups": [],
+            "score": 257.67,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

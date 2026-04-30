@@ -647,5 +647,185 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn các năm của trường Du lịch - Đại học Huế Tại đây",
   "tuition_text": null,
-  "timeline_text": "Mốc dự kiến năm 2026 sẽ gần tương tự như sau: Đăng ký tài khoản xét tuyển: Đầu tháng 7/2026 Lưu ý: Thí sinh tự do phải liên hệ với Sở GD&ĐT địa phương để đăng ký tài khoản Dùng để đăng nhập vào hệ thống của Bộ GD&ĐT: https://thisinh.thitotnghiepthpt.edu.vn Đăng ký và điều chỉnh nguyện vọng: - Khoảng 15/7 – 30/7/2026 (dự kiến) - Thí sinh đăng ký, bổ sung và điều chỉnh số lượng nguyện vọng trên hệ thống theo thông báo của Bộ GD&ĐT: https://thisinh.thitotnghiepthpt.edu.vn Nộp lệ phí xét tuyển: - Cuối tháng 7 – đầu tháng 8/2026. - Nộp lệ phí xét tuyển trực tuyến theo số lượng nguyện vọng. Lọc ảo và công bố điểm chuẩn - Khoảng giữa tháng 8/2026 Xác nhận nhập học - Từ giữa đến cuối tháng 8/2026 * Lưu ý: Thí sinh trúng tuyển xác nhận nhập học trực tuyến trên hệ thống của Bộ. Thông tin chi tiết về thời gian và hình thức đăng ký xét tuyển Sẽ được cập nhật trên website chính thức của Trường Du lịch – Đại học Huế. Thí sinh có thể lựa chọn phương thức đăng ký phù hợp và theo dõi các thông báo mới nhất để không bỏ lỡ cơ hội xét tuyển."
+  "timeline_text": "Mốc dự kiến năm 2026 sẽ gần tương tự như sau: Đăng ký tài khoản xét tuyển: Đầu tháng 7/2026 Lưu ý: Thí sinh tự do phải liên hệ với Sở GD&ĐT địa phương để đăng ký tài khoản Dùng để đăng nhập vào hệ thống của Bộ GD&ĐT: https://thisinh.thitotnghiepthpt.edu.vn Đăng ký và điều chỉnh nguyện vọng: - Khoảng 15/7 – 30/7/2026 (dự kiến) - Thí sinh đăng ký, bổ sung và điều chỉnh số lượng nguyện vọng trên hệ thống theo thông báo của Bộ GD&ĐT: https://thisinh.thitotnghiepthpt.edu.vn Nộp lệ phí xét tuyển: - Cuối tháng 7 – đầu tháng 8/2026. - Nộp lệ phí xét tuyển trực tuyến theo số lượng nguyện vọng. Lọc ảo và công bố điểm chuẩn - Khoảng giữa tháng 8/2026 Xác nhận nhập học - Từ giữa đến cuối tháng 8/2026 * Lưu ý: Thí sinh trúng tuyển xác nhận nhập học trực tuyến trên hệ thống của Bộ. Thông tin chi tiết về thời gian và hình thức đăng ký xét tuyển Sẽ được cập nhật trên website chính thức của Trường Du lịch – Đại học Huế. Thí sinh có thể lựa chọn phương thức đăng ký phù hợp và theo dõi các thông báo mới nhất để không bỏ lỡ cơ hội xét tuyển.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-du-lich-dai-hoc-hue-DHD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7810102",
+            "program_name": "Du lịch điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7810104",
+            "program_name": "Quản trị du lịch và khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7810202",
+            "program_name": "Quản trị nhà hàng và dịch vụ ăn uống",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C14",
+              "C19",
+              "D01",
+              "D10",
+              "X01",
+              "X70"
+            ],
+            "score": 16.75,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 21.94,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [],
+            "score": 21.94,
+            "note": null
+          },
+          {
+            "program_code": "7810102",
+            "program_name": "Du lịch điện tử",
+            "subject_groups": [],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 22.22,
+            "note": null
+          },
+          {
+            "program_code": "7810104",
+            "program_name": "Quản trị du lịch và khách sạn",
+            "subject_groups": [],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 20.81,
+            "note": null
+          },
+          {
+            "program_code": "7810202",
+            "program_name": "Quản trị nhà hàng và dịch vụ ăn uống",
+            "subject_groups": [],
+            "score": 18.84,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

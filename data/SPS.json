@@ -2780,5 +2780,4896 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Sư phạm TPHCM các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Đối với phương thức xét tuyển thẳng: đăng ký và cung cấp minh chứng xét tuyển trực tuyến tại xettuyen.hcmue.edu.vn từ ngày 01/6/2026 đến 17h00 ngày 20/6/2026. Đối với các phương thức còn lại: đăng ký theo hướng dẫn và khung thời gian của Bộ Giáo dục và Đào tạo Thời gian cung cấp minh chứng xét tuyển đối với các phương thức còn lại: dự kiến từ 25/6 đến 15/7/2026. Trường sẽ có thông báo sau."
+  "timeline_text": "Đối với phương thức xét tuyển thẳng: đăng ký và cung cấp minh chứng xét tuyển trực tuyến tại xettuyen.hcmue.edu.vn từ ngày 01/6/2026 đến 17h00 ngày 20/6/2026. Đối với các phương thức còn lại: đăng ký theo hướng dẫn và khung thời gian của Bộ Giáo dục và Đào tạo Thời gian cung cấp minh chứng xét tuyển đối với các phương thức còn lại: dự kiến từ 25/6 đến 15/7/2026. Trường sẽ có thông báo sau.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-tphcm-SPS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.35,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C14",
+              "X01"
+            ],
+            "score": 22.35,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.42,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C14",
+              "X01"
+            ],
+            "score": 23.42,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.42,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 23.42,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 26.05,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 26.3,
+            "note": null
+          },
+          {
+            "program_code": "7140201_GL",
+            "program_name": "Giáo dục Mầm non (trình độ đại học)",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 25.14,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140201_GL",
+            "program_name": "Giáo dục Mầm non (trình độ đại học)",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 25.39,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140201_LA",
+            "program_name": "Giáo dục Mầm non (trình độ đại học)",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 25.38,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140201_LA",
+            "program_name": "Giáo dục Mầm non (trình độ đại học)",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 25.63,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.94,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.94,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.44,
+            "note": null
+          },
+          {
+            "program_code": "7140202_GL",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.75,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140202_GL",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.75,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140202_GL",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.25,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140202_LA",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.21,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140202_LA",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.21,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140202_LA",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.71,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.7,
+            "note": null
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 27.45,
+            "note": null
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 27.33,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 27.08,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "D66"
+            ],
+            "score": 27.33,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 27.08,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 27.12,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C14",
+              "X01"
+            ],
+            "score": 27.37,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 27.12,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 27.62,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 26.52,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "M08"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "7140206_LA",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 24.93,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140206_LA",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "M08"
+            ],
+            "score": 24.68,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q02"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q01"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7140208_LA",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q02"
+            ],
+            "score": 20,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140208_LA",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q01"
+            ],
+            "score": 20.25,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.25,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.75,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 28.25,
+            "note": null
+          },
+          {
+            "program_code": "7140209_LA",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 27.57,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140209_LA",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.07,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 23.98,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.73,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 28.17,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.42,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.92,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 29.38,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 30.38,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 30.88,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 26.21,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 26.71,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 29.07,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.57,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 29.57,
+            "note": null
+          },
+          {
+            "program_code": "7140217_LA",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.98,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140217_LA",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.48,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140217_LA",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.48,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C19",
+              "X70"
+            ],
+            "score": 28.48,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 29.23,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.73,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.83,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 29.08,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C20",
+              "X74"
+            ],
+            "score": 28.58,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 29.33,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.79,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 26.54,
+            "note": null
+          },
+          {
+            "program_code": "7140231_LA",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.62,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140231_LA",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 25.37,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.65,
+            "note": null
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 21.15,
+            "note": null
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D01",
+              "D02"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 25.39,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.85,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02",
+              "X07"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 26.63,
+            "note": null
+          },
+          {
+            "program_code": "7140247_GL",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.12,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140247_GL",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 23.37,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140247_GL",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 24.12,
+            "note": "Đào tạo tại Gia Lai"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.59,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 27.84,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C19",
+              "C20",
+              "X70",
+              "X74"
+            ],
+            "score": 27.34,
+            "note": null
+          },
+          {
+            "program_code": "7140249_LA",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.14,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140249_LA",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 27.39,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7140249_LA",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C19",
+              "C20",
+              "X70",
+              "X74"
+            ],
+            "score": 26.89,
+            "note": "Đào tạo tại Long An"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 24.55,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02"
+            ],
+            "score": 18.25,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D01",
+              "DD2"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D14",
+              "DH5"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 27.97,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.47,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.97,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.5,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.32,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.82,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C20",
+              "X74"
+            ],
+            "score": 26.48,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.98,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.45,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.45,
+            "note": null
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "B00",
+              "X14"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "X16"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "A00",
+              "X10"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07"
+            ],
+            "score": 26.17,
+            "note": null
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.67,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.13,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C19",
+              "X70"
+            ],
+            "score": 25.38,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.13,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.89,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.39,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D14",
+              "D15"
+            ],
+            "score": 26.39,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 22.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 22.42,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 19.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 19.92,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 20.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 21.92,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 22.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.42,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 16.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 18.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 18.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 18.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 18.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ giáo dục",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 16.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 21.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 23.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 20.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 21.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 25.57,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 25.07,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 25.82,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 25.07,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 23.57,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M03"
+            ],
+            "score": 25.07,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.63,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 25.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C00",
+              "C19"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.39,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 25.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C00",
+              "C19"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C00",
+              "C19"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.39,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.39,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 25.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Đặc biệt",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.23,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.48,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.48,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 26.98,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 26.98,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.23,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.48,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 26.98,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.23,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 27.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.78,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.78,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 27.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 27.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X01",
+              "X78"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C14",
+              "D66"
+            ],
+            "score": 27.78,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "M08"
+            ],
+            "score": 25.31,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 25.81,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "M08"
+            ],
+            "score": 25.31,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 26.06,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "M08"
+            ],
+            "score": 25.31,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 23.81,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q02"
+            ],
+            "score": 22.54,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q01"
+            ],
+            "score": 23.04,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q02"
+            ],
+            "score": 22.54,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q01"
+            ],
+            "score": 23.29,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q02"
+            ],
+            "score": 22.54,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Quốc phòng - An ninh",
+            "subject_groups": [
+              "Q01"
+            ],
+            "score": 21.04,
+            "note": "Kết hợp năng khiếu và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 27.91,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.41,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 25.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "X06"
+            ],
+            "score": 27.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 20.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 22.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 22.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 22.72,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 22.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 20.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "C01"
+            ],
+            "score": 28.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật lí)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật lí)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "C01"
+            ],
+            "score": 28.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật lí)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật lí)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "C01"
+            ],
+            "score": 26.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật lí)"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật lí)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 28.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 26.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 28.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 26.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 27.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 26.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 27.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 25.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.77,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.02,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.27,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.77,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.02,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.27,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.77,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.02,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.27,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 28.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 27.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 28.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 28.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 28.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 27.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 28.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 28.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 27.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 27.53,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.72,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 26.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.97,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 26.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 25.72,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 20.48,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.48,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.98,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 20.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.23,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 19.98,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.23,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140232",
+            "program_name": "Sư phạm Tiếng Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.73,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.56,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.06,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.31,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.15,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.4,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.65,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 21.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01",
+              "X07"
+            ],
+            "score": 20.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 22.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02",
+              "X08"
+            ],
+            "score": 20.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01",
+              "X07"
+            ],
+            "score": 22.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 20.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02",
+              "X08"
+            ],
+            "score": 21.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 19.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 21.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 20.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 22.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 20.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A01",
+              "X07"
+            ],
+            "score": 22.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 21.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02",
+              "X08"
+            ],
+            "score": 21.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật lí)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 21.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 21.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 22.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A02"
+            ],
+            "score": 24.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật Lí)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 24.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A02"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật Lí)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 24.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A02"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật Lí)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 25.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "X70",
+              "X74"
+            ],
+            "score": 26.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "C20"
+            ],
+            "score": 26.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "X70",
+              "X74"
+            ],
+            "score": 26.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "C20"
+            ],
+            "score": 26.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "X70",
+              "X74"
+            ],
+            "score": 26.03,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "C20"
+            ],
+            "score": 26.28,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.49,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 23.99,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.74,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 24.24,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.99,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "X79"
+            ],
+            "score": 23.49,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 16.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 16.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 16.63,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 16.63,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 16.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D66",
+              "X78"
+            ],
+            "score": 15.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 16.63,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.97,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D02"
+            ],
+            "score": 18.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D03"
+            ],
+            "score": 17.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.43,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.68,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.18,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.22,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.47,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.72,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.84,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.34,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.34,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.84,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.59,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.09,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.41,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.41,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.66,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.16,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.41,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 28.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 28.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 26.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.33,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 26.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 25.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 26.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 27.57,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03",
+              "C04"
+            ],
+            "score": 26.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.92,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.92,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 25.42,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.92,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 25.42,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00",
+              "C20"
+            ],
+            "score": 25.42,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.17,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D14",
+              "D09"
+            ],
+            "score": 20.5,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Anh)"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D14",
+              "D09"
+            ],
+            "score": 20.75,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Anh)"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D14",
+              "D09"
+            ],
+            "score": 20,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Anh)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.64,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.89,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.14,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 18.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "X14",
+              "X16"
+            ],
+            "score": 17.85,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 20.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "X14",
+              "X16"
+            ],
+            "score": 19.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 20.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7420203",
+            "program_name": "Sinh học ứng dụng",
+            "subject_groups": [
+              "X14",
+              "X16"
+            ],
+            "score": 19.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Sinh)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A00",
+              "X07",
+              "X08"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật Lí)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Vật Lí)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A00",
+              "X07",
+              "X08"
+            ],
+            "score": 23.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật Lí)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Vật Lí)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A00",
+              "X07",
+              "X08"
+            ],
+            "score": 22.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật Lí)"
+          },
+          {
+            "program_code": "7440102",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Vật Lí)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "X10"
+            ],
+            "score": 23.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "X10"
+            ],
+            "score": 23.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 21.38,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21.88,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "X10"
+            ],
+            "score": 21.13,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Hóa)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07"
+            ],
+            "score": 25.37,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.87,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07"
+            ],
+            "score": 25.62,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.12,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "X07"
+            ],
+            "score": 23.37,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.87,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 16.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 16.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 18.35,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 18.1,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D07"
+            ],
+            "score": 18.6,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 18.36,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Toán)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 24.07,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 24.07,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 24.07,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 24.32,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.82,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.58,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.83,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm Hà Nội 2 (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.08,
+            "note": "Kết hợp học bạ THPT và điểm thi ĐGNL Sư phạm TPHCM (Văn)"
+          }
+        ]
+      }
+    ]
+  }
 }

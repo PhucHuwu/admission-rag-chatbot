@@ -703,5 +703,495 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn các năm của trường Khoa học liên ngành và Nghệ thuật - ĐHQGHN các năm Tại đây",
   "tuition_text": "1. Học phí được tính theo tháng, hoặc theo tín chỉ với các mức như sau: TT Chương trình đào tạo Số tín chỉ Mức học phí/ 01 tín chỉ Mức học phí/ 01 tháng 1 Quản trị thương hiệu 145 965.000 3.500.000 2 Quản lý giải trí và sự kiện 145 965.000 3.500.000 3 Quản trị đô thị thông minh và bền vững 150 930.000 3.500.000 4 Quản trị tài nguyên di sản 146 955.000 3.500.000 5 Kiến trúc và thiết kế cảnh quan 175 1.000.000 3.500.000 6 Thời trang và sáng tạo 148 920.000 3.420.000 7 Đồ hoạ công nghệ số 148 920.000 3.420.000 8 Nội thất bền vững 148 920.000 3.420.000 9 Nhiếp ảnh nghệ thuật 148 920.000 3.420.000 10 Nghệ thuật tạo hình đương đại 148 920.000 3.420.000 11 Công nghệ truyền thông 147 950.000 3.500.000 ** Mức học phí trên áp dụng cho năm học 2026 - 2027, nếu tăng sẽ theo lộ trình của ĐHQGHN và quy định của Nhà nước và được cập nhật công khai. - Sinh viên diện dự bị đại học, cử tuyển nộp học phí đầy đủ theo chính sách học phí của Trường và được hưởng chính sách miễn, giảm học phí theo đúng quy định pháp luật hiện hành. 2. Học bổng Học bổng dưới đây dành cho thí sinh trúng tuyển và nhập học, cam kết học tập tại Trường theo ngành đã trúng tuyển. Ngoài ra, trong quá trình học tập, sinh viên được xét cấp học bổng khuyến khích học tập, học bổng tài trợ từ nước ngoài/doanh nghiệp/cá nhân hảo tâm theo quy định hiện hành. a) Học bổng “Tinh hoa liên ngành” trị giá 100.000.000đ00: 01 suất - Đối tượng xét: Tất cả các ngành - Điều kiện xét trao học bổng: Sinh viên nhập học, đạt 1 trong 2 điều kiện sau: + Đạt 30 điểm (không tính điểm ưu tiên) cho 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển vào CTĐT quy định tại mục 4.2. + Đạt 140 điểm trong kì thi đánh giá năng lực HSA của ĐHQGHN năm 2026 Ghi chú: Thí sinh đã nhận học bổng “Tinh hoa liên ngành” không xét học bổng đầu vào. b) Học bổng đầu vào (dự kiến) - Thủ khoa toàn khóa: 20 triệu đồng/01 suất, sinh viên có điểm cao nhất toàn Trường - Thủ khoa của ngành: Sinh viên có điểm đầu vào cao nhất của mỗi CTĐT TT Chương trình đào tạo Mức học bổng 2 Quản trị thương hiệu 10 triệu đồng 3 Quản lý giải trí và sự kiện 10 triệu đồng 4 Quản trị đô thị thông minh và bền vững 10 triệu đồng 5 Quản trị tài nguyên di sản 10 triệu đồng 6 Kiến trúc và thiết kế cảnh quan 10 triệu đồng 7 Thiết kế thời trang 10 triệu đồng 8 Thiết kế đồ họa 10 triệu đồng 9 Nội thất bền vững 10 triệu đồng 10 Nhiếp ảnh nghệ thuật 10 triệu đồng 11 Nghệ thuật tạo hình đương đại 10 triệu đồng 12 Công nghệ truyền thông 10 triệu đồng",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-khoa-hoc-lien-nganh-va-nghe-thuat-ha-noi-QHK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "72101a1A",
+            "program_name": "Nhiếp ảnh nghệ thuật",
+            "subject_groups": [
+              "H01",
+              "H06",
+              "H08",
+              "H09",
+              "H10",
+              "H11"
+            ],
+            "score": 22.43,
+            "note": null
+          },
+          {
+            "program_code": "72101a1B",
+            "program_name": "Nghệ thuật truyền thông Đương đại",
+            "subject_groups": [
+              "H01",
+              "H06",
+              "H08",
+              "H09",
+              "H10",
+              "H11"
+            ],
+            "score": 23.98,
+            "note": null
+          },
+          {
+            "program_code": "7210407A",
+            "program_name": "Thời trang và sáng tạo",
+            "subject_groups": [
+              "H01",
+              "H06",
+              "H10",
+              "H11"
+            ],
+            "score": 22.95,
+            "note": null
+          },
+          {
+            "program_code": "7210407A",
+            "program_name": "Thời trang và sáng tạo",
+            "subject_groups": [
+              "H04"
+            ],
+            "score": 22.45,
+            "note": null
+          },
+          {
+            "program_code": "7210407A",
+            "program_name": "Thời trang và sáng tạo",
+            "subject_groups": [
+              "H08",
+              "H09"
+            ],
+            "score": 23.45,
+            "note": null
+          },
+          {
+            "program_code": "7210407B",
+            "program_name": "Thiết kế nội thất bền vững",
+            "subject_groups": [
+              "H01",
+              "H06",
+              "H10",
+              "H11"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7210407B",
+            "program_name": "Thiết kế nội thất bền vững",
+            "subject_groups": [
+              "H04"
+            ],
+            "score": 22.48,
+            "note": null
+          },
+          {
+            "program_code": "7210407B",
+            "program_name": "Thiết kế nội thất bền vững",
+            "subject_groups": [
+              "H08",
+              "H09"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7210407C",
+            "program_name": "Đồ họa công nghệ số",
+            "subject_groups": [
+              "H08",
+              "H09"
+            ],
+            "score": 24.91,
+            "note": null
+          },
+          {
+            "program_code": "7210407C",
+            "program_name": "Đồ họa công nghệ số",
+            "subject_groups": [
+              "H01",
+              "H06",
+              "H10",
+              "H11"
+            ],
+            "score": 24.41,
+            "note": null
+          },
+          {
+            "program_code": "7210407C",
+            "program_name": "Đồ họa công nghệ số",
+            "subject_groups": [
+              "H04"
+            ],
+            "score": 23.91,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "A00",
+              "X26"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "D07",
+              "D10",
+              "X25",
+              "X27"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "X06",
+              "X07"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D19",
+              "D20",
+              "D29",
+              "D30",
+              "D39",
+              "D40",
+              "D44",
+              "D45",
+              "D64",
+              "D65",
+              "X25",
+              "X33",
+              "X37"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D04",
+              "D09",
+              "D10"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "C04",
+              "X01",
+              "X78",
+              "X86",
+              "X90"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Quản trị thương hiệu",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.1,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D04",
+              "D09",
+              "D10"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "C01",
+              "C02"
+            ],
+            "score": 25.85,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "C04",
+              "X01",
+              "X78",
+              "X86",
+              "X90"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7349002",
+            "program_name": "Quản lý giải trí và sự kiện",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D19",
+              "D20",
+              "D29",
+              "D30",
+              "D39",
+              "D40",
+              "D44",
+              "D45",
+              "D64",
+              "D65",
+              "X25",
+              "X33",
+              "X37"
+            ],
+            "score": 25.6,
+            "note": null
+          },
+          {
+            "program_code": "7580101A",
+            "program_name": "Kiến trúc và Thiết kế cảnh quan",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V03",
+              "V06"
+            ],
+            "score": 22.56,
+            "note": null
+          },
+          {
+            "program_code": "7580101A",
+            "program_name": "Kiến trúc và Thiết kế cảnh quan",
+            "subject_groups": [
+              "V02",
+              "V10",
+              "V11"
+            ],
+            "score": 22.06,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D04"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "D07",
+              "D10",
+              "D19",
+              "D20",
+              "D24",
+              "D25",
+              "D29",
+              "D30"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "X06",
+              "X22"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "A00",
+              "A04"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7900204",
+            "program_name": "Quản trị đô thị thông minh và bền vững",
+            "subject_groups": [
+              "C04",
+              "X07",
+              "X23"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7900205",
+            "program_name": "Quản trị tài nguyên di sản",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "7900205",
+            "program_name": "Quản trị tài nguyên di sản",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7900205",
+            "program_name": "Quản trị tài nguyên di sản",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D29",
+              "D30",
+              "D44",
+              "D45",
+              "D64",
+              "D65"
+            ],
+            "score": 24.88,
+            "note": null
+          },
+          {
+            "program_code": "7900205",
+            "program_name": "Quản trị tài nguyên di sản",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D04"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7900205",
+            "program_name": "Quản trị tài nguyên di sản",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "X78",
+              "X86",
+              "X90"
+            ],
+            "score": 24.38,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

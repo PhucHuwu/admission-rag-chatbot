@@ -465,5 +465,244 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Quân y các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-quan-y-he-quan-su-YQH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 27.94,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 27.71,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 29.03,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "D07"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "D07"
+            ],
+            "score": 24.81,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "D07"
+            ],
+            "score": 28.31,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "D07"
+            ],
+            "score": 28.12,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 110,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 108,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 130,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 120,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 98,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 96,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 113,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 111,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [],
+            "score": 985,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nam, miền Nam)",
+            "subject_groups": [],
+            "score": 975,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [],
+            "score": 1121,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Ngành Y khoa (Bác sỹ đa khoa) (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [],
+            "score": 1060,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [],
+            "score": 885,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nam, miền Nam)",
+            "subject_groups": [],
+            "score": 870,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [],
+            "score": 1010,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [],
+            "score": 995,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -112,5 +112,541 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-nong-lam-tphcm-tai-ninh-thuan-NLN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          }
+        ]
+      }
+    ]
+  }
 }

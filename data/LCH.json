@@ -321,5 +321,182 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Chính trị các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Thời gian tổ chức sơ tuyển và đăng ký sơ tuyển a) Thời gian tổ chức sơ tuyển: Từ ngày 10/02/2026 đến ngày 15/4/2026. b) Đăng ký sơ tuyển Thí sinh là thanh niên ngoài Quân đội đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại Ban TSQS xã, phường, đặc khu nơi thí sinh đăng ký thường trú (gọi chung là Ban TSQS cấp xã). Thí sinh là quân nhân đang tại ngũ đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại đơn vị cấp trung đoàn hoặc tương đương (gọi chung là Ban TSQS cấp trung đoàn). Khi đăng ký sơ tuyển, thí sinh phải đăng ký xét tuyển nguyện vọng 1 (nguyện vọng cao nhất) vào Trường Sĩ quan Chính trị theo đúng tổ hợp môn xét tuyển quy định. Thí sinh chỉ được đăng ký sơ tuyển vào 1 trong 2 khối trường Quân đội hoặc Công an (thí sinh đã tham gia sơ tuyển vào các trường thuộc Bộ Quốc phòng thì không được tham gia sơ tuyển vào các trường thuộc Bộ Công an). Hồ sơ tuyển sinh Mỗi thí sinh phải làm các loại hồ sơ riêng biệt gồm: Hồ sơ đăng ký sơ tuyển (do Ban TSQS Bộ Quốc phòng phát hành). Hồ sơ đăng ký xét tuyển (có hướng dẫn riêng cho từng phương thức xét tuyển). Thí sinh sử dụng kết quả Kỳ thi tốt nghiệp THPT để xét tuyển phải đăng ký hồ sơ và tham dự kỳ thi năm 2026 theo quy định của Bộ GD&ĐT."
+  "timeline_text": "Thời gian tổ chức sơ tuyển và đăng ký sơ tuyển a) Thời gian tổ chức sơ tuyển: Từ ngày 10/02/2026 đến ngày 15/4/2026. b) Đăng ký sơ tuyển Thí sinh là thanh niên ngoài Quân đội đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại Ban TSQS xã, phường, đặc khu nơi thí sinh đăng ký thường trú (gọi chung là Ban TSQS cấp xã). Thí sinh là quân nhân đang tại ngũ đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại đơn vị cấp trung đoàn hoặc tương đương (gọi chung là Ban TSQS cấp trung đoàn). Khi đăng ký sơ tuyển, thí sinh phải đăng ký xét tuyển nguyện vọng 1 (nguyện vọng cao nhất) vào Trường Sĩ quan Chính trị theo đúng tổ hợp môn xét tuyển quy định. Thí sinh chỉ được đăng ký sơ tuyển vào 1 trong 2 khối trường Quân đội hoặc Công an (thí sinh đã tham gia sơ tuyển vào các trường thuộc Bộ Quốc phòng thì không được tham gia sơ tuyển vào các trường thuộc Bộ Công an). Hồ sơ tuyển sinh Mỗi thí sinh phải làm các loại hồ sơ riêng biệt gồm: Hồ sơ đăng ký sơ tuyển (do Ban TSQS Bộ Quốc phòng phát hành). Hồ sơ đăng ký xét tuyển (có hướng dẫn riêng cho từng phương thức xét tuyển). Thí sinh sử dụng kết quả Kỳ thi tốt nghiệp THPT để xét tuyển phải đăng ký hồ sơ và tham dự kỳ thi năm 2026 theo quy định của Bộ GD&ĐT.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-chinh-tri-dai-hoc-chinh-tri-LCH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 31.33,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 29,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.17,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 30.32,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 111,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 105,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 995,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [],
+            "score": 955,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 26.18,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 27.97,
+            "note": "XTT diện huyện nghèo"
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [],
+            "score": 24.51,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

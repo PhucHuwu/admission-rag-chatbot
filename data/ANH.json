@@ -793,5 +793,395 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học viện An ninh nhân dân các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-an-ninh-nhan-dan-ANH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201",
+            "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.98,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.05,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.03,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.78,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.58,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.09,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.27,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.48,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.69,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.15,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201",
+            "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.98,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.05,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.03,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.78,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.58,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.09,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.27,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.48,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.69,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.15,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
 }

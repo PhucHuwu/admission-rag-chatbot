@@ -1022,5 +1022,885 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Khoa Học Và Công Nghệ Hà Nội các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Lịch tuyển sinh: Đợt Thời gian nhận hồ sơ (PT1, PT2, PT3) Kiểm tra kiến thức (PT1), Phỏng vấn trực tiếp (PT2) Phỏng vấn trực tuyến (PT1), Phỏng vấn trực tiếp (PT2) 1 28/01 – 28/02/2026 14/03 – 15/03/2026 21/03 – 22/03/2026 – Lịch tuyển sinh có thể thay đổi và sẽ được cập nhật trên website của Trường. Kết quả xét tuyển thẳng, kết quả thi ĐGNL, kết quả phỏng vấn sẽ được thông báo tới thí sinh qua email và trên Hệ thống tuyển sinh trực tuyến của Trường."
+  "timeline_text": "Lịch tuyển sinh: Đợt Thời gian nhận hồ sơ (PT1, PT2, PT3) Kiểm tra kiến thức (PT1), Phỏng vấn trực tiếp (PT2) Phỏng vấn trực tuyến (PT1), Phỏng vấn trực tiếp (PT2) 1 28/01 – 28/02/2026 14/03 – 15/03/2026 21/03 – 22/03/2026 – Lịch tuyển sinh có thể thay đổi và sẽ được cập nhật trên website của Trường. Kết quả xét tuyển thẳng, kết quả thi ĐGNL, kết quả phỏng vấn sẽ được thông báo tới thí sinh qua email và trên Hệ thống tuyển sinh trực tuyến của Trường.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi-KCN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91",
+              "D08",
+              "D15",
+              "D32",
+              "D96"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7420201-01",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc (Song bằng)",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91",
+              "D08",
+              "D15",
+              "D32",
+              "D96"
+            ],
+            "score": 24.82,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7440112-01",
+            "program_name": "Hóa học (Song bằng)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91"
+            ],
+            "score": 23.53,
+            "note": null
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học vật liệu tiên tiến và Công nghệ Nano",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A19",
+              "A09",
+              "A02",
+              "A04",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường Ứng dụng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91",
+              "D08",
+              "D15",
+              "D32",
+              "D96"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A19",
+              "A02",
+              "D90",
+              "D91",
+              "D32",
+              "D96",
+              "D08",
+              "D97",
+              "D84"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A19",
+              "A09",
+              "A04",
+              "B00",
+              "D07",
+              "D90",
+              "D20",
+              "D91",
+              "D08",
+              "D32",
+              "D96",
+              "D97",
+              "D84",
+              "D33",
+              "D98",
+              "D01"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin - Truyền thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A19",
+              "A02",
+              "D90",
+              "D91",
+              "D32",
+              "D96",
+              "D08",
+              "D97",
+              "D84"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201-01",
+            "program_name": "Công nghệ thông tin - Truyền thông (Các trường đối tác Pháp cấp song bằng với USTH: Đại học Limoges, Đại học Sorbonne Paris Nord, Đại học Lille)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A19",
+              "A02",
+              "D90",
+              "D91",
+              "D32",
+              "D96",
+              "D08",
+              "D97",
+              "D84"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A19",
+              "A02",
+              "D90",
+              "D91",
+              "D32",
+              "D96",
+              "D08",
+              "D97",
+              "D84"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ Kỹ thuật Cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A19",
+              "A09",
+              "A02",
+              "A04",
+              "B00",
+              "D07",
+              "D20",
+              "D90",
+              "D91"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Kỹ thuật Hàng không",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A19"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A19",
+              "A09",
+              "A04",
+              "A02",
+              "D90",
+              "D91",
+              "D07",
+              "D20",
+              "D15",
+              "D32",
+              "D96",
+              "D33",
+              "D98",
+              "D10",
+              "D08",
+              "D84",
+              "D97"
+            ],
+            "score": 18.35,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A02",
+              "A19"
+            ],
+            "score": 18.6,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện và Năng lượng tái tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A02",
+              "A19"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7520401",
+            "program_name": "Công nghệ vi mạch bán dẫn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A02",
+              "A19",
+              "A04"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Khoa học và Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A02",
+              "B00",
+              "D07",
+              "D90",
+              "D91",
+              "D20",
+              "D08",
+              "D32",
+              "D96",
+              "D15"
+            ],
+            "score": 18.25,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A09",
+              "A19",
+              "B00",
+              "D07",
+              "D90",
+              "D91",
+              "D08",
+              "D32",
+              "D96"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Khoa học và Công nghệ y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "A02",
+              "B00",
+              "D07",
+              "D90",
+              "D91",
+              "D20",
+              "D08",
+              "D32",
+              "D96",
+              "D15"
+            ],
+            "score": 19.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 19.25,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7420201-01",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc (Các trường đối tác Pháp cấp song bằng với USTH: Đại học Sorbonne Paris Nord, Đại học Montpellier, Đại học Lille)",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 24.82,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X10",
+              "D07"
+            ],
+            "score": 18.75,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7440112-01",
+            "program_name": "Hóa học (Các trường đối tác Pháp cấp song bằng với USTH: Đại học Paris Est - Créteil, Đại học Aix Marseille, Đại học Reims Champagne – Ardenne, Đại học Lille)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X10",
+              "D07"
+            ],
+            "score": 23.53,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học vật liệu tiên tiến và Công nghệ Nano",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02",
+              "X10",
+              "D07",
+              "B00"
+            ],
+            "score": 21.75,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường Ứng dụng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "X10",
+              "X14",
+              "X06"
+            ],
+            "score": 19.75,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 20,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02",
+              "X10",
+              "D07",
+              "X14",
+              "B08",
+              "X26"
+            ],
+            "score": 19.25,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin - Truyền thông",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 18.5,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7480201-01",
+            "program_name": "Công nghệ thông tin - Truyền thông (Các trường đối tác Pháp cấp song bằng với USTH: Đại học Limoges, Đại học Sorbonne Paris Nord, Đại học Lille)",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 24.25,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 21,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ Kỹ thuật Cơ điện tử",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 20.5,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Kỹ thuật Hàng không",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "D07"
+            ],
+            "score": 23.22,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "X26",
+              "D07"
+            ],
+            "score": 18.35,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 18.6,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện và Năng lượng tái tạo",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 19,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7520401",
+            "program_name": "Công nghệ vi mạch bán dẫn",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02"
+            ],
+            "score": 23,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Khoa học và Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 18.25,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "D07"
+            ],
+            "score": 20,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Khoa học và Công nghệ y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "A01"
+            ],
+            "score": 19.25,
+            "note": "Kết hợp học bạ THPT và Phỏng vấn"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 58.71,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7420201-01",
+            "program_name": "Công nghệ sinh học - Phát triển thuốc (Song bằng)",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 74.95,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X10",
+              "D07"
+            ],
+            "score": 53.54,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7440112-01",
+            "program_name": "Hóa học (Song bằng)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X10",
+              "D07"
+            ],
+            "score": 67.65,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7440122",
+            "program_name": "Khoa học vật liệu tiên tiến và Công nghệ Nano",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02",
+              "X10",
+              "D07",
+              "B00"
+            ],
+            "score": 59.85,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học Môi trường Ứng dụng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "X10",
+              "X14",
+              "X06"
+            ],
+            "score": 57.35,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 55.9,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02",
+              "X10",
+              "D07",
+              "X14",
+              "B08",
+              "X26"
+            ],
+            "score": 64.45,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin - Truyền thông",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 52.21,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7480201-01",
+            "program_name": "Công nghệ thông tin - Truyền thông (Các trường đối tác Pháp cấp song bằng với USTH: Đại học Limoges, Đại học Sorbonne Paris Nord, Đại học Lille)",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 71.5,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "X26"
+            ],
+            "score": 58.15,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ Kỹ thuật Cơ điện tử",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 56.83,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Kỹ thuật Hàng không",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "D07"
+            ],
+            "score": 66.1,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "X26",
+              "D07"
+            ],
+            "score": 60.78,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 51.38,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện và Năng lượng tái tạo",
+            "subject_groups": [
+              "X06",
+              "A01"
+            ],
+            "score": 72.35,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7520401",
+            "program_name": "Công nghệ vi mạch bán dẫn",
+            "subject_groups": [
+              "X06",
+              "A01",
+              "A00",
+              "A02"
+            ],
+            "score": 70,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Khoa học và Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B08"
+            ],
+            "score": 57.1,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "D07"
+            ],
+            "score": 62.38,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Khoa học và Công nghệ y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "A01"
+            ],
+            "score": 55.8,
+            "note": "Xét tuyển dựa trên kết quả ĐGNL do trường tổ chức"
+          }
+        ]
+      }
+    ]
+  }
 }

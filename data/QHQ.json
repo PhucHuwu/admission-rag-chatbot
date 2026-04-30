@@ -822,5 +822,359 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Quốc tế - Đại học Quốc Gia Hà Nội các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-quoc-te-dai-hoc-quoc-gia-ha-noi-QHQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHQ01",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "QHQ02",
+            "program_name": "Kế toán, Phân tích và Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "QHQ03",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D01",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ04",
+            "program_name": "Tin học và Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ05",
+            "program_name": "Phân tích dữ liệu kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D01",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "QHQ06",
+            "program_name": "Marketing (song bằng do ĐHQGHN và Đại học HELP, Malaysia cùng cấp bằng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ07",
+            "program_name": "Quản lý (song bằng do ĐHQGHN và Đại học Keuka, Hoa Kỳ cùng cấp bằng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "QHQ08",
+            "program_name": "Tự động hóa và Tin học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ09",
+            "program_name": "Ngôn ngữ Anh (chuyên sâu Kinh doanh – Công nghệ thông tin)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "QHQ10",
+            "program_name": "Công nghệ thông tin ứng dụng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ11",
+            "program_name": "Công nghệ tài chính và Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D01",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ12",
+            "program_name": "Kỹ thuật hệ thống công nghiệp và Logistics",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "D07",
+              "C01",
+              "C02",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "QHQ13",
+            "program_name": "Kinh doanh số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D07",
+              "D29",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "QHQ14",
+            "program_name": "Truyền thông số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D07",
+              "D29",
+              "C01",
+              "C02",
+              "X02",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHQ01",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 76,
+            "note": null
+          },
+          {
+            "program_code": "QHQ02",
+            "program_name": "Kế toán, Phân tích và Kiểm toán",
+            "subject_groups": [],
+            "score": 69,
+            "note": null
+          },
+          {
+            "program_code": "QHQ03",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ04",
+            "program_name": "Tin học và Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 72,
+            "note": null
+          },
+          {
+            "program_code": "QHQ05",
+            "program_name": "Phân tích dữ liệu kinh doanh",
+            "subject_groups": [],
+            "score": 69,
+            "note": null
+          },
+          {
+            "program_code": "QHQ06",
+            "program_name": "Marketing (song bằng do ĐHQGHN và Đại học HELP, Malaysia cùng cấp bằng)",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ07",
+            "program_name": "Quản lý (song bằng do ĐHQGHN và Đại học Keuka, Hoa Kỳ cùng cấp bằng)",
+            "subject_groups": [],
+            "score": 66,
+            "note": null
+          },
+          {
+            "program_code": "QHQ08",
+            "program_name": "Tự động hóa và Tin học",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ09",
+            "program_name": "Ngôn ngữ Anh (chuyên sâu Kinh doanh – Công nghệ thông tin)",
+            "subject_groups": [],
+            "score": 79,
+            "note": null
+          },
+          {
+            "program_code": "QHQ10",
+            "program_name": "Công nghệ thông tin ứng dụng",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ11",
+            "program_name": "Công nghệ tài chính và Kinh doanh số",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ12",
+            "program_name": "Kỹ thuật hệ thống công nghiệp và Logistics",
+            "subject_groups": [],
+            "score": 67,
+            "note": null
+          },
+          {
+            "program_code": "QHQ13",
+            "program_name": "Kinh doanh số",
+            "subject_groups": [],
+            "score": 72,
+            "note": null
+          },
+          {
+            "program_code": "QHQ14",
+            "program_name": "Truyền thông số",
+            "subject_groups": [],
+            "score": 76,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

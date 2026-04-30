@@ -195,5 +195,86 @@
   ],
   "cutoff_scores_text": null,
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-siquan-tang-thiet-giap-TGH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 22.36,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 93,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [],
+            "score": 837,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [],
+            "score": 776,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

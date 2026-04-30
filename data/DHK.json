@@ -1671,5 +1671,550 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn các năm của trường Đại học Kinh tế - ĐH Huế tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-dai-hoc-hue-DHK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310101TA",
+            "program_name": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310107",
+            "program_name": "Thống kê kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340101TA",
+            "program_name": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301TA",
+            "program_name": "Kế toán (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Tài chính - Ngân hàng (Liên kết)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620115",
+            "program_name": "Kinh tế nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7903124",
+            "program_name": "Song ngành Kinh tế - Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310101TA",
+            "program_name": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310107",
+            "program_name": "Thống kê kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Kinh tế số",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340101TA",
+            "program_name": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 800,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340301TA",
+            "program_name": "Kế toán (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Tài chính - Ngân hàng (Liên kết)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 720,
+            "note": null
+          },
+          {
+            "program_code": "7620115",
+            "program_name": "Kinh tế nông nghiệp",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7903124",
+            "program_name": "Song ngành Kinh tế - Tài chính",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

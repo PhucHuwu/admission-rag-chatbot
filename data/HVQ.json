@@ -627,5 +627,438 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Học Viện Quản Lý Giáo Dục các năm Tại đây",
   "tuition_text": "- Căn cứ Nghị định số 238/2025/NĐ-CP ngày 03 tháng 9 năm 2025 quy định về chính sách học phí, miễn giảm, hỗ trợ học phí, hỗ trợ chi phí học tập và giá dịch vụ trong lĩnh vực giáo dục, đào tạo - Mức học phí tối đa năm học 2026-2027 đối với các ngành: 20.900.000đ/năm học - Mức trần học phí sẽ thay đổi khi Nhà nước ban hành các Quy định mới về học phí/chi phí đào tạo hoặc văn bản pháp luật thay thế Nghị định số 238/2025/NĐ-CP ngày 03 tháng 9 năm 2025",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-quan-ly-giao-duc-HVQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học (GD trẻ rối loạn phát triển)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 24.83,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 24.68,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D10",
+              "D14",
+              "X78",
+              "X25"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X25",
+              "X26"
+            ],
+            "score": 21.4625,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X26",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học (GD trẻ rối loạn phát triển)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 25.864,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 25.744,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D10",
+              "D14",
+              "X78",
+              "X25"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X25",
+              "X26"
+            ],
+            "score": 23.17,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 25.896,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 25.504,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X26",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học (GD trẻ rối loạn phát triển)",
+            "subject_groups": [],
+            "score": 86.32,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 85.72,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 91.3,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 73.5597,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 86.48,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 84.52,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học (GD trẻ rối loạn phát triển)",
+            "subject_groups": [],
+            "score": 58.7377,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 58.3651,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 63.244,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 50.8169,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 58.8371,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 57.6199,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 37.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-h-su-pham-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL ĐH Sư phạm HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học (GD trẻ rối loạn phát triển)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 23.83,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 23.68,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D10",
+              "D14",
+              "X78",
+              "X25"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X25",
+              "X26"
+            ],
+            "score": 20.4625,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 23.87,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10",
+              "X26",
+              "X06"
+            ],
+            "score": 14,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

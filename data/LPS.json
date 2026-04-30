@@ -787,5 +787,1130 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Luật TPHCM các năm Tại đây.",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-tphcm-LPS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 25.35,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 19.12,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 20.6,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.14,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 21.4,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X25",
+              "X33",
+              "X45"
+            ],
+            "score": 21.54,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X78",
+              "X86",
+              "X98"
+            ],
+            "score": 24.44,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.05,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 19.65,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.92,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.64,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18.85,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18.12,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 20.65,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 20.4,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.54,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18.52,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.94,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 19.45,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.4,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D06"
+            ],
+            "score": 20.94,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 22.45,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.2,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 18.72,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.15,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 19.85,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 21.72,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.64,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.95,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.14,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 23.85,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.02,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 23.12,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 26.3,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D06"
+            ],
+            "score": 24.94,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 25.4,
+            "note": null
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X25",
+              "X33",
+              "X45"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X78",
+              "X86",
+              "X98"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.92,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.95,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.22,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.52,
+            "note": null
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.85,
+            "note": null
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.7,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 19.65,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18.85,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 23.55,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.92,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 20.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.2,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18.12,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.6,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 19.45,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.64,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18.52,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 22.45,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.54,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.8,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 18.72,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 25.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.94,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 21.72,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 22.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.2,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị kinh doanh",
+            "program_name": "7340101",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 19.12,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D06"
+            ],
+            "score": 20.94,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Tài chính - Ngân hàng",
+            "program_name": "7340201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 19.85,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 23.2,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.14,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.05,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Quản trị - Luật",
+            "program_name": "7340102",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 20.6,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật Thương mại quốc tế",
+            "program_name": "7380109",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 25.65,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X25",
+              "X33",
+              "X45"
+            ],
+            "score": 21.54,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Kinh doanh Quốc tế",
+            "program_name": "7340120",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 21.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Luật",
+            "program_name": "7380101",
+            "subject_groups": [
+              "X78",
+              "X86",
+              "X98"
+            ],
+            "score": 24.44,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "Ngôn ngữ Anh",
+            "program_name": "7220201",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 20.65,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

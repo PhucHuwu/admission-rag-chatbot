@@ -347,5 +347,150 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Y Dược – Đại Học Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-y-duoc-da-nang-DDY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lí học (Định hướng lâm sàng)",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "B03",
+              "D01"
+            ],
+            "score": 17.7,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "D07",
+              "A00"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hóa dược",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "A01"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "A00",
+              "D07"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "A00"
+            ],
+            "score": 19.85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lí học (Định hướng lâm sàng)",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "B03",
+              "D01"
+            ],
+            "score": 24.3,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hóa dược",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "A01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "A00",
+              "D07"
+            ],
+            "score": 24.86,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "A00"
+            ],
+            "score": 25.35,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

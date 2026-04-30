@@ -52,5 +52,4839 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Kỹ Thuật TPHCM các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-ky-thuat-tphcm-SPK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.57,
+            "note": null
+          },
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 29.57,
+            "note": null
+          },
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 29.17,
+            "note": null
+          },
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 28.89,
+            "note": null
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.79,
+            "note": null
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.01,
+            "note": null
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.27,
+            "note": null
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V01"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V02"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V07"
+            ],
+            "score": 24.3,
+            "note": null
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V10"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V08"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V01"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V08"
+            ],
+            "score": 23.05,
+            "note": null
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V07"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V09"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V11"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 23.32,
+            "note": null
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 25.92,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.18,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.03,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.94,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7320106V",
+            "program_name": "Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7320106V",
+            "program_name": "Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7320106V",
+            "program_name": "Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 22.67,
+            "note": null
+          },
+          {
+            "program_code": "7340101V",
+            "program_name": "Quản trị kinh doanh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.74,
+            "note": null
+          },
+          {
+            "program_code": "7340101V",
+            "program_name": "Quản trị kinh doanh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.72,
+            "note": null
+          },
+          {
+            "program_code": "7340101V",
+            "program_name": "Quản trị kinh doanh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.12,
+            "note": null
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.48,
+            "note": null
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.88,
+            "note": null
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.93,
+            "note": null
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.17,
+            "note": null
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.33,
+            "note": null
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.92,
+            "note": null
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.68,
+            "note": null
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.92,
+            "note": null
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.08,
+            "note": null
+          },
+          {
+            "program_code": "7340205V",
+            "program_name": "Công nghệ tài chính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7340205V",
+            "program_name": "Công nghệ tài chính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7340205V",
+            "program_name": "Công nghệ tài chính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.63,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.87,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.03,
+            "note": null
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.53,
+            "note": null
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.77,
+            "note": null
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.93,
+            "note": null
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.63,
+            "note": null
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.87,
+            "note": null
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.03,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.58,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 23.74,
+            "note": null
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.45,
+            "note": null
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.43,
+            "note": null
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.67,
+            "note": null
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.42,
+            "note": null
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.58,
+            "note": null
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.88,
+            "note": null
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.12,
+            "note": null
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.28,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.62,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.78,
+            "note": null
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.73,
+            "note": null
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.97,
+            "note": null
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.13,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.55,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.53,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.77,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.93,
+            "note": null
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.45,
+            "note": null
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.43,
+            "note": null
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.67,
+            "note": null
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.83,
+            "note": null
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.98,
+            "note": null
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.22,
+            "note": null
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.08,
+            "note": null
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.32,
+            "note": null
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.48,
+            "note": null
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.55,
+            "note": null
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.53,
+            "note": null
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 20.77,
+            "note": null
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.93,
+            "note": null
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.68,
+            "note": null
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.92,
+            "note": null
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.08,
+            "note": null
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.27,
+            "note": null
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.49,
+            "note": null
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.64,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.62,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.86,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.02,
+            "note": null
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.37,
+            "note": null
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.35,
+            "note": null
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.59,
+            "note": null
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.37,
+            "note": null
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.35,
+            "note": null
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.59,
+            "note": null
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.45,
+            "note": null
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.43,
+            "note": null
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.78,
+            "note": null
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.02,
+            "note": null
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.18,
+            "note": null
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.78,
+            "note": null
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.02,
+            "note": null
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.18,
+            "note": null
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.15,
+            "note": null
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.13,
+            "note": null
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.37,
+            "note": null
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.53,
+            "note": null
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.98,
+            "note": null
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.7,
+            "note": null
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.68,
+            "note": null
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.92,
+            "note": null
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.08,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.13,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.37,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.53,
+            "note": null
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.58,
+            "note": null
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.82,
+            "note": null
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.98,
+            "note": null
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.53,
+            "note": null
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.77,
+            "note": null
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.93,
+            "note": null
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.63,
+            "note": null
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.03,
+            "note": null
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.28,
+            "note": null
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.52,
+            "note": null
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.68,
+            "note": null
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.92,
+            "note": null
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.92,
+            "note": null
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.98,
+            "note": null
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.38,
+            "note": null
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.5,
+            "note": null
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.48,
+            "note": null
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.72,
+            "note": null
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.88,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.23,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.47,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.48,
+            "note": null
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.72,
+            "note": null
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.88,
+            "note": null
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.73,
+            "note": null
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.97,
+            "note": null
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.13,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.18,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.42,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.58,
+            "note": null
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.65,
+            "note": null
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.63,
+            "note": null
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.87,
+            "note": null
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.93,
+            "note": null
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.98,
+            "note": null
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.22,
+            "note": null
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.45,
+            "note": null
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.43,
+            "note": null
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.97,
+            "note": null
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.13,
+            "note": null
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.45,
+            "note": null
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.43,
+            "note": null
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 25.65,
+            "note": null
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.68,
+            "note": null
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.92,
+            "note": null
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.08,
+            "note": null
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.32,
+            "note": null
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.48,
+            "note": null
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.35,
+            "note": null
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.33,
+            "note": null
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.57,
+            "note": null
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.73,
+            "note": null
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.55,
+            "note": null
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.53,
+            "note": null
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.77,
+            "note": null
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.15,
+            "note": null
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.55,
+            "note": null
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.53,
+            "note": null
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.77,
+            "note": null
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.15,
+            "note": null
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.08,
+            "note": null
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.32,
+            "note": null
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.48,
+            "note": null
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.22,
+            "note": null
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.22,
+            "note": null
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.58,
+            "note": null
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.82,
+            "note": null
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.98,
+            "note": null
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.98,
+            "note": null
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.63,
+            "note": null
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 26.87,
+            "note": null
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.03,
+            "note": null
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.08,
+            "note": null
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.32,
+            "note": null
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.32,
+            "note": null
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.48,
+            "note": null
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.15,
+            "note": null
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.37,
+            "note": null
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.53,
+            "note": null
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.78,
+            "note": null
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.65,
+            "note": null
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.63,
+            "note": null
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 28.87,
+            "note": null
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 27.6,
+            "note": null
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 22.99,
+            "note": null
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.76,
+            "note": null
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.15,
+            "note": null
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.14,
+            "note": null
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 22.55,
+            "note": null
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.53,
+            "note": null
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.85,
+            "note": null
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.84,
+            "note": null
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 26.61,
+            "note": null
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 25.25,
+            "note": null
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.22,
+            "note": null
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.08,
+            "note": null
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 20.32,
+            "note": null
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.48,
+            "note": null
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V03"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V04"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V12"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V05"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V06"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V03"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V04"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V12"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V05"
+            ],
+            "score": 22.55,
+            "note": null
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V06"
+            ],
+            "score": 21.55,
+            "note": null
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.72,
+            "note": null
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.72,
+            "note": null
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.72,
+            "note": null
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.33,
+            "note": null
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 25.11,
+            "note": null
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 21.22,
+            "note": null
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 22.24,
+            "note": null
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.65,
+            "note": null
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 22.03,
+            "note": null
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "X25"
+            ],
+            "score": 20.57,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "X26"
+            ],
+            "score": 29.57,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.79,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V01",
+              "V02",
+              "V07",
+              "V08",
+              "V10"
+            ],
+            "score": 24.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V01",
+              "V07",
+              "V08",
+              "V11"
+            ],
+            "score": 22.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "X26"
+            ],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "X26"
+            ],
+            "score": 26.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "X70",
+              "X74",
+              "X78"
+            ],
+            "score": 25.18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7320106V",
+            "program_name": "Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "X02"
+            ],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101V",
+            "program_name": "Quản trị kinh doanh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 24.74,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340205V",
+            "program_name": "Công nghệ tài chính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "D01",
+              "D14",
+              "X70",
+              "X74",
+              "X78"
+            ],
+            "score": 24.73,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.9,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.4,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 27.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 21.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.27,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.64,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.37,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.37,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 27.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 27.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 28.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 23,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 26.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 28.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 24.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 28.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07"
+            ],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07"
+            ],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 23.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 27.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 24.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 25.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "X06"
+            ],
+            "score": 28.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 22.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 24.85,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 21.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V03",
+              "V04",
+              "V05",
+              "V06",
+              "V12"
+            ],
+            "score": 21.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "V03",
+              "V04",
+              "V05",
+              "V06",
+              "V12"
+            ],
+            "score": 21.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 23.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "D01",
+              "D07",
+              "X25"
+            ],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231V",
+            "program_name": "Sư phạm tiếng Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 29.57,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140246V",
+            "program_name": "Sư phạm công nghệ (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.79,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7210403V",
+            "program_name": "Thiết kế đồ họa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7210404V",
+            "program_name": "Thiết kế thời trang (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201BP",
+            "program_name": "Ngôn ngữ Anh (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201V",
+            "program_name": "Ngôn ngữ Anh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310403V",
+            "program_name": "Tâm lý học giáo dục (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7320106V",
+            "program_name": "Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101V",
+            "program_name": "Quản trị kinh doanh (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.74,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120BP",
+            "program_name": "Kinh doanh Quốc tế (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 24.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120V",
+            "program_name": "Kinh doanh Quốc tế (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122BP",
+            "program_name": "Thương mại điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122V",
+            "program_name": "Thương mại điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340205V",
+            "program_name": "Công nghệ tài chính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 23.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301BP",
+            "program_name": "Kế toán (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301V",
+            "program_name": "Kế toán (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 23.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101V",
+            "program_name": "Luật (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.73,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480108A",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 25.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480108V",
+            "program_name": "Công nghệ Kỹ thuật máy tính (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480118V",
+            "program_name": "Hệ thống nhúng và IoT (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.9,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 26.4,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201BP",
+            "program_name": "Công nghệ thông tin (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201V",
+            "program_name": "Công nghệ thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 27.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480202V",
+            "program_name": "An toàn thông tin (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480203V",
+            "program_name": "Kỹ thuật dữ liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510102A",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 21.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510102V",
+            "program_name": "Công nghệ Kỹ thuật công trình xây dựng* (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510106V",
+            "program_name": "Hệ thống kỹ thuật công trình xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.27,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 23.64,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201BP",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 23.37,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201TDA",
+            "program_name": "Chương trình đào tạo Cơ khí – Tự động Hóa (thuộc ngành Công nghệ Kỹ thuật Cơ khí) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 23.37,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201V",
+            "program_name": "Công nghệ Kỹ thuật cơ khí * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202A",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202N",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510202V",
+            "program_name": "Công nghệ chế tạo máy * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203A",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203V",
+            "program_name": "Công nghệ Kỹ thuật cơ điện tử * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 27.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 24.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205BP",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 22.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205N",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510205V",
+            "program_name": "Công nghệ Kỹ thuật ô tô * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206A",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 22.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206N",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510206V",
+            "program_name": "Công nghệ Kỹ thuật nhiệt (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510208V",
+            "program_name": "Năng lượng tái tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510209V",
+            "program_name": "Robot và trí tuệ nhân tạo (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 24.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301BP",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301V",
+            "program_name": "Công nghệ Kỹ thuật điện, điện tử (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302KTVM",
+            "program_name": "Chương trình đào tạo Kỹ thuật Thiết kế vi mạch (thuộc ngành CNKT Điện tử - viễn thông) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 28.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302N",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Nhật)",
+            "subject_groups": [],
+            "score": 23,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510302V",
+            "program_name": "Công nghệ Kỹ thuật điện tử - viễn thông (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 26.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303A",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 25.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303BP",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 25.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303V",
+            "program_name": "Công nghệ Kỹ thuật điều khiển và tự động hóa (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 28.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510401A",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 24.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510401V",
+            "program_name": "Công nghệ Kỹ thuật hóa học (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 28.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510402A",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510402V",
+            "program_name": "Công nghệ vật liệu (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510406V",
+            "program_name": "Công nghệ Kỹ thuật môi trường (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 23.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601A",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601BP",
+            "program_name": "Quản lý công nghiệp (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510601V",
+            "program_name": "Quản lý công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605BP",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605V",
+            "program_name": "Logistics và quản lý chuỗi cung ứng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 27.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510801V",
+            "program_name": "Công nghệ Kỹ thuật in (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520117V",
+            "program_name": "Kỹ thuật công nghiệp (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520212A",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 22.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520212V",
+            "program_name": "Kỹ thuật y sinh (Điện tử y sinh) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 25.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520401V",
+            "program_name": "Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 28.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101A",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101DD",
+            "program_name": "Chương trình đào tạo Khoa học thực phẩm & Dinh dưỡng (thuộc ngành Công nghệ thực phẩm) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101V",
+            "program_name": "Công nghệ thực phẩm (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 24.85,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540209V",
+            "program_name": "Công nghệ may (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7549002V",
+            "program_name": "Kỹ nghệ gỗ và nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580101V",
+            "program_name": "Kiến trúc (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 21.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580103V",
+            "program_name": "Kiến trúc nội thất (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 21.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580205V",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông * (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580302BP",
+            "program_name": "Quản lý xây dựng (đào tạo tại phân hiệu Bình Phước)",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7580302V",
+            "program_name": "Quản lý xây dựng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810202V",
+            "program_name": "Quản trị NH và DV ăn uống (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 23.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7840110V",
+            "program_name": "Quản lý và vận hành hạ tầng (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7850101V",
+            "program_name": "Quản lý tài nguyên & môi trường (chuyên ngành Môi trường và Phát triển bền vững) (đào tạo bằng tiếng Việt)",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

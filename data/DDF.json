@@ -848,5 +848,685 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Ngoại Ngữ – Đại Học Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "- Thời gian, hình thức nhận ĐKXT theo kế hoạch, hướng dẫn chung và thông báo của Bộ GD&ĐT, của Đại học Đà Nẵng và Trường Đại học Ngoại ngữ, ĐHĐN. - Thí sinh phải đăng ký nguyện vọng vào các ngành của Trường trên Hệ thống hỗ trợ tuyển sinh của Bộ GD&ĐT (qua Cổng thông tin tuyển sinh của Bộ GD&ĐT hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GD&ĐT. - Thí sinh không đăng ký nguyện vọng trên Hệ thống hỗ trợ tuyển sinh của Bộ GD&ĐT sẽ không được xét tuyển. - Nhà trường không sử dụng chứng chỉ ngoại ngữ để thay thế điểm thi môn Ngoại ngữ trong xét tuyển, mà chỉ sử dụng để xét cộng điểm cộng. Thí sinh đăng ký xét tuyển vào các ngành có tổ hợp xét tuyển bao gồm môn Ngoại ngữ bắt buộc phải có điểm thi môn Ngoại ngữ trong kỳ thi tốt nghiệp THPT năm 2026. - Minh chứng chứng chỉ năng lực ngoại ngữ dùng để xét điểm cộng: Thí sinh phải kê khai và cung cấp đầy đủ minh chứng hợp lệ trên Hệ thống của Bộ GD&ĐT trong thời gian quy định; trường hợp không cung cấp hoặc minh chứng không hợp lệ sẽ không được cộng điểm. - Minh chứng đạt giải Khuyến khích học sinh giỏi quốc gia hoặc giải Nhất, Nhì, Ba học sinh giỏi cấp tỉnh/thành phố trực thuộc Trung ương (chương trình lớp 12) dùng để xét điểm cộng: Thí sinh kê khai và cung cấp minh chứng trên hệ thống của Trường theo thông báo."
+  "timeline_text": "- Thời gian, hình thức nhận ĐKXT theo kế hoạch, hướng dẫn chung và thông báo của Bộ GD&ĐT, của Đại học Đà Nẵng và Trường Đại học Ngoại ngữ, ĐHĐN. - Thí sinh phải đăng ký nguyện vọng vào các ngành của Trường trên Hệ thống hỗ trợ tuyển sinh của Bộ GD&ĐT (qua Cổng thông tin tuyển sinh của Bộ GD&ĐT hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GD&ĐT. - Thí sinh không đăng ký nguyện vọng trên Hệ thống hỗ trợ tuyển sinh của Bộ GD&ĐT sẽ không được xét tuyển. - Nhà trường không sử dụng chứng chỉ ngoại ngữ để thay thế điểm thi môn Ngoại ngữ trong xét tuyển, mà chỉ sử dụng để xét cộng điểm cộng. Thí sinh đăng ký xét tuyển vào các ngành có tổ hợp xét tuyển bao gồm môn Ngoại ngữ bắt buộc phải có điểm thi môn Ngoại ngữ trong kỳ thi tốt nghiệp THPT năm 2026. - Minh chứng chứng chỉ năng lực ngoại ngữ dùng để xét điểm cộng: Thí sinh phải kê khai và cung cấp đầy đủ minh chứng hợp lệ trên Hệ thống của Bộ GD&ĐT trong thời gian quy định; trường hợp không cung cấp hoặc minh chứng không hợp lệ sẽ không được cộng điểm. - Minh chứng đạt giải Khuyến khích học sinh giỏi quốc gia hoặc giải Nhất, Nhì, Ba học sinh giỏi cấp tỉnh/thành phố trực thuộc Trung ương (chương trình lớp 12) dùng để xét điểm cộng: Thí sinh kê khai và cung cấp minh chứng trên hệ thống của Trường theo thông báo.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-ngu-da-nang-DDF.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm tiếng Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D14"
+            ],
+            "score": 27.1,
+            "note": null
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm tiếng Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 21.45,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.25,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "7220201KT",
+            "program_name": "Ngôn ngữ Anh (Đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14"
+            ],
+            "score": 18.95,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 17.25,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 21.65,
+            "note": null
+          },
+          {
+            "program_code": "7220214",
+            "program_name": "Ngôn ngữ Thái Lan",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 19.3,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18.25,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18.35,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 20.05,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm tiếng Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.69,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 29.2,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14"
+            ],
+            "score": 25.86,
+            "note": null
+          },
+          {
+            "program_code": "7220201KT",
+            "program_name": "Ngôn ngữ Anh (Đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14"
+            ],
+            "score": 24.79,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 23.28,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.26,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65"
+            ],
+            "score": 27.95,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 25.86,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7220214",
+            "program_name": "Ngôn ngữ Thái Lan",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 25.05,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.56,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.28,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 25.63,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm tiếng Anh",
+            "subject_groups": [],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm tiếng Pháp",
+            "subject_groups": [],
+            "score": 21.13,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm tiếng Trung Quốc",
+            "subject_groups": [],
+            "score": 27.33,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 19.53,
+            "note": null
+          },
+          {
+            "program_code": "7220201KT",
+            "program_name": "Ngôn ngữ Anh (Đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 16.95,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 14.23,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 23.83,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 19.53,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 21.53,
+            "note": null
+          },
+          {
+            "program_code": "7220214",
+            "program_name": "Ngôn ngữ Thái Lan",
+            "subject_groups": [],
+            "score": 17.68,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 20.88,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 16.65,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 15.83,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 16.05,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm tiếng Anh",
+            "subject_groups": [],
+            "score": 27.1,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm tiếng Pháp",
+            "subject_groups": [],
+            "score": 21.45,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm tiếng Trung Quốc",
+            "subject_groups": [],
+            "score": 27.25,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 20.35,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220201KT",
+            "program_name": "Ngôn ngữ Anh (Đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 18.95,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 17.25,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 18.3,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 23.65,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 20.35,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 21.65,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7220214",
+            "program_name": "Ngôn ngữ Thái Lan",
+            "subject_groups": [],
+            "score": 19.3,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 18.75,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 18.25,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 18.35,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 20.05,
+            "note": "Điểm trúng tuyển theo đề án riêng"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -2562,5 +2562,703 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Sao Đỏ các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "1. Đăng ký xét tuyển trực tuyến - Trên Cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo. - Trên Cổng thông tin tuyển sinh của Nhà trường tại website http://tuyensinh.saodo.edu.vn 2. Đăng ký xét tuyển trực tiếp tại phòng Đào tạo và Tuyển sinh, Trường Đại học Sao Đỏ, 76 Nguyễn Thị Duệ, phường Chu Văn An, thành phố Hải Phòng. Điện thoại: 0862 15 05 69 - 0838 15 05 69 - 0981 116 388 Thông tin chi tiết xem tại website: https://saodo.edu.vn"
+  "timeline_text": "1. Đăng ký xét tuyển trực tuyến - Trên Cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo. - Trên Cổng thông tin tuyển sinh của Nhà trường tại website http://tuyensinh.saodo.edu.vn 2. Đăng ký xét tuyển trực tiếp tại phòng Đào tạo và Tuyển sinh, Trường Đại học Sao Đỏ, 76 Nguyễn Thị Duệ, phường Chu Văn An, thành phố Hải Phòng. Điện thoại: 0862 15 05 69 - 0838 15 05 69 - 0981 116 388 Thông tin chi tiết xem tại website: https://saodo.edu.vn",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-sao-do-SDU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D15",
+              "D78",
+              "D83"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A00",
+              "A16",
+              "C01",
+              "D01"
+            ],
+            "score": 21.68,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D66",
+              "D71",
+              "C03",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D66",
+              "D71",
+              "C03",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và Tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ dệt, may",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C14",
+              "C20",
+              "D01",
+              "D15",
+              "X01",
+              "X74"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D15",
+              "D78",
+              "D83"
+            ],
+            "score": 27.87,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [
+              "A00",
+              "A16",
+              "C01",
+              "D01"
+            ],
+            "score": 25.46,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D66",
+              "D71",
+              "C03",
+              "C04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D66",
+              "D71",
+              "C03",
+              "C04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và Tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ dệt, may",
+            "subject_groups": [
+              "A00",
+              "A09",
+              "C01",
+              "C04",
+              "C14",
+              "D01",
+              "X01",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C14",
+              "C20",
+              "D01",
+              "D15",
+              "X01",
+              "X74"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [],
+            "score": 112,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [],
+            "score": 83,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 52,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và Tự động hóa",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ dệt, may",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [],
+            "score": 73.85,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm công nghệ",
+            "subject_groups": [],
+            "score": 58,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 52,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và Tự động hóa",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ dệt, may",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 50,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

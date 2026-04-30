@@ -3748,5 +3748,4461 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Đồng Tháp các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dong-thap-SPD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.06,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 20.12,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.73,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "X03"
+            ],
+            "score": 21.32,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "X26"
+            ],
+            "score": 21.95,
+            "note": null
+          },
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 22.94,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 23.71,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 22.64,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 22.66,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 23.51,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.91,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 22.77,
+            "note": null
+          },
+          {
+            "program_code": "7140203",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 22.53,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.57,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.74,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 27.42,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 25.57,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.73,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 27.42,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 25.74,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 27.48,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M05"
+            ],
+            "score": 25.84,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 25.74,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.79,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.05,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 27.48,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00"
+            ],
+            "score": 22.88,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 21.66,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T02"
+            ],
+            "score": 20.66,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T03"
+            ],
+            "score": 19.81,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T05"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T06"
+            ],
+            "score": 22.03,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T15"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7140207",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 22.64,
+            "note": null
+          },
+          {
+            "program_code": "7140208",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 22.53,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.67,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 28.27,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.05,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 27.98,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.66,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 24.01,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.79,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.4,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.2,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.88,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 28.48,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 27.26,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 27.48,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 28.47,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.8,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "X10"
+            ],
+            "score": 27.4,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "X11"
+            ],
+            "score": 28.39,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 28.4,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 27.19,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "X16"
+            ],
+            "score": 25.84,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.5,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 26.57,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 26.56,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 28.18,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "X14"
+            ],
+            "score": 26.78,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.21,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29.06,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 28.95,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.46,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 28.35,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.1,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 30.32,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29.95,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 27.04,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 31.57,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 29.35,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 27.04,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 29.32,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 26.41,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 30.94,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C15"
+            ],
+            "score": 28.72,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 26.41,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.58,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 29.8,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N01"
+            ],
+            "score": 28.12,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 23.24,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H07"
+            ],
+            "score": 25.46,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.26,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D13"
+            ],
+            "score": 23.26,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.52,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 22.41,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D45",
+              "D65"
+            ],
+            "score": 23.38,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.64,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 21.53,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 25.23,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X03"
+            ],
+            "score": 25.21,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 23.28,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 25.22,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X08"
+            ],
+            "score": 23.29,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "X28"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 28.36,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 28.08,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.47,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.15,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.68,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 25.93,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.1,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 29.32,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 25.93,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 28.35,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C15"
+            ],
+            "score": 28.24,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 18.27,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 18.16,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.01,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D13"
+            ],
+            "score": 19.01,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.93,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 25.78,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.92,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.18,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 25.56,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 22.76,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 22.65,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.07,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 22.76,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 22.65,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.82,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 17.39,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 14.71,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 16.35,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 17.03,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 14.71,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.02,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 23.56,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.58,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.47,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 23.56,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.72,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.81,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "A07"
+            ],
+            "score": 28.03,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.66,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 27.55,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 25.93,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 23.02,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 23.02,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 26.44,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 23.64,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 23.53,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D66"
+            ],
+            "score": 24.78,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 23.64,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 23.53,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "X78"
+            ],
+            "score": 24.78,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 26.55,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.45,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 17.08,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 19.76,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.12,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 17.44,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 19.76,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 17.2,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 16.52,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 18.84,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 16.53,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 16.16,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.84,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 19.35,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18.67,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 20.99,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18.68,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 18.31,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 20.99,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.74,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D10"
+            ],
+            "score": 17.37,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 20.05,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.41,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 17.73,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 20.05,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.86,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.54,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.39,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 17.22,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.53,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 17.22,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 25.79,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 24.62,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.93,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.62,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.94,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.26,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 16.89,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 18.79,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.11,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 16.9,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 17.18,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 17.17,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 15.79,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 14.58,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 14.85,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 14.57,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 16.19,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 16.47,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 17.57,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 17.17,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 15.95,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 17.56,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 16.16,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 16.89,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.21,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 17.81,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.54,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.22,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A02"
+            ],
+            "score": 18.82,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 17.6,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.53,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 19.21,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 17.59,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "X06"
+            ],
+            "score": 17.81,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "X07"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.36,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "X27"
+            ],
+            "score": 21.57,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 19.69,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.37,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.68,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.72,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.51,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 18.78,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.12,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 20.4,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 16.6,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 14.98,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 15.91,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 16.59,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "X03"
+            ],
+            "score": 16.18,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 15.92,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 14.99,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 16.61,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 16.21,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 15.27,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 16.89,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17.9,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 16.69,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 16.96,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 16.68,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 18.58,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 14.86,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 15.13,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 14.85,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 16.47,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 16.75,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 16.07,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "C08"
+            ],
+            "score": 17.53,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18.54,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 18.81,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 20.43,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 18.53,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.81,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C14"
+            ],
+            "score": 24.49,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 22.64,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.06,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24.49,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X70"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 22.64,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00"
+            ],
+            "score": 21.72,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T01"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T02"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T03"
+            ],
+            "score": 18.65,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T05"
+            ],
+            "score": 17.59,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T06"
+            ],
+            "score": 20.87,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T15"
+            ],
+            "score": 17.59,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 15.06,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 14.78,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 16.4,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 16.68,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 14.79,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 16.04,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 16.72,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17.25,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 15.1,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 16.03,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 17.65,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "D01",
+              "X03",
+              "X26",
+              "X27"
+            ],
+            "score": 26.81,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00",
+              "C19",
+              "C20",
+              "C14",
+              "M05",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 27.78,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "B03"
+            ],
+            "score": 27.86,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "C19",
+              "C20",
+              "D01",
+              "D14",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 28.76,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "C19",
+              "C20",
+              "D01",
+              "D14",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 28.78,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T02",
+              "T03",
+              "T05",
+              "T06",
+              "T15"
+            ],
+            "score": 27.48,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "C02",
+              "D01"
+            ],
+            "score": 29.23,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X06"
+            ],
+            "score": 28.14,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 29.31,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "C02",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 29.39,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08",
+              "X14",
+              "X16"
+            ],
+            "score": 29.05,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C19",
+              "C20",
+              "D14",
+              "D15",
+              "X70",
+              "X74"
+            ],
+            "score": 28.94,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00",
+              "A07",
+              "C03",
+              "C19",
+              "D09",
+              "D14",
+              "X70"
+            ],
+            "score": 29.28,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "A07",
+              "C04",
+              "C20",
+              "D10",
+              "C15",
+              "X74"
+            ],
+            "score": 29.08,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00",
+              "N01"
+            ],
+            "score": 28.5,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00",
+              "H07"
+            ],
+            "score": 27.61,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D13",
+              "D14",
+              "D15"
+            ],
+            "score": 27.98,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D45",
+              "D65",
+              "D14",
+              "D15"
+            ],
+            "score": 27.66,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "X03",
+              "X04",
+              "X07",
+              "X08",
+              "X27",
+              "X28"
+            ],
+            "score": 28.22,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 28.66,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C00",
+              "A07",
+              "C19",
+              "C20",
+              "D14",
+              "C15",
+              "X70",
+              "X74"
+            ],
+            "score": 28.9,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D13",
+              "D14",
+              "D15"
+            ],
+            "score": 26.41,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 27.86,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C19",
+              "C20",
+              "D14",
+              "X70",
+              "X74"
+            ],
+            "score": 27.82,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01"
+            ],
+            "score": 24.62,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C19",
+              "C20",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 28.14,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00",
+              "A07",
+              "C03",
+              "C04",
+              "C20",
+              "D15",
+              "X74"
+            ],
+            "score": 28.48,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C19",
+              "C20",
+              "D01",
+              "X70",
+              "X74"
+            ],
+            "score": 27.95,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C19",
+              "C20",
+              "D66",
+              "X70",
+              "X74",
+              "X78"
+            ],
+            "score": 28.13,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01"
+            ],
+            "score": 25.51,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01"
+            ],
+            "score": 25.06,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C14",
+              "D01",
+              "D10",
+              "X01"
+            ],
+            "score": 25.66,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 25.87,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "A00",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "X01"
+            ],
+            "score": 27.87,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A02",
+              "B03",
+              "C02",
+              "D08"
+            ],
+            "score": 25.51,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 21.98,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "D01",
+              "X02"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "D01",
+              "X02"
+            ],
+            "score": 25.72,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 25.71,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X27"
+            ],
+            "score": 26.26,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 26.28,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X03"
+            ],
+            "score": 22.64,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 23.39,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "B08",
+              "C02",
+              "C08"
+            ],
+            "score": 26.29,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "C19",
+              "C20",
+              "D14",
+              "X01",
+              "X70",
+              "X74"
+            ],
+            "score": 27.82,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T01",
+              "T02",
+              "T03",
+              "T05",
+              "T06",
+              "T15"
+            ],
+            "score": 27.06,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 23.04,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D07"
+            ],
+            "score": 23.24,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [],
+            "score": 787.34,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 879.8,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 886.63,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [],
+            "score": 979.01,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [],
+            "score": 983.08,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [],
+            "score": 1063.75,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [],
+            "score": 912.29,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 1077.98,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [],
+            "score": 1091.54,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 1030.53,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 1010.87,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [],
+            "score": 1071.2,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [],
+            "score": 1035.96,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [],
+            "score": 897.58,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [],
+            "score": 868.42,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [],
+            "score": 919.17,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [],
+            "score": 960.71,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [],
+            "score": 1003.42,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 748.82,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 887.25,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [],
+            "score": 883.59,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [],
+            "score": 606.5,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 912.29,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 942.93,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 895.39,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 911.35,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 673.27,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 638.46,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 721.61,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 684.29,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [],
+            "score": 701.41,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 887.56,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 672.89,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 603.02,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [],
+            "score": 626.81,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 689.22,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 688.84,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 735.63,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 736.86,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 603.51,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [],
+            "score": 664.91,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [],
+            "score": 604.08,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [],
+            "score": 738.1,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 883.24,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 603.82,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 603.97,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140103",
+            "program_name": "Công nghệ Giáo dục",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 328.81,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 357.92,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 360.14,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 393.57,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 394.61,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00"
+            ],
+            "score": 348.77,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 415.21,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 370.01,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 418.84,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 422.3,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 406.72,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 401.7,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 417.11,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 408.11,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 382.95,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 352.74,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 364.36,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 354.28,
+            "note": null
+          },
+          {
+            "program_code": "7140246",
+            "program_name": "Sư phạm Công nghệ",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 372.66,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 388.89,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử và Địa lý",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 399.8,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 317.18,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 360.38,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 359.13,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 271.82,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 370.01,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 382.06,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 363.51,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 369.65,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 294.33,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 282.91,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 309.17,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 297.81,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý công",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 303.22,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 360.5,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 294.21,
+            "note": null
+          },
+          {
+            "program_code": "7440301",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 252.92,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 278.86,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 299.38,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 299.26,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 313.3,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 313.66,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 257.52,
+            "note": null
+          },
+          {
+            "program_code": "7620103",
+            "program_name": "Khoa học đất",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 225,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 291.69,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 262.82,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 314.02,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 359.02,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00"
+            ],
+            "score": 336,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 260.34,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 261.76,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -388,5 +388,782 @@
   ],
   "cutoff_scores_text": null,
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hanh-chinh-va-quan-tri-cong-phia-nam-HCS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A01",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 19.15,
+            "note": null
+          },
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đàng và chính quyền nhà nước",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 25.45,
+            "note": null
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 23.45,
+            "note": null
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "X01",
+              "D01",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "X74"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.9,
+            "note": null
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "D07",
+              "D14"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "C03",
+              "D01",
+              "D07",
+              "D14"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C04",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "C03",
+              "D01"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 26.05,
+            "note": null
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [
+              "A01",
+              "C03",
+              "D01"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C04",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A01",
+              "C03",
+              "D01"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 26.4,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A01",
+              "C01",
+              "C04",
+              "X01",
+              "D01"
+            ],
+            "score": 19.15,
+            "note": null
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "D01"
+            ],
+            "score": 23.45,
+            "note": null
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "X01",
+              "X74",
+              "D01",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "D01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D07",
+              "D14"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D07",
+              "D14"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C04",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C04",
+              "X01",
+              "D01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "X01",
+              "D01"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "X01",
+              "D01"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C04",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "X01",
+              "D01"
+            ],
+            "score": 23.4,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 19.15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đàng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 23.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 19.15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đàng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 23.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 19.15,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đàng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 23.75,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi, TS đạt giải Nhất, Nhì, Ba của kì thi HSG cấp tỉnh, tp"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101-TP-HCM",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 19.15,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310202-TP-HCM",
+            "program_name": "Xây dựng Đàng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-Đắk Lắk",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7310205-TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 23.75,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-01-TP-HCM",
+            "program_name": "Chuyên ngành Văn thư - Lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7320303-TP-HCM",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 21.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-Đắk Lắk",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 16,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404-TP-HCM",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340406-TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-01-TP-HCM",
+            "program_name": "Chuyên ngành Thanh tra thuộc ngành Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-Đắk Lắk",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101-TP-HCM",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

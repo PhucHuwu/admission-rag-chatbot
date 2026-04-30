@@ -227,5 +227,172 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Luật - ĐHQGHN các năm Tại đây.",
   "tuition_text": "Học phí: dự kiến mức học phí đối với khóa tuyển sinh ĐHCQ năm 2026 TT Nội dung Mức học phí 01 tháng Mức học phí 01 năm Mức học phí 01 TC Tổng học phí toàn khóa Ghi chú I Cử nhân chính quy ngành Luật 1 Năm học 2026-2027 3,043,000 30,430,000 857,000 104,405,330 2 Năm học 2027-2028 3,347,300 33,473,000 943,000 3 Năm học 2028-2029 3,682,030 36,820,300 1,037,000 4 Năm học 2029-2030 4,050,233 40,502,330 1,141,000 I Cử nhân chính quy ngành Luật TMQT 1 Năm học 2026-2027 3,043,000 30,430,000 888,000 141,225,630 2 Năm học 2027-2028 3,347,300 33,473,000 977,000 3 Năm học 2028-2029 3,682,030 36,820,300 1,075,000 4 Năm học 2029-2030 4,050,233 40,502,330 1,183,000 II Cử nhân chính quy ngành Luật kinh tế 1 Năm học 2026-2027 3,222,000 32,220,000 908,000 149,533,020 2 Năm học 2027-2028 3,544,200 35,442,000 998,000 3 Năm học 2028-2029 3,898,620 38,986,200 1,098,000 4 Năm học 2029-2030 4,288,482 42,884,820 1,208,000 III Cử nhân chính quy ngành Luật chất lượng cao 1 Năm học 2026-2027 3,580,000 35,800,000 912,000 166,147,800",
-  "timeline_text": "Thời gian, địa điểm và hình thức thu nhận hồ sơ đăng ký xét tuyển, sơ tuyển điều kiện UTXT theo từng Phương thức (không bao gồm Phương thức 1: Xét kết quả thi tốt nghiệp THPT năm 2026 và Phương thức 4: Xét kết quả thi ĐGNL do ĐHQGHN tổ chức): Nhà trường sẽ có hướng dẫn cụ thể sau."
+  "timeline_text": "Thời gian, địa điểm và hình thức thu nhận hồ sơ đăng ký xét tuyển, sơ tuyển điều kiện UTXT theo từng Phương thức (không bao gồm Phương thức 1: Xét kết quả thi tốt nghiệp THPT năm 2026 và Phương thức 4: Xét kết quả thi ĐGNL do ĐHQGHN tổ chức): Nhà trường sẽ có hướng dẫn cụ thể sau.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-dai-hoc-quoc-gia-ha-noi-QHL.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật học",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7380101CLC",
+            "program_name": "Luật CLC",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7380110",
+            "program_name": "Luật Kinh doanh",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23.72,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật học",
+            "subject_groups": [],
+            "score": 100,
+            "note": null
+          },
+          {
+            "program_code": "7380101CLC",
+            "program_name": "Luật CLC",
+            "subject_groups": [],
+            "score": 100,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [],
+            "score": 98,
+            "note": null
+          },
+          {
+            "program_code": "7380110",
+            "program_name": "Luật Kinh doanh",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật học",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.2,
+            "note": "Điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7380101CLC",
+            "program_name": "Luật CLC",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.2,
+            "note": "Điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24,
+            "note": "Điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7380110",
+            "program_name": "Luật Kinh doanh",
+            "subject_groups": [
+              "C03",
+              "A07",
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23.72,
+            "note": "Điểm thi THPT và CCQT"
+          }
+        ]
+      }
+    ]
+  }
 }

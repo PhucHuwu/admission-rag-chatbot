@@ -660,5 +660,385 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Biên phòng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "1. Thí sinh đăng ký xét tuyển vào Học viện Biên phòng bắt buộc phải qua sơ tuyển, có đủ tiêu chuẩn quy định của Bộ Quốc phòng - Thanh niên ngoài Quân đội: Sơ tuyển tại Ban Tuyển sinh quân sự cấp xã, phường, đặc khu trực thuộc tỉnh. - Quân nhân tại ngũ: Sơ tuyển tại Ban Tuyển sinh quân sự cấp trung đoàn và tương đương. 2. Thí sinh chỉ được làm hồ sơ sơ tuyển vào một trường Quân đội, trong thời gian đăng ký xét tuyển thí sinh được phép điều chỉnh nguyện vọng xét tuyển sang các trường Quân đội khác, không phải chuyển hồ sơ sơ tuyển sang trường đăng ký xét tuyển. 3. Thí sinh chỉ được đăng ký một nguyện vọng (là nguyện vọng 1, nguyện vọng cao nhất) vào Học viện Biên phòng ngay từ khi làm hồ sơ sơ tuyển; chỉ được đăng ký dự tuyển vào một ngành (ngành Biên phòng hoặc ngành Luật); các nguyện vọng còn lại thí sinh đăng ký vào các trường ngoài Quân đội, việc đăng ký thực hiện theo quy định của Bộ GD&ĐT. CÔNG TÁC XÉT TUYỂN 1. Thí sinh thực hiện đăng ký xét tuyển và điều chỉnh nguyện vọng đăng ký xét tuyển theo quy định của Bộ GD&ĐT năm 2026. 2. Đối với thí sinh đăng ký sơ tuyển vào Học viện Biên phòng, được điều chỉnh nguyện vọng 1 (nguyện vọng cao nhất) theo các trường Nhóm 1, gồm các học viện: Hậu cần, Hải quân, Biên phòng, Phòng không - Không quân (hệ Chỉ huy tham mưu) và các trường sĩ quan: Lục quân 1, Lục quân 2, Chính trị, Đặc công, Pháo binh, Tăng Thiết giáp, Phòng hóa, Thông tin, Công binh theo đúng tổ hợp xét tuyển và hộ khẩu thường trú phía Bắc hoặc phía Nam (thời gian, phương pháp điều chỉnh thực hiện theo quy định của Bộ GD&ĐT và Bộ Quốc phòng ban hành năm 2026). 3. Học viện Biên phòng tổ chức xét tuyển vào đào tạo đại học quân sự đối với những thí sinh: - Đã qua sơ tuyển, có đủ tiêu chuẩn theo quy định của Bộ Quốc phòng. - Tham dự Kỳ thi tốt nghiệp THPT năm 2026 để lấy kết quả xét tuyển nguyện vọng 1 (nguyện vọng cao nhất) vào Học viện Biên phòng; các bài thi, môn thi phù hợp với tổ hợp xét tuyển. Các thông tin về công tác tuyển sinh đào tạo đại học quân sự, Học viện Biên phòng tiếp tục cập nhật tại Website: https://www.hvbp.edu.vn và tư vấn trực tuyến bằng đường dây nóng tuyển sinh: Cơ quan: 069.596.135; 02433.830.531 và điện thoại di động: 0984.987.789./."
+  "timeline_text": "1. Thí sinh đăng ký xét tuyển vào Học viện Biên phòng bắt buộc phải qua sơ tuyển, có đủ tiêu chuẩn quy định của Bộ Quốc phòng - Thanh niên ngoài Quân đội: Sơ tuyển tại Ban Tuyển sinh quân sự cấp xã, phường, đặc khu trực thuộc tỉnh. - Quân nhân tại ngũ: Sơ tuyển tại Ban Tuyển sinh quân sự cấp trung đoàn và tương đương. 2. Thí sinh chỉ được làm hồ sơ sơ tuyển vào một trường Quân đội, trong thời gian đăng ký xét tuyển thí sinh được phép điều chỉnh nguyện vọng xét tuyển sang các trường Quân đội khác, không phải chuyển hồ sơ sơ tuyển sang trường đăng ký xét tuyển. 3. Thí sinh chỉ được đăng ký một nguyện vọng (là nguyện vọng 1, nguyện vọng cao nhất) vào Học viện Biên phòng ngay từ khi làm hồ sơ sơ tuyển; chỉ được đăng ký dự tuyển vào một ngành (ngành Biên phòng hoặc ngành Luật); các nguyện vọng còn lại thí sinh đăng ký vào các trường ngoài Quân đội, việc đăng ký thực hiện theo quy định của Bộ GD&ĐT. CÔNG TÁC XÉT TUYỂN 1. Thí sinh thực hiện đăng ký xét tuyển và điều chỉnh nguyện vọng đăng ký xét tuyển theo quy định của Bộ GD&ĐT năm 2026. 2. Đối với thí sinh đăng ký sơ tuyển vào Học viện Biên phòng, được điều chỉnh nguyện vọng 1 (nguyện vọng cao nhất) theo các trường Nhóm 1, gồm các học viện: Hậu cần, Hải quân, Biên phòng, Phòng không - Không quân (hệ Chỉ huy tham mưu) và các trường sĩ quan: Lục quân 1, Lục quân 2, Chính trị, Đặc công, Pháo binh, Tăng Thiết giáp, Phòng hóa, Thông tin, Công binh theo đúng tổ hợp xét tuyển và hộ khẩu thường trú phía Bắc hoặc phía Nam (thời gian, phương pháp điều chỉnh thực hiện theo quy định của Bộ GD&ĐT và Bộ Quốc phòng ban hành năm 2026). 3. Học viện Biên phòng tổ chức xét tuyển vào đào tạo đại học quân sự đối với những thí sinh: - Đã qua sơ tuyển, có đủ tiêu chuẩn theo quy định của Bộ Quốc phòng. - Tham dự Kỳ thi tốt nghiệp THPT năm 2026 để lấy kết quả xét tuyển nguyện vọng 1 (nguyện vọng cao nhất) vào Học viện Biên phòng; các bài thi, môn thi phù hợp với tổ hợp xét tuyển. Các thông tin về công tác tuyển sinh đào tạo đại học quân sự, Học viện Biên phòng tiếp tục cập nhật tại Website: https://www.hvbp.edu.vn và tư vấn trực tuyến bằng đường dây nóng tuyển sinh: Cơ quan: 069.596.135; 02433.830.531 và điện thoại di động: 0984.987.789./.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-bien-phong-BPH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.2,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 30.46,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29.33,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.3,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 29.56,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 28.43,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.91,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 30.02,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.52,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 29.91,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 31.33,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.94,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 30.2,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29.07,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.52,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.63,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.13,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.52,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 28.78,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 28.89,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 28.39,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [
+              "C01",
+              "D01"
+            ],
+            "score": 28.78,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.76,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.26,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.65,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 114,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 108,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 111,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 103,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 104,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 102,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 103,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 1015,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 975,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 1000,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 4)",
+            "subject_groups": [],
+            "score": 945,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 5)",
+            "subject_groups": [],
+            "score": 950,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 7)",
+            "subject_groups": [],
+            "score": 925,
+            "note": null
+          },
+          {
+            "program_code": "7860214",
+            "program_name": "Biên phòng (Quân khu 9)",
+            "subject_groups": [],
+            "score": 945,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

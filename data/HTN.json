@@ -460,5 +460,344 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Thanh thiếu niên Việt Nam các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-thanh-thieu-nien-viet-nam-HTN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "A09"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "A09"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý Nhà nước",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "A09"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "C20",
+              "A09",
+              "D01",
+              "X21"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ Công chúng",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "D15"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác Xã hội",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 23.8,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "C20",
+              "A09",
+              "D01",
+              "X21"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ Công chúng",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "D15"
+            ],
+            "score": 27.4,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 26.9,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác Xã hội",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 22.8,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

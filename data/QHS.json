@@ -537,5 +537,233 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Đại học Giáo dục - ĐHQGHN các năm Tại đây",
   "tuition_text": "Học phí phải nộp được tính theo Nghị định 81/2021/NĐ-CP về “Quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc Hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục đào tạo”; Nghị định 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 sửa đổi bổ sung một số điều của Nghị Định 81/2021/NĐ-CP và các quy định hiện hành khác liên quan của Nhà nước và của ĐHQGHN. Học phí dự kiến năm học 2024-2025 quy theo tháng là 1.410.000 đồng/tháng, tùy theo ngành, mỗi năm học thu 10 tháng. Những năm học tiếp theo, lộ trình học phí thực hiện theo quy định của Nhà nước và của ĐHQGHN. Sinh viên sư phạm được nhà nước hỗ trợ tiền học phí và sinh hoạt phí theo quy định tại Nghị định 116/2020/NĐ-CP ngày 25/09/2020 của Chính phủ quy định về chính sách hỗ trợ tiền đóng học phí, chi phí sinh hoạt đối với sinh viên sư phạm. Thủ tục, tiêu chuẩn được hỗ trợ thực hiện theo quy định của Nhà nước. Sinh viên được tiếp cận các quỹ học bổng của trường, của ĐHQGHN và của các nhà tài trợ khác nhau với nhiều mức khác nhau. Ngoài ra, nhà trường còn có nhiều vị trí thực tập làm bán thời gian có trả công dành cho các bạn đáp ứng tiêu chí chọn.",
-  "timeline_text": ""
+  "timeline_text": "",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-duc-ha-noi-QHS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Giáo dục Mầm non",
+            "program_name": "QHS09",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Tiểu học",
+            "program_name": "QHS10",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 28.6,
+            "note": null
+          },
+          {
+            "program_code": "Khoa học giáo dục và khác",
+            "program_name": "QHS11",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 25.57,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Toán học",
+            "program_name": "QHS01",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01"
+            ],
+            "score": 28.57,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Vật lí",
+            "program_name": "QHS02",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Hoá học",
+            "program_name": "QHS03",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 27.74,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Sinh học",
+            "program_name": "QHS04",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B03",
+              "B08"
+            ],
+            "score": 25.37,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Khoa học Tự nhiên",
+            "program_name": "QHS05",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00"
+            ],
+            "score": 25.58,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Ngữ văn",
+            "program_name": "QHS06",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 28.45,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Lịch sử",
+            "program_name": "QHS07",
+            "subject_groups": [
+              "A07",
+              "C00",
+              "C03",
+              "D09",
+              "D14"
+            ],
+            "score": 28.99,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Lịch sử - Địa lý",
+            "program_name": "QHS08",
+            "subject_groups": [
+              "A07",
+              "C00"
+            ],
+            "score": 29.84,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Sư phạm Lịch sử",
+            "program_name": "QHS07",
+            "subject_groups": [],
+            "score": 115,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Mầm non",
+            "program_name": "QHS09",
+            "subject_groups": [],
+            "score": 102,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Tiểu học",
+            "program_name": "QHS10",
+            "subject_groups": [],
+            "score": 112,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Toán học",
+            "program_name": "QHS01",
+            "subject_groups": [],
+            "score": 112,
+            "note": null
+          },
+          {
+            "program_code": "Khoa học giáo dục và khác",
+            "program_name": "QHS11",
+            "subject_groups": [],
+            "score": 82,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Vật lí",
+            "program_name": "QHS02",
+            "subject_groups": [],
+            "score": 106,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Hoá học",
+            "program_name": "QHS03",
+            "subject_groups": [],
+            "score": 104,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Sinh học",
+            "program_name": "QHS04",
+            "subject_groups": [],
+            "score": 94,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Khoa học Tự nhiên",
+            "program_name": "QHS05",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Ngữ văn",
+            "program_name": "QHS06",
+            "subject_groups": [],
+            "score": 108,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

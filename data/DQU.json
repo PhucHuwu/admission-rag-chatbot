@@ -893,5 +893,723 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Quảng Nam các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quang-nam-DQU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 22.72,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M01",
+              "M03"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.77,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "X01"
+            ],
+            "score": 25.77,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A02",
+              "D11"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "A02",
+              "D13"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "X70",
+              "X74"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "A01"
+            ],
+            "score": 24.68,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D14",
+              "D15"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.05,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "X17",
+              "X70"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D145",
+              "X70",
+              "X74"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X21",
+              "X25"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 14,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00",
+              "M01",
+              "M02",
+              "M03"
+            ],
+            "score": 25.72,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "C00",
+              "C03",
+              "X01"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D07",
+              "A00",
+              "A01",
+              "D01",
+              "X01"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01",
+              "A00",
+              "A02",
+              "D11"
+            ],
+            "score": 27.95,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01",
+              "C00",
+              "D14",
+              "X70",
+              "X74"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 27.68,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "D07",
+              "A00",
+              "A01",
+              "B00"
+            ],
+            "score": 27.05,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "X17",
+              "X70"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D145",
+              "X70",
+              "X74"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X21",
+              "X25"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 22.72,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 24.77,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 23.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [],
+            "score": 24.68,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [],
+            "score": 24.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 22.72,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 24.77,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 23.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [],
+            "score": 24.68,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [],
+            "score": 24.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

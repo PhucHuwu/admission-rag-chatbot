@@ -154,5 +154,82 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Pháo binh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-phao-binh-PBH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 22.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Bắc)",
+            "subject_groups": [],
+            "score": 95,
+            "note": null
+          },
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Nam)",
+            "subject_groups": [],
+            "score": 87,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Bắc)",
+            "subject_groups": [],
+            "score": 855,
+            "note": null
+          },
+          {
+            "program_code": "7860205",
+            "program_name": "Chỉ huy Tham mưu Pháo binh (miền Nam)",
+            "subject_groups": [],
+            "score": 770,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

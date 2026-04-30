@@ -257,5 +257,109 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM các năm Tại đây",
   "tuition_text": "Ngành Giáo dục thể chất (7140206): - Sinh viên chính quy ngành Giáo dục thể chất được hưởng chính sách về học phí và sinh hoạt phí theo Nghị định 116/2020/NĐ-CP. Được Nhà nước hỗ trợ tiền đóng học phí bằng mức thu học phí của nhà trường và được Nhà nước hỗ trợ 3.630.000 đồng/tháng để chi trả chi phí sinh hoạt trong thời gian học tập tại trường (không quá 10 tháng/năm học) theo quy định hiện hành. - Sinh viên chính quy ngành Giáo dục thể chất không đăng ký hưởng chính sách về học phí và sinh hoạt phí theo Nghị định 116/2020/NĐ-CP đóng mức học phí 15,9 triệu đồng/năm theo Nghị định 238/2025/NĐ-CP. Ngành Quản lý thể dục thể thao và Ngành Huấn luyện thể thao: - Sinh viên chính quy ngành Quản lý thể dục thể thao và ngành Huấn luyện thể thao đóng mức học phí 16,9 triệu đồng/năm theo Nghị định 238/2025/NĐ-CP. b) Lộ trình tăng học phí theo từng năm - Thực hiện lộ trình tăng học phí theo Nghị định số 238/2025/NĐ-CP ngày 03/09/2025 của Chính phủ quy định về khung học phí, cơ chế thu, quản lý học phí, chính sách miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và giá dịch vụ trong lĩnh vực giáo dục, đào tạo",
-  "timeline_text": "a) Các đợt tuyển sinh trong năm Đợt 1: Tháng 06 năm 2026. Đợt 2: Dự kiến tháng 10 năm 2026. Đối tượng tham gia đăng ký xét tuyển đợt 2 gồm: Thí sinh chưa trúng tuyển; Thí sinh đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ cơ sở đào tạo nào; Thí sinh đã xác nhận nhập học tại một cơ sở đào tạo nhưng mong muốn được xét tuyển thì phải được cơ sở đào tạo nơi nhập học cho phép bằng văn bản"
+  "timeline_text": "a) Các đợt tuyển sinh trong năm Đợt 1: Tháng 06 năm 2026. Đợt 2: Dự kiến tháng 10 năm 2026. Đối tượng tham gia đăng ký xét tuyển đợt 2 gồm: Thí sinh chưa trúng tuyển; Thí sinh đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ cơ sở đào tạo nào; Thí sinh đã xác nhận nhập học tại một cơ sở đào tạo nhưng mong muốn được xét tuyển thì phải được cơ sở đào tạo nơi nhập học cho phép bằng văn bản",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-the-duc-the-thao-tphcm-STS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 26,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 22.85,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện Thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 24.65,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 27.45,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 23.85,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện Thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 25.65,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          }
+        ]
+      }
+    ]
+  }
 }

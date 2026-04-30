@@ -876,5 +876,1004 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-DSK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140214",
+            "program_name": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X10",
+              "X26"
+            ],
+            "score": 21.44,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X10",
+              "X26"
+            ],
+            "score": 20.75,
+            "note": null
+          },
+          {
+            "program_code": "7510101",
+            "program_name": "Công nghệ kỹ thuật kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 17.05,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X02"
+            ],
+            "score": 17.91,
+            "note": null
+          },
+          {
+            "program_code": "7510104",
+            "program_name": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X02"
+            ],
+            "score": 17.89,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Thiết kế và mô phỏng số trong cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 19.1,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.31,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.01,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 22.35,
+            "note": null
+          },
+          {
+            "program_code": "7510205KT",
+            "program_name": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 20.2,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.27,
+            "note": null
+          },
+          {
+            "program_code": "7510301B",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.07,
+            "note": null
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.09,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông (chuyên ngành Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 22.58,
+            "note": null
+          },
+          {
+            "program_code": "7510303KT",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06",
+              "X07"
+            ],
+            "score": 18.25,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 20.69,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17.95,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17.07,
+            "note": null
+          },
+          {
+            "program_code": "7540102",
+            "program_name": "Kỹ thuật thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18.53,
+            "note": null
+          },
+          {
+            "program_code": "7540102A",
+            "program_name": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01",
+              "X02"
+            ],
+            "score": 18.6,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140214",
+            "program_name": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X10",
+              "X06",
+              "X26"
+            ],
+            "score": 25.36,
+            "note": null
+          },
+          {
+            "program_code": "7510101",
+            "program_name": "Công nghệ kỹ thuật kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "V01",
+              "V02"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03"
+            ],
+            "score": 23.04,
+            "note": null
+          },
+          {
+            "program_code": "7510104",
+            "program_name": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03"
+            ],
+            "score": 23.03,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 25.14,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Thiết kế và mô phỏng số trong cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 23.87,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 25.27,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 25.72,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 25.92,
+            "note": null
+          },
+          {
+            "program_code": "7510205KT",
+            "program_name": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "X27",
+              "X07",
+              "X06"
+            ],
+            "score": 24.57,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 25.24,
+            "note": null
+          },
+          {
+            "program_code": "7510301B",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 25.12,
+            "note": null
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 25.13,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7510303KT",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X06"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C02",
+              "D07"
+            ],
+            "score": 24.89,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C02",
+              "D07"
+            ],
+            "score": 23.07,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.41,
+            "note": null
+          },
+          {
+            "program_code": "7540102",
+            "program_name": "Kỹ thuật thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C02",
+              "D07"
+            ],
+            "score": 23.49,
+            "note": null
+          },
+          {
+            "program_code": "7540102A",
+            "program_name": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.37,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03"
+            ],
+            "score": 23.54,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 19.93,
+            "note": null
+          },
+          {
+            "program_code": "7510101",
+            "program_name": "Công nghệ kỹ thuật kiến trúc",
+            "subject_groups": [],
+            "score": 14.98,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+            "subject_groups": [],
+            "score": 16.11,
+            "note": null
+          },
+          {
+            "program_code": "7510104",
+            "program_name": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+            "subject_groups": [],
+            "score": 16.08,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+            "subject_groups": [],
+            "score": 20.33,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Thiết kế và mô phỏng số trong cơ khí)",
+            "subject_groups": [],
+            "score": 17.75,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 20.58,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 21.38,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+            "subject_groups": [],
+            "score": 21.67,
+            "note": null
+          },
+          {
+            "program_code": "7510205KT",
+            "program_name": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 17.28,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+            "subject_groups": [],
+            "score": 19.2,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+            "subject_groups": [],
+            "score": 20.56,
+            "note": null
+          },
+          {
+            "program_code": "7510301B",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+            "subject_groups": [],
+            "score": 20.31,
+            "note": null
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [],
+            "score": 20.32,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 21.91,
+            "note": null
+          },
+          {
+            "program_code": "7510303KT",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 16.59,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 19.79,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+            "subject_groups": [],
+            "score": 16.15,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 15.01,
+            "note": null
+          },
+          {
+            "program_code": "7540102",
+            "program_name": "Kỹ thuật thực phẩm",
+            "subject_groups": [],
+            "score": 16.98,
+            "note": null
+          },
+          {
+            "program_code": "7540102A",
+            "program_name": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+            "subject_groups": [],
+            "score": 14.92,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+            "subject_groups": [],
+            "score": 17.08,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140214",
+            "program_name": "Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin)",
+            "subject_groups": [],
+            "score": 21.44,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 20.75,
+            "note": null
+          },
+          {
+            "program_code": "7510101",
+            "program_name": "Công nghệ kỹ thuật kiến trúc",
+            "subject_groups": [],
+            "score": 17.05,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng và Công nghiệp)",
+            "subject_groups": [],
+            "score": 17.91,
+            "note": null
+          },
+          {
+            "program_code": "7510104",
+            "program_name": "Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường)",
+            "subject_groups": [],
+            "score": 17.89,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo)",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7510201A",
+            "program_name": "Công nghệ kỹ thuật cơ khí (chuyên ngành Thiết kế và mô phỏng số trong cơ khí)",
+            "subject_groups": [],
+            "score": 19.1,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 21.31,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 22.01,
+            "note": null
+          },
+          {
+            "program_code": "7510205A",
+            "program_name": "Công nghệ kỹ thuật ô tô (chuyên ngành Ô tô điện)",
+            "subject_groups": [],
+            "score": 22.35,
+            "note": null
+          },
+          {
+            "program_code": "7510205KT",
+            "program_name": "Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7510206",
+            "program_name": "Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh)",
+            "subject_groups": [],
+            "score": 20.2,
+            "note": null
+          },
+          {
+            "program_code": "7510301A",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện tử)",
+            "subject_groups": [],
+            "score": 21.27,
+            "note": null
+          },
+          {
+            "program_code": "7510301B",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (chuyên ngành Công nghệ kỹ thuật điện)",
+            "subject_groups": [],
+            "score": 21.07,
+            "note": null
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [],
+            "score": 21.09,
+            "note": null
+          },
+          {
+            "program_code": "7510302A",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông (chuyên ngành Thiết kế vi mạch bán dẫn)",
+            "subject_groups": [],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 22.58,
+            "note": null
+          },
+          {
+            "program_code": "7510303KT",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa (đào tạo 2 năm đầu tại Kon Tum)",
+            "subject_groups": [],
+            "score": 18.25,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 20.69,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới)",
+            "subject_groups": [],
+            "score": 17.95,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 17.07,
+            "note": null
+          },
+          {
+            "program_code": "7540102",
+            "program_name": "Kỹ thuật thực phẩm",
+            "subject_groups": [],
+            "score": 18.53,
+            "note": null
+          },
+          {
+            "program_code": "7540102A",
+            "program_name": "Kỹ thuật thực phẩm (chuyên ngành Kỹ thuật sinh học thực phẩm)",
+            "subject_groups": [],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị)",
+            "subject_groups": [],
+            "score": 18.6,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

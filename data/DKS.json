@@ -531,5 +531,604 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học Kiểm sát các năm tại đây",
   "tuition_text": "Ngành Học phí/năm Luật – chuyên ngành Kiểm sát 24.100.000 Luật 21.770.000 Luật kinh tế 17.900.000 Ngôn ngữ Anh 19.100.000",
-  "timeline_text": "1. Sơ tuyển Thí sinh có nguyện vọng xét tuyển vào trình độ đại học ngành Luật, chuyên ngành Kiểm sát của Trường Đại học Kiểm sát phải đăng ký, nộp hồ sơ sơ tuyển theo quy định của VKSND tối cao tại website: http://tuyensinh.kiemsat.edu.vn - Thời gian nộp hồ sơ sơ tuyển Dự kiến: 15/5/2026 – 01/6/2026 - Địa điểm VKSND khu vực nơi thí sinh đăng ký hộ khẩu thường trú. - Hồ sơ sơ tuyển gồm Đơn xin dự tuyển hoặc xét tuyển Lý lịch tự khai (có xác nhận UBND) Bản sao căn cước công dân Bản trích sao kết quả học tập Giấy khám sức khỏe (trong 6 tháng) 4 ảnh 4x6 Phong bì ghi địa chỉ người nhận 2. Tổ chức sơ tuyển - VKSND tỉnh, thành phố tổ chức sơ tuyển: 03/6/2026 – 11/6/2026 Thí sinh tra cứu kết quả tại: http://sotuyen.kiemsat.edu.vn Lệ phí sơ tuyển: 50.000 đồng/thí sinh 3. Tổ chức tuyển sinh - Thời gian dự kiến tuyển sinh Xét tuyển thẳng: trước 30/6/2026 Xét tuyển theo Bộ GD&ĐT: 29/7 – 13/8/2026 Xét bổ sung: tháng 8 → tháng 12/2026 (nếu có)"
+  "timeline_text": "1. Sơ tuyển Thí sinh có nguyện vọng xét tuyển vào trình độ đại học ngành Luật, chuyên ngành Kiểm sát của Trường Đại học Kiểm sát phải đăng ký, nộp hồ sơ sơ tuyển theo quy định của VKSND tối cao tại website: http://tuyensinh.kiemsat.edu.vn - Thời gian nộp hồ sơ sơ tuyển Dự kiến: 15/5/2026 – 01/6/2026 - Địa điểm VKSND khu vực nơi thí sinh đăng ký hộ khẩu thường trú. - Hồ sơ sơ tuyển gồm Đơn xin dự tuyển hoặc xét tuyển Lý lịch tự khai (có xác nhận UBND) Bản sao căn cước công dân Bản trích sao kết quả học tập Giấy khám sức khỏe (trong 6 tháng) 4 ảnh 4x6 Phong bì ghi địa chỉ người nhận 2. Tổ chức sơ tuyển - VKSND tỉnh, thành phố tổ chức sơ tuyển: 03/6/2026 – 11/6/2026 Thí sinh tra cứu kết quả tại: http://sotuyen.kiemsat.edu.vn Lệ phí sơ tuyển: 50.000 đồng/thí sinh 3. Tổ chức tuyển sinh - Thời gian dự kiến tuyển sinh Xét tuyển thẳng: trước 30/6/2026 Xét tuyển theo Bộ GD&ĐT: 29/7 – 13/8/2026 Xét bổ sung: tháng 8 → tháng 12/2026 (nếu có)",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kiem-sat-DKS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.24,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.33,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 25.66,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 25.17,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.78,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.87,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 20.17,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.78,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.87,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21.67,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.28,
+            "note": null
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.37,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.42,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.09,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.79,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 25.12,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 25.25,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.55,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23.22,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.83,
+            "note": null
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.92,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.96,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 25.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.42,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D14",
+              "D15"
+            ],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 23.96,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 25.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 23.42,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [],
+            "score": 23.96,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [],
+            "score": 23.42,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "DKS-KS1",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Bắc)",
+            "subject_groups": [],
+            "score": 23.96,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          },
+          {
+            "program_code": "DKS-KS2",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Bắc)",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          },
+          {
+            "program_code": "DKS-KS3",
+            "program_name": "Luật Kiểm Sát (GT: Nam, miền Nam)",
+            "subject_groups": [],
+            "score": 20.5,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          },
+          {
+            "program_code": "DKS-KS4",
+            "program_name": "Luật Kiểm Sát (GT: Nữ, miền Nam)",
+            "subject_groups": [],
+            "score": 22,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          },
+          {
+            "program_code": "DKS-LKT",
+            "program_name": "Luật Kinh Tế",
+            "subject_groups": [],
+            "score": 23.42,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          },
+          {
+            "program_code": "DKS-LUAT",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 23.55,
+            "note": "Điểm đã được quy đổi, xét học bạ và điểm chứng chỉ tiếng Anh IELTS"
+          }
+        ]
+      }
+    ]
+  }
 }

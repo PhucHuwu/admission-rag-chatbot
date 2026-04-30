@@ -748,5 +748,265 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Kinh Bắc các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Hồ sơ xét tuyển gồm: a) Đối với xét kết quả kỳ thi tốt nghiệp THPT năm 2025 Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) Giấy chứng nhận kết quả kỳ thi tốt nghiệp THPT năm 2025 Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng CCCD/CMND b) Đối với các phương thức xét tuyển khác Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) (Mẫu 01 hoặc Mẫu 02) Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng Học bạ THPT Bản sao công chứng CCCD/CMND Bản sao công chứng Bằng tốt nghiệp trung cấp, cao đẳng, đại học (đối với phương thức 5) Đơn xin xác nhận thời gian công tác từ 3 năm trở lên đúng với chuyên môn được đào tạo (Mẫu 03) hoặc có giấy phép hành nghề từ 1 năm trở lên tính đến thời điểm xét tuyển (đối với phương thức 5) Giấy xác nhận kết quả đánh giá năng lực của các trường khác (đối với phương thức 4) Các giấy tờ ưu tiên, chứng nhận liên quan (đối với phương thức 3) Thời gian nhận hồ sơ a) Thời gian nhận hồ sơ đăng ký xét tuyển: Theo quy định của Bộ Giáo dục và Đào tạo b) Xét tuyển đợt 1: Theo quy định của Bộ Giáo dục và Đào tạo c) Các đợt xét tuyển bổ sung: Đến hết ngày 20/12/2025 Chú ý: Nhà trường có thể điều chỉnh lịch xét tuyển các đợt tuyển phù hợp với tình hình thực tế. Địa điểm nhận hồ sơ xét tuyển Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc - phố Phúc Sơn, phường Vũ Ninh, thành phố Bắc Ninh, tỉnh Bắc Ninh Hình thức nộp hồ sơ Đăng ký trên cổng thông tin của Bộ Giáo dục và Đào tạo Thí sinh nộp hồ sơ đăng ký xét tuyển trực tiếp tại Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc Thí sinh gửi chuyển phát nhanh hồ sơ qua bưu điện về địa chỉ: Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc – phố Phúc Sơn, phường Vũ Ninh, TP Bắc Ninh Đăng ký trên Website của Nhà trường: https://truongdaihockinhbac.edu.vn Quy trình xét tuyển Bước 1: Thí sinh gửi hồ sơ đăng ký xét tuyển về Trường Đại học Kinh Bắc Bước 2: Tổng hợp hồ sơ của thí sinh đăng ký Bước 3: Nhập dữ liệu, thống kê các điều kiện xét tuyển (cập nhật dữ liệu lên hệ thống của Bộ Giáo dục và Đào tạo và của Nhà trường) Bước 4: Họp Hội đồng tuyển sinh, xét tuyển thí sinh theo danh sách đăng ký nguyện vọng vào Trường Đại học Kinh Bắc Bước 5: Tổng hợp và công bố kết quả xét tuyển Bước 6: Thông báo kết quả xét tuyển và gửi Giấy báo nhập học Bước 7: Xác nhận thí sinh trúng tuyển nhập học lên hệ thống"
+  "timeline_text": "Hồ sơ xét tuyển gồm: a) Đối với xét kết quả kỳ thi tốt nghiệp THPT năm 2025 Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) Giấy chứng nhận kết quả kỳ thi tốt nghiệp THPT năm 2025 Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng CCCD/CMND b) Đối với các phương thức xét tuyển khác Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) (Mẫu 01 hoặc Mẫu 02) Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng Học bạ THPT Bản sao công chứng CCCD/CMND Bản sao công chứng Bằng tốt nghiệp trung cấp, cao đẳng, đại học (đối với phương thức 5) Đơn xin xác nhận thời gian công tác từ 3 năm trở lên đúng với chuyên môn được đào tạo (Mẫu 03) hoặc có giấy phép hành nghề từ 1 năm trở lên tính đến thời điểm xét tuyển (đối với phương thức 5) Giấy xác nhận kết quả đánh giá năng lực của các trường khác (đối với phương thức 4) Các giấy tờ ưu tiên, chứng nhận liên quan (đối với phương thức 3) Thời gian nhận hồ sơ a) Thời gian nhận hồ sơ đăng ký xét tuyển: Theo quy định của Bộ Giáo dục và Đào tạo b) Xét tuyển đợt 1: Theo quy định của Bộ Giáo dục và Đào tạo c) Các đợt xét tuyển bổ sung: Đến hết ngày 20/12/2025 Chú ý: Nhà trường có thể điều chỉnh lịch xét tuyển các đợt tuyển phù hợp với tình hình thực tế. Địa điểm nhận hồ sơ xét tuyển Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc - phố Phúc Sơn, phường Vũ Ninh, thành phố Bắc Ninh, tỉnh Bắc Ninh Hình thức nộp hồ sơ Đăng ký trên cổng thông tin của Bộ Giáo dục và Đào tạo Thí sinh nộp hồ sơ đăng ký xét tuyển trực tiếp tại Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc Thí sinh gửi chuyển phát nhanh hồ sơ qua bưu điện về địa chỉ: Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc – phố Phúc Sơn, phường Vũ Ninh, TP Bắc Ninh Đăng ký trên Website của Nhà trường: https://truongdaihockinhbac.edu.vn Quy trình xét tuyển Bước 1: Thí sinh gửi hồ sơ đăng ký xét tuyển về Trường Đại học Kinh Bắc Bước 2: Tổng hợp hồ sơ của thí sinh đăng ký Bước 3: Nhập dữ liệu, thống kê các điều kiện xét tuyển (cập nhật dữ liệu lên hệ thống của Bộ Giáo dục và Đào tạo và của Nhà trường) Bước 4: Họp Hội đồng tuyển sinh, xét tuyển thí sinh theo danh sách đăng ký nguyện vọng vào Trường Đại học Kinh Bắc Bước 5: Tổng hợp và công bố kết quả xét tuyển Bước 6: Thông báo kết quả xét tuyển và gửi Giấy báo nhập học Bước 7: Xác nhận thí sinh trúng tuyển nhập học lên hệ thống",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-bac-UKB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D10"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          }
+        ]
+      }
+    ]
+  }
 }

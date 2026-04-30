@@ -298,5 +298,287 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-nghe-thuat-trung-uong-GNT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 28,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 29,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210103",
+            "program_name": "Hội họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 30.25,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 28.5,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210208",
+            "program_name": "Piano",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 29,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210234",
+            "program_name": "Diễn viên kịch-điện ảnh",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 22,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 30,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế Thời trang",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 26,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          }
+        ]
+      }
+    ]
+  }
 }

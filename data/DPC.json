@@ -452,5 +452,487 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Phan Châu Trinh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phan-chau-trinh-DPC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 63,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 500,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 724,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24.25,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.75,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 187,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 272,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 276,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

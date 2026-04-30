@@ -531,5 +531,602 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của Học viện Ngoại giao các năm Tại đây.",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngoai-giao-HQT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "HQT01",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "HQT02",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 25.28,
+            "note": null
+          },
+          {
+            "program_code": "HQT03",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "DD2"
+            ],
+            "score": 24.45,
+            "note": null
+          },
+          {
+            "program_code": "HQT04",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "HQT05",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "HQT06",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "DD2"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "HQT07",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-01",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "DD2"
+            ],
+            "score": 25.1,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-02",
+            "program_name": "Hoa Kỳ học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.17,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-03",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D06",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.43,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-04",
+            "program_name": "Trung Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D04",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.09,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "HQT01",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "D03",
+              "D04",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "HQT02",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D14",
+              "D15"
+            ],
+            "score": 27.39,
+            "note": null
+          },
+          {
+            "program_code": "HQT03",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 26.97,
+            "note": null
+          },
+          {
+            "program_code": "HQT04",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "HQT05",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D03",
+              "D04",
+              "DD2",
+              "D07",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "HQT06",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D06",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 27.13,
+            "note": null
+          },
+          {
+            "program_code": "HQT07",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D06",
+              "D07",
+              "D14",
+              "D15"
+            ],
+            "score": 27.1,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-01",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D07",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 27.3,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-02",
+            "program_name": "Hoa Kỳ học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.78,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-03",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-04",
+            "program_name": "Trung Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D04",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.89,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "HQT01",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "D03",
+              "D04",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "HQT02",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D14",
+              "D15"
+            ],
+            "score": 27.39,
+            "note": null
+          },
+          {
+            "program_code": "HQT03",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "D06",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 26.97,
+            "note": null
+          },
+          {
+            "program_code": "HQT04",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "HQT05",
+            "program_name": "Truyền thông quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D03",
+              "D04",
+              "DD2",
+              "D07",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "HQT06",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D06",
+              "D07",
+              "D09",
+              "D10"
+            ],
+            "score": 27.13,
+            "note": null
+          },
+          {
+            "program_code": "HQT07",
+            "program_name": "Luật thương mại quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D03",
+              "D04",
+              "DD2",
+              "D06",
+              "D07",
+              "D14",
+              "D15"
+            ],
+            "score": 27.1,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-01",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D07",
+              "D09",
+              "D10",
+              "D15"
+            ],
+            "score": 27.3,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-02",
+            "program_name": "Hoa Kỳ học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.78,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-03",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "HQT08-04",
+            "program_name": "Trung Quốc học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01",
+              "D04",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 27.89,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

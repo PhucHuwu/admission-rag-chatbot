@@ -644,5 +644,325 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học An ninh nhân dân các năm Tại đây",
   "tuition_text": "Sinh viên hệ sỹ quan không phải đóng học phí.",
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-an-ninh-nhan-dan-ANS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.68,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.28,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.47,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 17.66,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.05,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.33,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.83,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.28,
+            "note": null
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.46,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.68,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.48,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.28,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.47,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 17.66,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.33,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.83,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.28,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nghiệp vụ An ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.46,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
 }

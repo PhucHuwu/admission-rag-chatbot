@@ -82,5 +82,767 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Kinh Tế – Đại Học Đà Nẵng các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-dai-hoc-da-nang-DDQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101S",
+            "program_name": "Kinh tế - Chương trình Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7310107S",
+            "program_name": "Thống kê kinh tế - Chương trình Thống kê kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7310205S",
+            "program_name": "Quản lý nhà nước - Chương trình Quản lý nhà nước (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340101S",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340115S",
+            "program_name": "Marketing - Chương trình Marketing (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7340120S",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh quốc tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7340121S",
+            "program_name": "Kinh doanh thương mại - Chương trình Kinh doanh thương mại (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340122S",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7340201S",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340205S",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301S",
+            "program_name": "Kế toán - Chương trình Kế toán (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340302S",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340404S",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7340405S",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Hệ thống thông tin quản lý (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7380101S",
+            "program_name": "Luật - Chương trình Luật (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7380107S",
+            "program_name": "Luật kinh tế - Chương trình Luật Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7460108S",
+            "program_name": "Khoa học dữ liệu - Chương trình Khoa học dữ liệu (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7810103S",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị dịch vụ du lịch và lữ hành (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7810201S",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101P",
+            "program_name": "Kinh tế - Chương trình Kinh tế quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101P",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115E",
+            "program_name": "Marketing - Chương trình Marketing số (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 27,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115P",
+            "program_name": "Marketing - Chương trình Marketing (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340120E",
+            "program_name": "Kinh doanh quốc tế - Chương trình Ngoại thương (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 27,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340120P",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh giao nhận và vận tải quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 26,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340122E",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 26,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201P",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340205P",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340301P",
+            "program_name": "Kế toán - Chương trình Kế toán tích hợp chương trình quốc tế ICAEW (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340302P",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán tích hợp chương trình quốc tế ACCA (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404P",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340405P",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Trí tuệ nhân tạo trong kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107P",
+            "program_name": "Luật kinh tế - Chương trình Luật thương mại quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị kinh doanh du lịch (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810201P",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101P",
+            "program_name": "Kinh tế - Chương trình Kinh tế quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7310101S",
+            "program_name": "Kinh tế - Chương trình Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7310107S",
+            "program_name": "Thống kê kinh tế - Chương trình Thống kê kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7310205S",
+            "program_name": "Quản lý nhà nước - Chương trình Quản lý nhà nước (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7340101P",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 699,
+            "note": null
+          },
+          {
+            "program_code": "7340101S",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7340115E",
+            "program_name": "Marketing - Chương trình Marketing số (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7340115P",
+            "program_name": "Marketing - Chương trình Marketing (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 719,
+            "note": null
+          },
+          {
+            "program_code": "7340115S",
+            "program_name": "Marketing - Chương trình Marketing (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 902,
+            "note": null
+          },
+          {
+            "program_code": "7340120E",
+            "program_name": "Kinh doanh quốc tế - Chương trình Ngoại thương (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7340120P",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh giao nhận và vận tải quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 780,
+            "note": null
+          },
+          {
+            "program_code": "7340120S",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh quốc tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 968,
+            "note": null
+          },
+          {
+            "program_code": "7340121S",
+            "program_name": "Kinh doanh thương mại - Chương trình Kinh doanh thương mại (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7340122E",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 780,
+            "note": null
+          },
+          {
+            "program_code": "7340122S",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 876,
+            "note": null
+          },
+          {
+            "program_code": "7340201P",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340201S",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340205P",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 699,
+            "note": null
+          },
+          {
+            "program_code": "7340205S",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 846,
+            "note": null
+          },
+          {
+            "program_code": "7340301P",
+            "program_name": "Kế toán - Chương trình Kế toán tích hợp chương trình quốc tế ICAEW (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340301S",
+            "program_name": "Kế toán - Chương trình Kế toán (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340302P",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán tích hợp chương trình quốc tế ACCA (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7340302S",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340404P",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 679,
+            "note": null
+          },
+          {
+            "program_code": "7340404S",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 786,
+            "note": null
+          },
+          {
+            "program_code": "7340405P",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Trí tuệ nhân tạo trong kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340405S",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Hệ thống thông tin quản lý (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7380101S",
+            "program_name": "Luật - Chương trình Luật (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7380107P",
+            "program_name": "Luật kinh tế - Chương trình Luật thương mại quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7380107S",
+            "program_name": "Luật kinh tế - Chương trình Luật Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7460108S",
+            "program_name": "Khoa học dữ liệu - Chương trình Khoa học dữ liệu (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị kinh doanh du lịch (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7810103S",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị dịch vụ du lịch và lữ hành (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7810201P",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7810201S",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

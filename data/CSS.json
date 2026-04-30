@@ -646,5 +646,325 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn Đại học Cảnh sát nhân dân các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-canh-sat-nhan-dan-CSS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.01,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.53,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.33,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.44,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.6,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.67,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.28,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.67,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.56,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15.95,
+            "note": "Điểm thi THPT và điểm thi ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.01,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.53,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.33,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.44,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.6,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.67,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.28,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 6)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.67,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.56,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15.95,
+            "note": "Kết hợp CCQT và điểm thi ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
 }

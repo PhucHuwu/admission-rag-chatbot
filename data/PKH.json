@@ -210,5 +210,148 @@
   ],
   "cutoff_scores_text": "Xem điểm của Học viện Phòng không - Không quân các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": null
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-phong-khong-khong-quan-PKH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 25.17,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 103,
+            "note": null
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 96,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 933,
+            "note": "Trên 100 điểm"
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 878,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 865,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 805,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

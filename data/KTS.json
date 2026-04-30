@@ -436,5 +436,608 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Kiến trúc TP Hồ Chí Minh các năm Tại đây",
   "tuition_text": null,
-  "timeline_text": "Đăng ký dự thi các môn năng khiếu và đăng ký thông tin xét tuyển ngoài dữ liệu của Bộ Giáo dục và Đào tạo 1. Thời gian đăng ký dự thi các môn năng khiếu Năm 2026, Trường Đại học Kiến trúc Thành phố Hồ Chí Minh chi tổ chức duy nhất 01 đợt thi các môn năng khiếu, bao gồm môn Vẽ Mỹ thuật và Vẽ Trang trí màu: - Đăng ký trực tuyến: Dự kiến từ ngày 01/4/2026 đến hết ngày 29/4/2026. Chi tiết xem thông báo hướng dẫn đăng ký trực tuyến thi năng khiếu năm 2026 (sẽ thông báo sau). Ngày thi: Dự kiến ngày 30 - 31/5/2026. - Địa điểm thi: Tại Thành phố Hồ Chí Minh. Lưu ý: Thời gian có thể điều chinh theo tình hình thực tế. 6 2. Thời gian đăng ký thông tin xét tuyển ngoài dữ liệu của Bộ Giáo dục và Đào tạo - Các thông tin ngoài dữ liệu của Bộ Giáo dục và Đào tạo như: Thông tin xét tuyển theo Phương thức 4; Thông tin xét điểm cộng (các minh chứng về giải thưởng học sinh giỏi từ cấp tỉnh/thành phố trực thuộc trung ương trở lên, chứng chỉ Quốc tế), chứng chỉ Tiếng Anh đạt ngưỡng đầu vào xét tuyển ngành Thiết kế đô thị. - Thời gian đăng ký Thông tin xét tuyển trực tuyến: Từ ngày 01/6/2026 đến hết ngày 21/6/2026."
+  "timeline_text": "Đăng ký dự thi các môn năng khiếu và đăng ký thông tin xét tuyển ngoài dữ liệu của Bộ Giáo dục và Đào tạo 1. Thời gian đăng ký dự thi các môn năng khiếu Năm 2026, Trường Đại học Kiến trúc Thành phố Hồ Chí Minh chi tổ chức duy nhất 01 đợt thi các môn năng khiếu, bao gồm môn Vẽ Mỹ thuật và Vẽ Trang trí màu: - Đăng ký trực tuyến: Dự kiến từ ngày 01/4/2026 đến hết ngày 29/4/2026. Chi tiết xem thông báo hướng dẫn đăng ký trực tuyến thi năng khiếu năm 2026 (sẽ thông báo sau). Ngày thi: Dự kiến ngày 30 - 31/5/2026. - Địa điểm thi: Tại Thành phố Hồ Chí Minh. Lưu ý: Thời gian có thể điều chinh theo tình hình thực tế. 6 2. Thời gian đăng ký thông tin xét tuyển ngoài dữ liệu của Bộ Giáo dục và Đào tạo - Các thông tin ngoài dữ liệu của Bộ Giáo dục và Đào tạo như: Thông tin xét tuyển theo Phương thức 4; Thông tin xét điểm cộng (các minh chứng về giải thưởng học sinh giỏi từ cấp tỉnh/thành phố trực thuộc trung ương trở lên, chứng chỉ Quốc tế), chứng chỉ Tiếng Anh đạt ngưỡng đầu vào xét tuyển ngành Thiết kế đô thị. - Thời gian đăng ký Thông tin xét tuyển trực tuyến: Từ ngày 01/6/2026 đến hết ngày 21/6/2026.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kien-truc-tphcm-KTS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210110",
+            "program_name": "Mỹ thuật đô thị",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.57,
+            "note": null
+          },
+          {
+            "program_code": "7210402",
+            "program_name": "Thiết kế công nghiệp",
+            "subject_groups": [
+              "H01",
+              "H02"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H01",
+              "H06"
+            ],
+            "score": 24.43,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H01",
+              "H06"
+            ],
+            "score": 0,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": null
+          },
+          {
+            "program_code": "7580101CLC",
+            "program_name": "Kiến trúc (Chất lượng cao)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.11,
+            "note": null
+          },
+          {
+            "program_code": "7580101CT",
+            "program_name": "Kiến trúc (CT)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": null
+          },
+          {
+            "program_code": "7580101DL",
+            "program_name": "Kiến trúc (DL)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": null
+          },
+          {
+            "program_code": "7580102",
+            "program_name": "Kiến trúc cảnh quan",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.04,
+            "note": null
+          },
+          {
+            "program_code": "7580105",
+            "program_name": "Quy hoạch vùng và đô thị",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.64,
+            "note": null
+          },
+          {
+            "program_code": "7580105CLC",
+            "program_name": "Quy hoạch vùng và đô thị (Chất lượng cao)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.18,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.77,
+            "note": null
+          },
+          {
+            "program_code": "7580108CT",
+            "program_name": "Thiết kế nội thất (CT)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.77,
+            "note": null
+          },
+          {
+            "program_code": "7580110",
+            "program_name": "Thiết kế đô thị (Chương trình tiên tiến)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 17.01,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7580201CLC",
+            "program_name": "Kỹ thuật xây dựng (Chất lượng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 20.1,
+            "note": null
+          },
+          {
+            "program_code": "7580201CT",
+            "program_name": "Kỹ thuật xây dựng (CT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7580201DL",
+            "program_name": "Kỹ thuật xây dựng (DL)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 20.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210110",
+            "program_name": "Mỹ thuật đô thị",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.57,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210402",
+            "program_name": "Thiết kế công nghiệp",
+            "subject_groups": [
+              "H01",
+              "H02"
+            ],
+            "score": 23.2,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H01",
+              "H06"
+            ],
+            "score": 24.43,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H01",
+              "H06"
+            ],
+            "score": 0,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101CLC",
+            "program_name": "Kiến trúc (Chất lượng cao)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.11,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101CT",
+            "program_name": "Kiến trúc (CT)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101DL",
+            "program_name": "Kiến trúc (DL)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580102",
+            "program_name": "Kiến trúc cảnh quan",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.04,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580105",
+            "program_name": "Quy hoạch vùng và đô thị",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.64,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580105CLC",
+            "program_name": "Quy hoạch vùng và đô thị (Chất lượng cao)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 20.18,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.77,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108CT",
+            "program_name": "Thiết kế nội thất (CT)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 21.77,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580110",
+            "program_name": "Thiết kế đô thị (Chương trình tiên tiến)",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 17.01,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201CLC",
+            "program_name": "Kỹ thuật xây dựng (Chất lượng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 20.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201CT",
+            "program_name": "Kỹ thuật xây dựng (CT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580201DL",
+            "program_name": "Kỹ thuật xây dựng (DL)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 19.6,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01"
+            ],
+            "score": 18.8,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Kiến trúc (DL)",
+            "program_name": "Kiến trúc (DL)",
+            "subject_groups": [],
+            "score": 859,
+            "note": null
+          },
+          {
+            "program_code": "Kỹ thuật xây dựng (CT)",
+            "program_name": "Kỹ thuật xây dựng (CT)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "Thiết kế nội thất (CT)",
+            "program_name": "Thiết kế nội thất (CT)",
+            "subject_groups": [],
+            "score": 850,
+            "note": null
+          },
+          {
+            "program_code": "Kiến trúc (CT)",
+            "program_name": "Kiến trúc (CT)",
+            "subject_groups": [],
+            "score": 859,
+            "note": null
+          },
+          {
+            "program_code": "Kỹ thuật xây dựng (DL)",
+            "program_name": "Kỹ thuật xây dựng (DL)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7210110",
+            "program_name": "Mỹ thuật đô thị",
+            "subject_groups": [],
+            "score": 792,
+            "note": null
+          },
+          {
+            "program_code": "7210402",
+            "program_name": "Thiết kế công nghiệp",
+            "subject_groups": [],
+            "score": 901,
+            "note": null
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [],
+            "score": 945,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [],
+            "score": 918,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [],
+            "score": 859,
+            "note": null
+          },
+          {
+            "program_code": "7580101CLC",
+            "program_name": "Kiến trúc (Chất lượng cao)",
+            "subject_groups": [],
+            "score": 859,
+            "note": null
+          },
+          {
+            "program_code": "7580102",
+            "program_name": "Kiến trúc cảnh quan",
+            "subject_groups": [],
+            "score": 811,
+            "note": null
+          },
+          {
+            "program_code": "7580105",
+            "program_name": "Quy hoạch vùng và đô thị",
+            "subject_groups": [],
+            "score": 792,
+            "note": null
+          },
+          {
+            "program_code": "7580105CLC",
+            "program_name": "Quy hoạch vùng và đô thị (Chất lượng cao)",
+            "subject_groups": [],
+            "score": 768,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [],
+            "score": 850,
+            "note": null
+          },
+          {
+            "program_code": "7580110",
+            "program_name": "Thiết kế đô thị (Chương trình tiên tiến)",
+            "subject_groups": [],
+            "score": 599,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7580201CLC",
+            "program_name": "Kỹ thuật xây dựng (Chất lượng cao)",
+            "subject_groups": [],
+            "score": 764,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng",
+            "subject_groups": [],
+            "score": 695,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [],
+            "score": 782,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -512,5 +512,291 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Kỹ thuật Y tế Hải Dương các năm Tại đây.",
   "tuition_text": null,
-  "timeline_text": "Tổ chức tuyển sinh Thí sinh khi đăng ký xét tuyển trên Hệ thống nghiệp vụ của Bộ Giáo dục và Đào tạo (https://thisinh.thitotnghiepthpt.edu.vn) cần cung cấp đầy đủ thông tin trên Hệ thống đặc biệt là thông tin Học bạ THPT, kết quả học tập các môn học của ba năm THPT, kết quả các kỳ thi Đánh giá năng lực ..., thông tin đối tượng ưu tiên, khu vực ưu tiên (nếu có) để Trường làm căn cứ tiến hành xét tuyển. Trường hợp thí sinh không cung cấp đầy đủ thông tin theo yêu cầu sẽ không đủ điều kiện xét tuyển. Tất cả các thí sinh xét tuyển vào Trường đều phải đăng ký xét tuyển và nộp lệ phí trên Hệ thống nghiệp vụ https://thisinh.thitotnghiepthpt.edu.vn từ ngày 02 tháng 7 đến 14 tháng 7 năm 2026."
+  "timeline_text": "Tổ chức tuyển sinh Thí sinh khi đăng ký xét tuyển trên Hệ thống nghiệp vụ của Bộ Giáo dục và Đào tạo (https://thisinh.thitotnghiepthpt.edu.vn) cần cung cấp đầy đủ thông tin trên Hệ thống đặc biệt là thông tin Học bạ THPT, kết quả học tập các môn học của ba năm THPT, kết quả các kỳ thi Đánh giá năng lực ..., thông tin đối tượng ưu tiên, khu vực ưu tiên (nếu có) để Trường làm căn cứ tiến hành xét tuyển. Trường hợp thí sinh không cung cấp đầy đủ thông tin theo yêu cầu sẽ không đủ điều kiện xét tuyển. Tất cả các thí sinh xét tuyển vào Trường đều phải đăng ký xét tuyển và nộp lệ phí trên Hệ thống nghiệp vụ https://thisinh.thitotnghiepthpt.edu.vn từ ngày 02 tháng 7 đến 14 tháng 7 năm 2026.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-y-te-hai-duong-DKY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 24.69,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 85.55,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 76,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 81.6,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 81.25,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 83,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 822,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 706,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [],
+            "score": 773,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 769,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [],
+            "score": 790,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 55.96,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 53.2,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 53,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 54,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }

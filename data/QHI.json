@@ -713,5 +713,574 @@
   ],
   "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Công nghệ - ĐHQGHN các năm Tại đây.",
   "tuition_text": "STT Mã tuyển sinh Ngành/chương trình Học phí năm học 2026-2027 1 CN1 Công nghệ thông tin 44,000,000 2 CN2 Kỹ thuật máy tính 3 CN3 Vật lý kỹ thuật 4 CN4 Cơ kỹ thuật 5 CN5 Công nghệ kỹ thuật xây dựng 6 CN6 Công nghệ kỹ thuật cơ điện tử 7 CN7 Công nghệ hàng không vũ trụ 8 CN8 Khoa học máy tính 9 CN9 Công nghệ kỹ thuật điện tử - viễn thông 10 CN13 Kỹ thuật năng lượng 11 CN14 Hệ thống thông tin STT Mã tuyển sinh Ngành/chương trình Học phí năm học 2026-2027 12 CN15 Mạng máy tính và truyền thông dữ liệu 13 CN17 Kỹ thuật Robot 14 CN10 Công nghệ nông nghiệp 15 CN11 Kỹ thuật điều khiển và tự động hóa 16 CN12 Trí tuệ nhân tạo 38,000,000 17 CN18 Thiết kế công nghiệp và đồ họa 18 CN19 Công nghệ vật liệu và Vi điện tử 19 CN20 Khoa học và Kỹ thuật dữ liệu 20 CN21 Công nghệ kỹ thuật sinh học",
-  "timeline_text": "a) Với xét tuyển bằng kết quả thi tốt nghiệp THPT: Thí sinh đăng ký nguyện vọng xét tuyển trên hệ thống và theo kế hoạch chung của Bộ GD&ĐT (từ ngày 2/7/2026 đến 17h00 ngày 14/7/2026). b) Với xét tuyển thẳng, dự bị dân tộc: nộp hồ sơ về Trường ĐHCN trước 17 giờ ngày 20/6/2026. Thí sinh đã trúng tuyển theo kế hoạch xét tuyển thẳng thực hiện đăng ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GD&ĐT để lựa chọn chương trình đào tạo đã trúng tuyển thẳng hoặc đăng ký nguyện vọng xét tuyển khác. Thí sinh trúng tuyển thẳng lưu ý: Trường ĐHCN không yêu cầu thí sinh cam kết nhập học dưới mọi hình thức hoặc xác nhận nhập học sớm hơn lịch trình theo kế hoạch chung của ĐHQGHN và của Trường. c) Với xét tuyển bằng HSA, SAT và diện cộng điểm, diện dùng chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT quy đổi thành điểm môn tiếng Anh trong tổ hợp xét tuyển: Thí sinh khai báo và nộp minh chứng xét tuyển trên hệ thống của Trường ĐHCN từ ngày 10/5/2026 đến 17 giờ ngày 20/6/2026 (mục “Đăng ký xét tuyển” trên Website: https://tuyensinh.uet.vnu.edu.vn/) và thực hiện đăng ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GD&ĐT (từ ngày 2/7/2026 đến 17h00 ngày 14/7/2026). d) Lưu ý: 1. Tất cả thí sinh dự tuyển thực hiện đăng ký xét tuyển trên Hệ thống (hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GD&ĐT. 2. Thí sinh được đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo, các cơ sở giáo dục đại học khác nhau; nguyện vọng phải được sắp xếp theo thứ tự ưu tiên từ cao xuống thấp. Trong trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh chỉ được công nhận trúng tuyển và gọi nhập học theo nguyện vọng cao nhất. * Thí sinh thể hiện nguyện vọng đăng ký xét tuyển trên Hệ thống như sau: a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng có thứ tự ưu tiên cao nhất); b) Lựa chọn đơn vị đào tạo, đơn vị tuyển sinh (mã trường); c) Lựa chọn chương trình đào tạo (mã xét tuyển). * Trong đợt 1, thí sinh đăng ký xét tuyển và chỉ nộp lệ phí xét tuyển một lần duy nhất (không bao gồm lệ phí các kỳ thi năng khiếu, kỳ thi bổ trợ, kỳ thi độc lập) theo mức thu dịch vụ tuyển sinh do đơn vị đào tạo quy định. * Các mốc thời gian thực hiện theo quy định của Bộ GD&ĐT; trường hợp có điều chỉnh, các mốc thời gian được cập nhật tương ứng."
+  "timeline_text": "a) Với xét tuyển bằng kết quả thi tốt nghiệp THPT: Thí sinh đăng ký nguyện vọng xét tuyển trên hệ thống và theo kế hoạch chung của Bộ GD&ĐT (từ ngày 2/7/2026 đến 17h00 ngày 14/7/2026). b) Với xét tuyển thẳng, dự bị dân tộc: nộp hồ sơ về Trường ĐHCN trước 17 giờ ngày 20/6/2026. Thí sinh đã trúng tuyển theo kế hoạch xét tuyển thẳng thực hiện đăng ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GD&ĐT để lựa chọn chương trình đào tạo đã trúng tuyển thẳng hoặc đăng ký nguyện vọng xét tuyển khác. Thí sinh trúng tuyển thẳng lưu ý: Trường ĐHCN không yêu cầu thí sinh cam kết nhập học dưới mọi hình thức hoặc xác nhận nhập học sớm hơn lịch trình theo kế hoạch chung của ĐHQGHN và của Trường. c) Với xét tuyển bằng HSA, SAT và diện cộng điểm, diện dùng chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT quy đổi thành điểm môn tiếng Anh trong tổ hợp xét tuyển: Thí sinh khai báo và nộp minh chứng xét tuyển trên hệ thống của Trường ĐHCN từ ngày 10/5/2026 đến 17 giờ ngày 20/6/2026 (mục “Đăng ký xét tuyển” trên Website: https://tuyensinh.uet.vnu.edu.vn/) và thực hiện đăng ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GD&ĐT (từ ngày 2/7/2026 đến 17h00 ngày 14/7/2026). d) Lưu ý: 1. Tất cả thí sinh dự tuyển thực hiện đăng ký xét tuyển trên Hệ thống (hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GD&ĐT. 2. Thí sinh được đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo, các cơ sở giáo dục đại học khác nhau; nguyện vọng phải được sắp xếp theo thứ tự ưu tiên từ cao xuống thấp. Trong trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh chỉ được công nhận trúng tuyển và gọi nhập học theo nguyện vọng cao nhất. * Thí sinh thể hiện nguyện vọng đăng ký xét tuyển trên Hệ thống như sau: a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng có thứ tự ưu tiên cao nhất); b) Lựa chọn đơn vị đào tạo, đơn vị tuyển sinh (mã trường); c) Lựa chọn chương trình đào tạo (mã xét tuyển). * Trong đợt 1, thí sinh đăng ký xét tuyển và chỉ nộp lệ phí xét tuyển một lần duy nhất (không bao gồm lệ phí các kỳ thi năng khiếu, kỳ thi bổ trợ, kỳ thi độc lập) theo mức thu dịch vụ tuyển sinh do đơn vị đào tạo quy định. * Các mốc thời gian thực hiện theo quy định của Bộ GD&ĐT; trường hợp có điều chỉnh, các mốc thời gian được cập nhật tương ứng.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-QHI.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "CN1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 28.19,
+            "note": null
+          },
+          {
+            "program_code": "CN10",
+            "program_name": "Công nghệ nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01",
+              "B00"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "CN11",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.9,
+            "note": null
+          },
+          {
+            "program_code": "CN12",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "CN13",
+            "program_name": "Kỹ thuật năng lượng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "CN14",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "CN15",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "CN17",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "CN18",
+            "program_name": "Thiết kế công nghiệp và Đồ họa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "CN19",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.6,
+            "note": null
+          },
+          {
+            "program_code": "CN2",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "CN20",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "CN21",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01",
+              "B00"
+            ],
+            "score": 22.13,
+            "note": null
+          },
+          {
+            "program_code": "CN3",
+            "program_name": "Vật lý kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "CN4",
+            "program_name": "Cơ kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "CN5",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "CN6",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "CN7",
+            "program_name": "Công nghệ hàng không vũ trụ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "CN8",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.86,
+            "note": null
+          },
+          {
+            "program_code": "CN9",
+            "program_name": "Công nghệ kỹ thuật điện tử - Viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.63,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "CN1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 108,
+            "note": null
+          },
+          {
+            "program_code": "CN10",
+            "program_name": "Công nghệ nông nghiệp",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "CN11",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 106,
+            "note": null
+          },
+          {
+            "program_code": "CN12",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 104,
+            "note": null
+          },
+          {
+            "program_code": "CN13",
+            "program_name": "Kỹ thuật năng lượng",
+            "subject_groups": [],
+            "score": 86,
+            "note": null
+          },
+          {
+            "program_code": "CN14",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 95,
+            "note": null
+          },
+          {
+            "program_code": "CN15",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          },
+          {
+            "program_code": "CN17",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "CN18",
+            "program_name": "Thiết kế công nghiệp và Đồ họa",
+            "subject_groups": [],
+            "score": 84,
+            "note": null
+          },
+          {
+            "program_code": "CN19",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [],
+            "score": 90,
+            "note": null
+          },
+          {
+            "program_code": "CN2",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 98,
+            "note": null
+          },
+          {
+            "program_code": "CN20",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 101,
+            "note": null
+          },
+          {
+            "program_code": "CN21",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 76,
+            "note": null
+          },
+          {
+            "program_code": "CN3",
+            "program_name": "Vật lý kỹ thuật",
+            "subject_groups": [],
+            "score": 89,
+            "note": null
+          },
+          {
+            "program_code": "CN4",
+            "program_name": "Cơ kỹ thuật",
+            "subject_groups": [],
+            "score": 94,
+            "note": null
+          },
+          {
+            "program_code": "CN5",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 76,
+            "note": null
+          },
+          {
+            "program_code": "CN6",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          },
+          {
+            "program_code": "CN7",
+            "program_name": "Công nghệ hàng không vũ trụ",
+            "subject_groups": [],
+            "score": 83,
+            "note": null
+          },
+          {
+            "program_code": "CN8",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 105,
+            "note": null
+          },
+          {
+            "program_code": "CN9",
+            "program_name": "Công nghệ kỹ thuật điện tử - Viễn thông",
+            "subject_groups": [],
+            "score": 96,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "CN1",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 28.19,
+            "note": null
+          },
+          {
+            "program_code": "CN10",
+            "program_name": "Công nghệ nông nghiệp",
+            "subject_groups": [],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "CN11",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": null
+          },
+          {
+            "program_code": "CN12",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "CN13",
+            "program_name": "Kỹ thuật năng lượng",
+            "subject_groups": [],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "CN14",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 26.38,
+            "note": null
+          },
+          {
+            "program_code": "CN15",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "CN17",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "CN18",
+            "program_name": "Thiết kế công nghiệp và Đồ họa",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "CN19",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [],
+            "score": 25.6,
+            "note": null
+          },
+          {
+            "program_code": "CN2",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "CN20",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "CN21",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 22.13,
+            "note": null
+          },
+          {
+            "program_code": "CN3",
+            "program_name": "Vật lý kỹ thuật",
+            "subject_groups": [],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "CN4",
+            "program_name": "Cơ kỹ thuật",
+            "subject_groups": [],
+            "score": 26.15,
+            "note": null
+          },
+          {
+            "program_code": "CN5",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "CN6",
+            "program_name": "Công nghệ kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "CN7",
+            "program_name": "Công nghệ hàng không vũ trụ",
+            "subject_groups": [],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "CN8",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 27.86,
+            "note": null
+          },
+          {
+            "program_code": "CN9",
+            "program_name": "Công nghệ kỹ thuật điện tử - Viễn thông",
+            "subject_groups": [],
+            "score": 26.63,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
 }
