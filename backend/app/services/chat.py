@@ -16,7 +16,7 @@ def _is_cutoff_query(query: str) -> bool:
 def _render_answer_from_hits(query: str, hits: list) -> tuple[str, bool, str | None]:
     if not hits:
         return (
-            "Khong du du lieu trong bo crawl hien tai de tra loi cau hoi nay.",
+            "Không đủ dữ liệu trong bộ crawl hiện tại để tra lời câu hỏi này.",
             False,
             "no-hit",
         )
@@ -29,7 +29,7 @@ def _render_answer_from_hits(query: str, hits: list) -> tuple[str, bool, str | N
 
     if not lines:
         return (
-            "Khong du du lieu trong bo crawl hien tai de tra loi cau hoi nay.",
+            "Không đủ dữ liệu trong bộ crawl hiện tại để tra lời câu hỏi này.",
             False,
             "empty-hit",
         )
@@ -39,9 +39,9 @@ def _render_answer_from_hits(query: str, hits: list) -> tuple[str, bool, str | N
     except Exception:
         answer = "\n\n".join(lines)
 
-    if _is_cutoff_query(query) and "khong du du lieu diem chuan" in answer.lower():
-        return ("Khong du du lieu diem chuan trong bo crawl hien tai.", False, "cutoff-missing")
-    if "khong du du lieu" in answer.lower():
+    if _is_cutoff_query(query) and "không đủ dữ liệu điểm chuẩn" in answer.lower():
+        return ("Không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại.", False, "cutoff-missing")
+    if "không đủ dữ liệu" in answer.lower():
         return (answer, False, "insufficient-context")
     return (answer, True, None)
 
@@ -56,7 +56,7 @@ class ChatService:
     ) -> ChatResponse:
         if _is_cutoff_query(query) and university_code and university_code.upper() in CUTOFF_MISSING_CODES:
             return ChatResponse(
-                answer="Khong du du lieu diem chuan trong bo crawl hien tai.",
+                answer="Không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại.",
                 session_id=session_id,
                 used_chunks=0,
                 data_sufficient=False,

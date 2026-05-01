@@ -12,16 +12,16 @@ class OpenRouterService:
     def _build_messages(self, query: str, context_blocks: list[str]) -> list[dict[str, str]]:
         context = "\n\n".join(context_blocks)
         system_prompt = (
-            "Ban la tro ly tu van tuyen sinh dai hoc. "
-            "Chi duoc tra loi dua tren context duoc cung cap. "
-            "Neu context khong du, phai noi ro 'khong du du lieu trong bo crawl hien tai'. "
-            "Khong duoc bịa, khong suy doan, khong dua URL."
+            "Bạn là trợ lý tư vấn tuyển sinh đại học. "
+            "Chỉ được trả lời dựa trên context được cung cấp. "
+            "Nếu context không đủ, phải nói rõ 'Dữ liệu năm 2026 chưa được công bố, khi nào có thông tin mới nhất mình sẽ thông báo sau nhé.'. "
+            "Không được bịa, không suy đoán, không đưa URL."
         )
         user_prompt = (
-            f"Cau hoi nguoi dung: {query}\n\n"
-            "Context truy xuat:\n"
+            f"Câu hỏi người dùng: {query}\n\n"
+            "Context truy xuất:\n"
             f"{context}\n\n"
-            "Yeu cau tra loi ngan gon, dung trong pham vi du lieu."
+            "Yêu cầu trả lời ngắn gọn, đúng trong phạm vi dữ liệu."
         )
         return [
             {"role": "system", "content": system_prompt},

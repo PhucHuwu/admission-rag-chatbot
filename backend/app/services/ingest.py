@@ -21,13 +21,13 @@ def _chunk_university(data: dict[str, Any]) -> dict[str, Any]:
         "chunk_type": "university_metadata",
         "text": "\n".join(
             [
-                f"Truong: {_compact_text(uni.get('name'))}",
-                f"Ma truong: {_compact_text(uni.get('code'))}",
-                f"Viet tat: {_compact_text(uni.get('short_name'))}",
-                f"Khu vuc: {_compact_text(', '.join(uni.get('location', [])))}",
-                f"Nam tuyen sinh: {_compact_text(data.get('admission_year'))}",
-                f"Tong chi tieu: {_compact_text(data.get('total_quota'))}",
-                f"Tong quan: {_compact_text(data.get('admission_overview'))}",
+                f"Trường: {_compact_text(uni.get('name'))}",
+                f"Mã trường: {_compact_text(uni.get('code'))}",
+                f"Viết tắt: {_compact_text(uni.get('short_name'))}",
+                f"Khu vực: {_compact_text(', '.join(uni.get('location', [])))}",
+                f"Nam tuyển sinh: {_compact_text(data.get('admission_year'))}",
+                f"Tổng chỉ tiêu: {_compact_text(data.get('total_quota'))}",
+                f"Tổng quan: {_compact_text(data.get('admission_overview'))}",
             ]
         ),
         "metadata": {
@@ -48,20 +48,20 @@ def _chunk_method(data: dict[str, Any], method: dict[str, Any], idx: int) -> dic
     program_lines = []
     for p in programs:
         groups = p.get("subject_groups") or []
-        groups_text = ", ".join(groups) if groups else "khong co"
+        groups_text = ", ".join(groups) if groups else "không có"
         program_lines.append(
-            f"- {p.get('program_name', '')} | code={p.get('program_code', '')} | type={p.get('program_type', '')} | to_hop={groups_text}"
+            f"- {p.get('program_name', '')} | code={p.get('program_code', '')} | type={p.get('program_type', '')} | tổ_hợp={groups_text}"
         )
 
     text = "\n".join(
         [
-            f"Truong: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})",
-            f"Nam: {_compact_text(data.get('admission_year'))}",
-            f"Phuong thuc: {_compact_text(method.get('method_name'))}",
-            f"Mo ta: {_compact_text(method.get('description'))}",
-            f"Doi tuong: {_compact_text(method.get('eligibility'))}",
-            f"Quy che: {_compact_text(method.get('rules'))}",
-            "Danh sach nganh:",
+            f"Trường: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})",
+            f"Năm: {_compact_text(data.get('admission_year'))}",
+            f"Phương thức: {_compact_text(method.get('method_name'))}",
+            f"Mô tả: {_compact_text(method.get('description'))}",
+            f"Đối tượng: {_compact_text(method.get('eligibility'))}",
+            f"Quy chế: {_compact_text(method.get('rules'))}",
+            "Danh sách ngành:",
             *program_lines,
         ]
     )
@@ -92,8 +92,8 @@ def _chunk_raw(data: dict[str, Any], field: str, label: str) -> dict[str, Any] |
     return {
         "chunk_type": field,
         "text": (
-            f"Truong: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})\n"
-            f"Nam: {_compact_text(data.get('admission_year'))}\n"
+            f"Trường: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})\n"
+            f"Năm: {_compact_text(data.get('admission_year'))}\n"
             f"{label}: {text}"
         ),
         "metadata": {
@@ -122,9 +122,9 @@ def _chunk_cutoff_structured(data: dict[str, Any]) -> list[dict[str, Any]]:
         lines = []
         for entry in entries:
             groups = entry.get("subject_groups") or []
-            groups_text = ", ".join(groups) if groups else "khong co"
+            groups_text = ", ".join(groups) if groups else "không có"
             lines.append(
-                f"- {entry.get('program_name', '')} | code={entry.get('program_code', '')} | to_hop={groups_text} | diem={entry.get('score', '')}"
+                f"- {entry.get('program_name', '')} | code={entry.get('program_code', '')} | tổ_hợp={groups_text} | điểm={entry.get('score', '')}"
             )
 
         if not lines:
@@ -135,10 +135,10 @@ def _chunk_cutoff_structured(data: dict[str, Any]) -> list[dict[str, Any]]:
                 "chunk_type": "cutoff_scores_structured",
                 "text": "\n".join(
                     [
-                        f"Truong: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})",
-                        f"Nam diem chuan: {year}",
-                        f"Phuong thuc diem chuan: {method_name}",
-                        "Danh sach diem chuan:",
+                        f"Trường: {_compact_text(uni.get('name'))} ({_compact_text(uni.get('code'))})",
+                        f"Năm điểm chuẩn: {year}",
+                        f"Phương thức điểm chuẩn: {method_name}",
+                        "Danh sách điểm chuẩn:",
                         *lines,
                     ]
                 ),
@@ -180,9 +180,9 @@ class IngestService:
                 chunks.append(_chunk_method(data, method, idx))
 
             for field, label in (
-                ("cutoff_scores_text", "Diem chuan"),
-                ("tuition_text", "Hoc phi"),
-                ("timeline_text", "Thoi gian va ho so"),
+                ("cutoff_scores_text", "Điểm chuẩn"),
+                ("tuition_text", "Học phí"),
+                ("timeline_text", "Thời gian và hồ sơ"),
             ):
                 chunk = _chunk_raw(data, field, label)
                 if chunk:
