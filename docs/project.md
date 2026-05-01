@@ -62,6 +62,66 @@ Một trang web tích hợp chatbot sử dụng RAG để tư vấn tuyển sinh
   - `cutoff_scores_text`, `tuition_text`, `timeline_text`: text thô cho điểm chuẩn, học phí, mốc thời gian/hồ sơ
   - `source_url`, `pdf_url`: nguồn
 
+## Data priority cho tư vấn tuyển sinh (để code bám đúng)
+
+### Nhóm dữ liệu ưu tiên cao (phải index và ưu tiên trả lời)
+- Nhận diện trường:
+  - `university.code`
+  - `university.name`
+  - `university.short_name`
+  - `university.location`
+- Ngữ cảnh tuyển sinh:
+  - `admission_year`
+  - `admission_overview`
+- Phương thức xét tuyển:
+  - `admission_methods[].method_name`
+  - `admission_methods[].description`
+  - `admission_methods[].eligibility`
+  - `admission_methods[].rules`
+- Ngành/chương trình theo phương thức:
+  - `admission_methods[].programs[].program_name`
+  - `admission_methods[].programs[].program_code`
+  - `admission_methods[].programs[].program_type`
+- Điểm chuẩn:
+  - Ưu tiên `cutoff_scores.methods[].entries[]` (nếu có)
+  - Fallback `cutoff_scores_text` khi không có bảng cấu trúc
+- Thông tin bổ sung quan trọng khi có dữ liệu:
+  - `tuition_text`
+  - `timeline_text`
+
+### Nhóm dữ liệu dùng phụ trợ (không phải nguồn chính để trả lời)
+- `total_quota`: chỉ dùng khi có dữ liệu (độ phủ thấp), không làm điều kiện bắt buộc.
+- `admission_methods[].programs[].subject_groups`: dùng bổ sung, không bắt buộc vì nhiều bản ghi rỗng.
+
+### Nhóm dữ liệu bỏ qua trong câu trả lời người dùng
+- Không hiển thị URL kiểm chứng ra UI chatbot:
+  - `source_url`
+  - `pdf_url`
+- Không dùng làm nội dung tư vấn trực tiếp:
+  - `admission_methods[].method_id` (chủ yếu dùng nội bộ filter)
+  - `admission_methods[].programs[].note` (thường là STT hoặc dữ liệu nhiễu)
+  - `university.address`, `university.website`, `university.description`, `university.type`
+
+### Quy tắc fallback khi dữ liệu thiếu
+- Nếu không có `cutoff_scores.methods` hoặc `methods` rỗng:
+  - Dùng `cutoff_scores_text` nếu có.
+  - Nếu vẫn thiếu, trả lời "không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại".
+- Nếu `subject_groups` rỗng:
+  - Không tự suy đoán tổ hợp môn.
+  - Chỉ trả lời các phần dữ liệu còn lại (ngành, phương thức, điều kiện).
+- Nếu câu hỏi yêu cầu trường dữ liệu đang thiếu:
+  - Trả lời rõ dữ liệu không có trong bộ crawl hiện tại, không bịa thông tin.
+
+### Thứ tự ưu tiên nguồn khi sinh câu trả lời
+- Với câu hỏi về điểm chuẩn:
+  1. `cutoff_scores.methods[].entries[]`
+  2. `cutoff_scores_text`
+  3. Thông báo thiếu dữ liệu
+- Với câu hỏi về cách xét tuyển/ngành:
+  1. `admission_methods[]` + `programs[]`
+  2. `admission_overview`
+  3. Thông báo thiếu dữ liệu
+
 ## Yêu cầu chức năng (Functional Requirements)
 - FR-01: Người dùng có thể chat nhiều lượt với chatbot trên trang chatbot.
 - FR-02: Chatbot trả lời dựa trên dữ liệu đã index từ bộ JSON crawler.
@@ -95,6 +155,21 @@ Một trang web tích hợp chatbot sử dụng RAG để tư vấn tuyển sinh
 - `program_type` được phân loại theo heuristic từ tên ngành/chương trình, có thể sai ở edge cases.
 - Bảng HTML có rowspan/colspan được làm phẳng, có thể lặp giá trị ở một số ô.
 - `note` trong một số dòng có thể chứa STT nếu bảng gốc không có cột ghi chú chuẩn.
+
+### Các ngoại lệ dữ liệu điểm chuẩn (đã xác định)
+- 4 trường thiếu điểm chuẩn trên nguồn crawl (không có trên tuyensinh247 do là hệ dân sự của trường quân sự):
+  - `DNH` - Học viện Khoa học Quân sự
+  - `DQH` - Học viện Kỹ thuật quân sự - Hệ Dân sự
+  - `DYH` - Học viện Quân y
+  - `TCU` - Đại học Thông tin liên lạc
+- 4 trường có trang điểm chuẩn nhưng `methods` rỗng (trang điểm chuẩn không có bảng dữ liệu):
+  - `CIV` - Học viện Công giáo Việt Nam
+  - `LCDF` - Học viện Thiết kế và Thời trang London Hà Nội
+  - `RHM` - Trường Đại Học Răng - Hàm - Mặt
+  - `RMU` - Trường Đại Học Quốc Tế RMIT Việt Nam
+- Quy ước xử lý trong chatbot:
+  - Nếu người dùng hỏi điểm chuẩn thuộc các trường trên, chatbot trả lời "không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại".
+  - Không suy đoán hoặc tự điền số liệu điểm chuẩn khi dữ liệu không tồn tại.
 
 ## Giới hạn dự án
 - Đây là sản phẩm phục vụ học thuật, không phải hệ thống tư vấn tuyển sinh chính thức.
