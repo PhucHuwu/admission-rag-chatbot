@@ -2,7 +2,7 @@ from pydantic import BaseModel, Field
 
 
 class IngestRequest(BaseModel):
-    data_dir: str | None = Field(default=None, description="Override default data directory")
+    data_dir: str | None = Field(default=None, description="Override QA dataset JSONL path")
     rebuild_index: bool = Field(default=False, description="Rebuild vector index from scratch")
 
 

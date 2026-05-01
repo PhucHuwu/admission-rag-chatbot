@@ -4,22 +4,36 @@ from app.models.chat import ChatResponse
 from app.services.llm import openrouter_service
 from app.services.retrieval import retrieval_service
 
-CUTOFF_MISSING_CODES = {"DNH", "DQH", "DYH", "TCU", "CIV", "LCDF", "RHM", "RMU"}
+def _build_fallback_hint(university_code: str | None, admission_year: int | None) -> str:
+    school = university_code.upper() if university_code else "trường bạn đang hỏi"
+    year_text = str(admission_year) if admission_year else "năm hiện tại"
+    return (
+        f"Nếu dữ liệu chưa đủ cho {school} ({year_text}), hãy trả lời lịch sự rằng hiện chưa có đủ thông tin "
+        "trong bộ dữ liệu hiện tại. Không bịa số liệu."
+    )
 
 
-def _is_cutoff_query(query: str) -> bool:
-    q = query.lower()
-    keywords = ["diem chuan", "điểm chuẩn", "diem xet tuyen", "muc diem"]
-    return any(k in q for k in keywords)
+def _soft_insufficient_answer(query: str, university_code: str | None, admission_year: int | None) -> str:
+    hint = _build_fallback_hint(university_code, admission_year)
+    return openrouter_service.generate(query=query, context_blocks=["Không có ngữ cảnh phù hợp."], fallback_hint=hint)
 
 
-def _render_answer_from_hits(query: str, hits: list) -> tuple[str, bool, str | None]:
+def _render_answer_from_hits(
+    query: str,
+    hits: list,
+    university_code: str | None,
+    admission_year: int | None,
+) -> tuple[str, bool, str | None]:
     if not hits:
-        return (
-            "Không đủ dữ liệu trong bộ crawl hiện tại để tra lời câu hỏi này.",
-            False,
-            "no-hit",
-        )
+        try:
+            answer = _soft_insufficient_answer(query, university_code, admission_year)
+            return (answer, False, "no-hit")
+        except Exception:
+            return (
+                "Xin lỗi, hiện chưa đủ dữ liệu trong bộ crawl để trả lời chính xác câu hỏi này.",
+                False,
+                "no-hit-fallback",
+            )
 
     lines: list[str] = []
     for hit in hits[:3]:
@@ -28,19 +42,26 @@ def _render_answer_from_hits(query: str, hits: list) -> tuple[str, bool, str | N
             lines.append(text[:700])
 
     if not lines:
-        return (
-            "Không đủ dữ liệu trong bộ crawl hiện tại để tra lời câu hỏi này.",
-            False,
-            "empty-hit",
-        )
+        try:
+            answer = _soft_insufficient_answer(query, university_code, admission_year)
+            return (answer, False, "empty-hit")
+        except Exception:
+            return (
+                "Xin lỗi, hiện chưa đủ dữ liệu trong bộ crawl để trả lời chính xác câu hỏi này.",
+                False,
+                "empty-hit-fallback",
+            )
 
+    fallback_hint = _build_fallback_hint(university_code, admission_year)
     try:
-        answer = openrouter_service.generate(query=query, context_blocks=lines)
+        answer = openrouter_service.generate(
+            query=query,
+            context_blocks=lines,
+            fallback_hint=fallback_hint,
+        )
     except Exception:
         answer = "\n\n".join(lines)
 
-    if _is_cutoff_query(query) and "không đủ dữ liệu điểm chuẩn" in answer.lower():
-        return ("Không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại.", False, "cutoff-missing")
     if "không đủ dữ liệu" in answer.lower():
         return (answer, False, "insufficient-context")
     return (answer, True, None)
@@ -54,21 +75,17 @@ class ChatService:
         university_code: str | None = None,
         admission_year: int | None = None,
     ) -> ChatResponse:
-        if _is_cutoff_query(query) and university_code and university_code.upper() in CUTOFF_MISSING_CODES:
-            return ChatResponse(
-                answer="Không đủ dữ liệu điểm chuẩn trong bộ crawl hiện tại.",
-                session_id=session_id,
-                used_chunks=0,
-                data_sufficient=False,
-                note="cutoff-missing-known-school",
-            )
-
         hits = retrieval_service.search(
             query=query,
             university_code=university_code,
             admission_year=admission_year,
         )
-        answer, sufficient, note = _render_answer_from_hits(query=query, hits=hits)
+        answer, sufficient, note = _render_answer_from_hits(
+            query=query,
+            hits=hits,
+            university_code=university_code,
+            admission_year=admission_year,
+        )
 
         return ChatResponse(
             answer=answer,

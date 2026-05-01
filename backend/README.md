@@ -33,12 +33,24 @@ make dev
 - `make format`: format code voi ruff
 - `make test`: chay pytest
 
+## Sinh bo Q&A tu dong
+
+- `make gen-qa`: sinh bo Q&A full-case tu `../data/*.json` ra `./storage/qa_dataset.jsonl`.
+- Sau khi sinh Q&A, goi `POST /api/v1/ingest` de index vao Chroma.
+- Co the chay truc tiep script de tuy chinh:
+
+```bash
+python3 scripts/generate_qa_dataset.py --data-dir ../data --output ./storage/qa_dataset.jsonl --max-programs-per-school 50
+```
+
 ## API co san
 
 - `GET /health`
 - `POST /api/v1/chat`
 - `POST /api/v1/ingest`
 - `POST /api/v1/search`
+
+Luu y: ingest hien doc tu bo Q&A JSONL (`QA_DATASET_PATH`), khong ingest truc tiep tu raw `data/*.json`.
 
 ## OpenRouter
 

@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     cors_origins: str = "http://localhost:3000,http://127.0.0.1:3000"
 
     data_dir: str = "../data"
+    qa_dataset_path: str = "./storage/qa_dataset.jsonl"
     chroma_dir: str = "./storage/chroma"
     chroma_collection: str = "admission_chunks"
 

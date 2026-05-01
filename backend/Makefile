@@ -1,4 +1,4 @@
-.PHONY: install dev lint format test
+.PHONY: install dev lint format test gen-qa
 
 install:
 	python3 -m pip install -r requirements.txt
@@ -14,3 +14,6 @@ format:
 
 test:
 	pytest
+
+gen-qa:
+	python3 scripts/generate_qa_dataset.py --data-dir ../data --output ./storage/qa_dataset.jsonl

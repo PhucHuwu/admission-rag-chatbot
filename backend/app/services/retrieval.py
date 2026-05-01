@@ -23,6 +23,7 @@ def _where_filter(
         clauses.append({"program_code": program_code})
     if program_type:
         clauses.append({"program_type": program_type})
+    clauses.append({"chunk_type": "qa_pair"})
 
     if not clauses:
         return {}
