@@ -39,3 +39,9 @@ make dev
 - `POST /api/v1/chat`
 - `POST /api/v1/ingest`
 - `POST /api/v1/search`
+
+## OpenRouter
+
+- Dat `OPENROUTER_API_KEY` trong `.env`.
+- Co the doi model bang `OPENROUTER_MODEL`.
+- Endpoint mac dinh: `OPENROUTER_BASE_URL=https://openrouter.ai/api/v1`.

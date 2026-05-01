@@ -13,5 +13,8 @@ def search(payload: SearchRequest) -> SearchResponse:
         top_k=payload.top_k,
         university_code=payload.university_code,
         admission_year=payload.admission_year,
+        method_id=payload.method_id,
+        program_code=payload.program_code,
+        program_type=payload.program_type,
     )
     return SearchResponse(hits=hits)

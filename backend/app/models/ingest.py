@@ -10,4 +10,5 @@ class IngestResponse(BaseModel):
     status: str
     universities_processed: int
     chunks_created: int
+    collection_size: int
     message: str

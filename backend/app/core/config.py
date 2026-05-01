@@ -12,9 +12,11 @@ class Settings(BaseSettings):
 
     data_dir: str = "../data"
     chroma_dir: str = "./storage/chroma"
+    chroma_collection: str = "admission_chunks"
 
     openrouter_api_key: str = ""
     openrouter_model: str = "openai/gpt-oss-120b:free"
+    openrouter_base_url: str = "https://openrouter.ai/api/v1"
     top_k: int = 6
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", case_sensitive=False)
