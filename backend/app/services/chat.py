@@ -4,6 +4,7 @@ from app.models.chat import ChatResponse
 from app.services.llm import openrouter_service
 from app.services.retrieval import retrieval_service
 
+
 def _build_fallback_hint(university_code: str | None, admission_year: int | None) -> str:
     school = university_code.upper() if university_code else "trường bạn đang hỏi"
     year_text = str(admission_year) if admission_year else "năm hiện tại"
@@ -13,9 +14,13 @@ def _build_fallback_hint(university_code: str | None, admission_year: int | None
     )
 
 
-def _soft_insufficient_answer(query: str, university_code: str | None, admission_year: int | None) -> str:
+def _soft_insufficient_answer(
+    query: str, university_code: str | None, admission_year: int | None
+) -> str:
     hint = _build_fallback_hint(university_code, admission_year)
-    return openrouter_service.generate(query=query, context_blocks=["Không có ngữ cảnh phù hợp."], fallback_hint=hint)
+    return openrouter_service.generate(
+        query=query, context_blocks=["Không có ngữ cảnh phù hợp."], fallback_hint=hint
+    )
 
 
 def _render_answer_from_hits(

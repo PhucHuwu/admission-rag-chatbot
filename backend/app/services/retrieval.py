@@ -46,7 +46,9 @@ class RetrievalService:
     ) -> list[SearchHit]:
         k = top_k or settings.top_k
         collection = vector_store.get_collection()
-        where = _where_filter(university_code, admission_year, method_id, program_code, program_type)
+        where = _where_filter(
+            university_code, admission_year, method_id, program_code, program_type
+        )
         query_vector = embedding_service.embed_texts([query])[0]
         result = collection.query(
             query_embeddings=[query_vector],

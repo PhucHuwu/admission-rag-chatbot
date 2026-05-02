@@ -35,7 +35,9 @@ class OpenRouterService:
             {"role": "user", "content": user_prompt},
         ]
 
-    def generate(self, query: str, context_blocks: list[str], fallback_hint: str | None = None) -> str:
+    def generate(
+        self, query: str, context_blocks: list[str], fallback_hint: str | None = None
+    ) -> str:
         if not settings.openrouter_api_key:
             raise RuntimeError("OPENROUTER_API_KEY is missing")
 
@@ -54,7 +56,9 @@ class OpenRouterService:
         }
 
         with httpx.Client(timeout=60.0) as client:
-            response = client.post(f"{self.base_url}/chat/completions", json=payload, headers=headers)
+            response = client.post(
+                f"{self.base_url}/chat/completions", json=payload, headers=headers
+            )
             response.raise_for_status()
             data = response.json()
 

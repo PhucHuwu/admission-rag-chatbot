@@ -22,7 +22,9 @@ class Settings(BaseSettings):
     embedding_provider: str = "sentence_transformers"
     embedding_model: str = "paraphrase-multilingual-MiniLM-L12-v2"
 
-    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", case_sensitive=False)
+    model_config = SettingsConfigDict(
+        env_file=".env", env_file_encoding="utf-8", case_sensitive=False
+    )
 
 
 settings = Settings()

@@ -63,7 +63,9 @@ class IngestService:
             )
 
         if rebuild_index:
-            logger.info("[ingest] rebuild_index=true, resetting collection '%s'", settings.chroma_collection)
+            logger.info(
+                "[ingest] rebuild_index=true, resetting collection '%s'", settings.chroma_collection
+            )
             vector_store.reset()
 
         collection = vector_store.get_collection()
