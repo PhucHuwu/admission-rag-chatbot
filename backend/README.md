@@ -81,3 +81,12 @@ make test
 
 - This backend ingests from Q&A JSONL (`QA_DATASET_PATH`), not directly from raw `data/*.json`.
 - Embedding is local and free by default (`sentence-transformers`).
+
+## Embedding device
+
+Configure CPU/GPU in `.env` with `EMBEDDING_DEVICE`:
+
+- `auto` (default): auto-select `cuda` -> `mps` -> `cpu`
+- `cpu`: force CPU
+- `cuda`: force NVIDIA GPU (CUDA)
+- `mps`: force Apple Silicon GPU (MPS)

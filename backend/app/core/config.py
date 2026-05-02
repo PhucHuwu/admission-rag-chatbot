@@ -21,6 +21,7 @@ class Settings(BaseSettings):
     top_k: int = 6
     embedding_provider: str = "sentence_transformers"
     embedding_model: str = "paraphrase-multilingual-MiniLM-L12-v2"
+    embedding_device: str = "auto"
 
     model_config = SettingsConfigDict(
         env_file=".env",
