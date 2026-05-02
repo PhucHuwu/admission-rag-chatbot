@@ -5,6 +5,7 @@ from typing import Any
 
 from app.core.config import settings
 from app.models.ingest import IngestResponse
+from app.services.embedding import embedding_service
 from app.services.store import vector_store
 
 logger = logging.getLogger(__name__)
@@ -81,7 +82,8 @@ class IngestService:
             nonlocal ids, docs, metadatas
             if not ids:
                 return
-            collection.upsert(ids=ids, documents=docs, metadatas=metadatas)
+            vectors = embedding_service.embed_texts(docs)
+            collection.upsert(ids=ids, documents=docs, metadatas=metadatas, embeddings=vectors)
             ids = []
             docs = []
             metadatas = []

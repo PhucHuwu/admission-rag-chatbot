@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from app.core.config import settings
 from app.models.search import SearchHit
+from app.services.embedding import embedding_service
 from app.services.store import vector_store
 
 
@@ -46,8 +47,9 @@ class RetrievalService:
         k = top_k or settings.top_k
         collection = vector_store.get_collection()
         where = _where_filter(university_code, admission_year, method_id, program_code, program_type)
+        query_vector = embedding_service.embed_texts([query])[0]
         result = collection.query(
-            query_texts=[query],
+            query_embeddings=[query_vector],
             n_results=k,
             where=where if where else None,
         )

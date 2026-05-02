@@ -57,3 +57,10 @@ Luu y: ingest hien doc tu bo Q&A JSONL (`QA_DATASET_PATH`), khong ingest truc ti
 - Dat `OPENROUTER_API_KEY` trong `.env`.
 - Co the doi model bang `OPENROUTER_MODEL`.
 - Endpoint mac dinh: `OPENROUTER_BASE_URL=https://openrouter.ai/api/v1`.
+
+## Embedding (free)
+
+- Mac dinh dung `sentence-transformers` local (free):
+  - `EMBEDDING_PROVIDER=sentence_transformers`
+  - `EMBEDDING_MODEL=paraphrase-multilingual-MiniLM-L12-v2`
+- Backend se tu embed khi ingest/query, khong dung ONNX embedding mac dinh cua Chroma.

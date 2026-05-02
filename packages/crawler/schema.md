@@ -109,7 +109,7 @@ interface ProgramInfo {
 | Danh sách ngành đào tạo | `admission_methods[].programs` | All programs per method |
 | Điểm chuẩn | `cutoff_scores_text` | Raw text (links to historical data) |
 | Học phí | `tuition_text` | Raw text with fee ranges |
-| Thờigian và hồ sơ | `timeline_text` | Raw text with schedule & requirements |
+| Thời gian và hồ sơ | `timeline_text` | Raw text with schedule & requirements |
 | File PDF | `pdf_url` | First PDF link found |
 | Giới thiệu trường | `university` object | Name, address, website, code |
 
