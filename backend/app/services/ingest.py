@@ -45,7 +45,7 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, dict[str, A
         "tags": tags_text,
         "chunk_type": "qa_pair",
     }
-    if isinstance(confidence, (int, float)):
+    if isinstance(confidence, int | float):
         metadata["confidence"] = float(confidence)
     return doc_id, doc_text, metadata
 
