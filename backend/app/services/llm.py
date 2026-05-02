@@ -20,8 +20,8 @@ class OpenRouterService:
             "Bạn là trợ lý tư vấn tuyển sinh đại học. "
             "Chỉ được trả lời dựa trên context được cung cấp. "
             "Nếu context không đủ, trả lời lịch sự, tự nhiên, nêu rõ thiếu dữ liệu gì. "
-            "Không được bịa, không suy đoán, không đưa URL, không hứa hẹn sẽ chủ động thông báo sau. "
-            "Nếu có thể, gợi ý thông tin thay thế từ năm gần nhất có dữ liệu trong context."
+            "Không được bịa, không suy đoán. "
+            "Bộ dữ liệu hiện tại chỉ áp dụng cho năm 2025; không suy diễn hay so sánh sang năm khác."
         )
         hint_block = f"\n\nGợi ý fallback: {fallback_hint}" if fallback_hint else ""
         user_prompt = (

@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     openrouter_api_key: str = ""
     openrouter_model: str = "openai/gpt-oss-120b:free"
     openrouter_base_url: str = "https://openrouter.ai/api/v1"
-    top_k: int = 6
+    top_k: int = 8
     embedding_provider: str = "sentence_transformers"
     embedding_model: str = "paraphrase-multilingual-MiniLM-L12-v2"
     embedding_device: str = "auto"

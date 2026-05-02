@@ -26,30 +26,50 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
     answer = _compact_text(qa.get("answer"))
     university_code = _compact_text(qa.get("university_code")).upper()
     university_name = _compact_text(qa.get("university_name"))
-    admission_year = qa.get("admission_year")
     intent = _compact_text(qa.get("intent"))
     data_status = _compact_text(qa.get("data_status"))
     confidence = qa.get("confidence")
+    method_id = _compact_text(qa.get("method_id"))
+    program_code = _compact_text(qa.get("program_code"))
+    program_type = _compact_text(qa.get("program_type"))
     tags = qa.get("tags") or []
     tags_text = ", ".join([_compact_text(t) for t in tags if _compact_text(t)])
+    is_global = university_code == "ALL"
+    is_hard_negative = intent.startswith("hard_negative") or "hard_negative" in tags_text
 
     doc_id = f"{university_code or 'UNK'}:qa:{idx}"
     doc_text = f"Hỏi: {question}\nĐáp: {answer}"
     metadata_dict: dict[str, str | int | float | bool] = {
         "university_code": university_code,
         "university_name": university_name,
-        "admission_year": str(admission_year or ""),
-        "method_id": "",
-        "program_code": "",
-        "program_type": "",
+        "admission_year": "2025",
+        "method_id": method_id,
+        "program_code": program_code,
+        "program_type": program_type,
         "intent": intent,
         "data_status": data_status,
         "tags": tags_text,
+        "is_global": is_global,
+        "is_hard_negative": is_hard_negative,
+        "source_dataset": "qa_2025_clean",
         "chunk_type": "qa_pair",
     }
     if isinstance(confidence, int | float):
         metadata_dict["confidence"] = float(confidence)
     return doc_id, doc_text, cast(Metadata, metadata_dict)
+
+
+def _is_valid_qa(qa: dict[str, Any]) -> bool:
+    question = _compact_text(qa.get("question"))
+    answer = _compact_text(qa.get("answer"))
+    code = _compact_text(qa.get("university_code"))
+    if not question or not answer:
+        return False
+    if len(question) < 5 or len(answer) < 5:
+        return False
+    if not code:
+        return False
+    return True
 
 
 class IngestService:
@@ -80,6 +100,7 @@ class IngestService:
         docs: list[str] = []
         metadatas: list[Metadata] = []
         processed = 0
+        skipped = 0
         schools: set[str] = set()
 
         def flush_batch() -> None:
@@ -102,6 +123,9 @@ class IngestService:
             if not raw:
                 continue
             qa = json.loads(raw)
+            if not isinstance(qa, dict) or not _is_valid_qa(qa):
+                skipped += 1
+                continue
             doc_id, doc_text, metadata = _qa_to_document(qa, idx)
             ids.append(doc_id)
             docs.append(doc_text)
@@ -117,6 +141,8 @@ class IngestService:
 
         flush_batch()
         logger.info("[ingest] completed: %d/%d QA items indexed", processed, total_lines)
+        if skipped:
+            logger.info("[ingest] skipped %d invalid QA rows", skipped)
 
         collection_size = collection.count()
         logger.info(

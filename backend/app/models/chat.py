@@ -5,7 +5,6 @@ class ChatRequest(BaseModel):
     query: str = Field(..., min_length=1, description="User input question")
     session_id: str | None = Field(default=None, description="Optional chat session id")
     university_code: str | None = None
-    admission_year: int | None = None
 
 
 class ChatResponse(BaseModel):

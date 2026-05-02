@@ -12,5 +12,4 @@ def chat(payload: ChatRequest) -> ChatResponse:
         query=payload.query,
         session_id=payload.session_id,
         university_code=payload.university_code,
-        admission_year=payload.admission_year,
     )
