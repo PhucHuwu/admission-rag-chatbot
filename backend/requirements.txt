@@ -5,6 +5,7 @@ pydantic-settings==2.7.0
 python-dotenv==1.0.1
 pytest==8.3.4
 ruff==0.8.2
+pylint==3.3.3
 chromadb==0.5.23
 httpx==0.28.1
 numpy<2

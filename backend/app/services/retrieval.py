@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+from collections.abc import Mapping
+from typing import Any
+
 from app.core.config import settings
 from app.models.search import SearchHit
 from app.services.embedding import embedding_service
@@ -33,6 +36,21 @@ def _where_filter(
     return {"$and": clauses}
 
 
+def _first_row(value: Any) -> list[Any]:
+    if not isinstance(value, list) or not value:
+        return []
+    first = value[0]
+    if isinstance(first, list):
+        return first
+    return []
+
+
+def _metadata_to_dict(value: Any) -> dict[str, Any]:
+    if isinstance(value, Mapping):
+        return dict(value)
+    return {}
+
+
 class RetrievalService:
     def search(
         self,
@@ -56,10 +74,10 @@ class RetrievalService:
             where=where if where else None,
         )
 
-        ids = result.get("ids", [[]])[0]
-        docs = result.get("documents", [[]])[0]
-        metas = result.get("metadatas", [[]])[0]
-        distances = result.get("distances", [[]])[0]
+        ids = _first_row(result.get("ids"))
+        docs = _first_row(result.get("documents"))
+        metas = _first_row(result.get("metadatas"))
+        distances = _first_row(result.get("distances"))
 
         hits: list[SearchHit] = []
         for idx, chunk_id in enumerate(ids):
@@ -70,7 +88,7 @@ class RetrievalService:
                     chunk_id=chunk_id,
                     score=score,
                     text=docs[idx] if idx < len(docs) else "",
-                    metadata=metas[idx] if idx < len(metas) and metas[idx] else {},
+                    metadata=_metadata_to_dict(metas[idx]) if idx < len(metas) else {},
                 )
             )
 

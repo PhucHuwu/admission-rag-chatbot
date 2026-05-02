@@ -1,7 +1,9 @@
 import json
 import logging
 from pathlib import Path
-from typing import Any
+from typing import Any, cast
+
+from chromadb.api.types import Embedding, Metadata
 
 from app.core.config import settings
 from app.models.ingest import IngestResponse
@@ -19,7 +21,7 @@ def _compact_text(value: Any) -> str:
     return " ".join(str(value).split())
 
 
-def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, dict[str, Any]]:
+def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
     question = _compact_text(qa.get("question"))
     answer = _compact_text(qa.get("answer"))
     university_code = _compact_text(qa.get("university_code")).upper()
@@ -33,7 +35,7 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, dict[str, A
 
     doc_id = f"{university_code or 'UNK'}:qa:{idx}"
     doc_text = f"Hỏi: {question}\nĐáp: {answer}"
-    metadata: dict[str, Any] = {
+    metadata_dict: dict[str, str | int | float | bool] = {
         "university_code": university_code,
         "university_name": university_name,
         "admission_year": str(admission_year or ""),
@@ -46,8 +48,8 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, dict[str, A
         "chunk_type": "qa_pair",
     }
     if isinstance(confidence, int | float):
-        metadata["confidence"] = float(confidence)
-    return doc_id, doc_text, metadata
+        metadata_dict["confidence"] = float(confidence)
+    return doc_id, doc_text, cast(Metadata, metadata_dict)
 
 
 class IngestService:
@@ -76,7 +78,7 @@ class IngestService:
         batch_size = 500
         ids: list[str] = []
         docs: list[str] = []
-        metadatas: list[dict[str, Any]] = []
+        metadatas: list[Metadata] = []
         processed = 0
         schools: set[str] = set()
 
@@ -84,8 +86,13 @@ class IngestService:
             nonlocal ids, docs, metadatas
             if not ids:
                 return
-            vectors = embedding_service.embed_texts(docs)
-            collection.upsert(ids=ids, documents=docs, metadatas=metadatas, embeddings=vectors)
+            vectors = cast(list[Embedding], embedding_service.embed_texts(docs))
+            collection.upsert(
+                ids=ids,
+                documents=docs,
+                metadatas=metadatas,
+                embeddings=vectors,
+            )
             ids = []
             docs = []
             metadatas = []

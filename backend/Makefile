@@ -1,4 +1,4 @@
-.PHONY: install dev lint format test gen-qa
+.PHONY: install dev lint lint-all format test gen-qa
 
 install:
 	python3 -m pip install -r requirements.txt
@@ -8,6 +8,9 @@ dev:
 
 lint:
 	ruff check app
+
+lint-all:
+	pylint app scripts
 
 format:
 	ruff format app
