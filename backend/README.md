@@ -2,9 +2,12 @@
 
 FastAPI backend for the admission RAG chatbot (localhost scope).
 
-## 1) Setup
+## Requirements
 
-Python ≥ 3.10.
+- Python 3.10+
+- Recommended: Python 3.11
+
+## Setup
 
 ### Option A: venv
 
@@ -23,52 +26,55 @@ source .venv/bin/activate
 make install
 cp .env.example .env
 ```
-Set `OPENROUTER_API_KEY` in `.env` to enable LLM answer generation.
 
-## 2) Generate Q&A dataset
+Set `OPENROUTER_API_KEY` in `.env` if you want LLM-generated answers.
+
+## Generate Q&A dataset
 
 ```bash
 make gen-qa
 ```
 
-Output file:
+Generated file:
 
 - `./storage/qa_dataset.jsonl`
 
-## 3) Run server
+## Run server
 
 ```bash
 make dev
 ```
 
-Server:
-
-- `http://localhost:8000`
+- API base: `http://localhost:8000`
 - Swagger: `http://localhost:8000/docs`
 
-## 4) Build vector index
+## Build vector index
 
-Call ingest endpoint after generating Q&A:
+After generating Q&A, call ingest:
 
+```bash
+curl -X POST http://localhost:8000/api/v1/ingest \
+  -H "Content-Type: application/json" \
+  -d '{"rebuild_index": true}'
 ```
-curl -X 'POST' \
-  'http://localhost:8000/api/v1/ingest' \
-  -H 'accept: application/json' \
-  -H 'Content-Type: application/json' \
-  -d '{
+
+Optional override path:
+
+```json
+{
   "data_dir": "./storage/qa_dataset.jsonl",
   "rebuild_index": true
-}'
+}
 ```
 
-## 5) Main endpoints
+## Main endpoints
 
 - `GET /api/v1/health`
 - `POST /api/v1/ingest`
 - `POST /api/v1/search`
 - `POST /api/v1/chat`
 
-## 6) Useful commands
+## Dev commands
 
 ```bash
 make lint
@@ -79,14 +85,14 @@ make test
 
 ## Notes
 
-- This backend ingests from Q&A JSONL (`QA_DATASET_PATH`), not directly from raw `data/*.json`.
+- Ingest reads Q&A JSONL (`QA_DATASET_PATH`), not raw `data/*.json`.
 - Embedding is local and free by default (`sentence-transformers`).
 
 ## Embedding device
 
-Configure CPU/GPU in `.env` with `EMBEDDING_DEVICE`:
+Set `EMBEDDING_DEVICE` in `.env`:
 
-- `auto` (default): auto-select `cuda` -> `mps` -> `cpu`
+- `auto` (default): `cuda` -> `mps` -> `cpu`
 - `cpu`: force CPU
-- `cuda`: force NVIDIA GPU (CUDA)
-- `mps`: force Apple Silicon GPU (MPS)
+- `cuda`: force NVIDIA GPU
+- `mps`: force Apple Silicon GPU
