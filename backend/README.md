@@ -1,66 +1,83 @@
-# Backend Skeleton (FastAPI)
+# Backend
 
-Backend cho chatbot RAG tu van tuyen sinh, pham vi localhost.
+FastAPI backend for the admission RAG chatbot (localhost scope).
 
-## Cau truc
+## 1) Setup
 
-- `app/main.py`: FastAPI app entrypoint.
-- `app/api/v1/`: API routers (`health`, `chat`, `ingest`, `search`).
-- `app/core/`: config va logging.
-- `app/models/`: Pydantic schemas cho request/response.
-- `app/services/`: business logic stubs (chat, ingest, retrieval).
+Python ≥ 3.10.
 
-## Chay local
-
-1. Tao virtual env va cai dependency.
-2. Copy `.env.example` thanh `.env` va dieu chinh gia tri.
-3. Chay:
+### Option A: venv
 
 ```bash
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
 ```
 
-Hoac dung Makefile:
+### Option B: Makefile
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 make install
+cp .env.example .env
+```
+Set `OPENROUTER_API_KEY` in `.env` to enable LLM answer generation.
+
+## 2) Generate Q&A dataset
+
+```bash
+make gen-qa
+```
+
+Output file:
+
+- `./storage/qa_dataset.jsonl`
+
+## 3) Run server
+
+```bash
 make dev
 ```
 
-## Quality tools
+Server:
 
-- `make lint`: lint code voi ruff
-- `make format`: format code voi ruff
-- `make test`: chay pytest
+- `http://localhost:8000`
+- Swagger: `http://localhost:8000/docs`
 
-## Sinh bo Q&A tu dong
+## 4) Build vector index
 
-- `make gen-qa`: sinh bo Q&A full-case tu `../data/*.json` ra `./storage/qa_dataset.jsonl`.
-- Sau khi sinh Q&A, goi `POST /api/v1/ingest` de index vao Chroma.
-- Co the chay truc tiep script de tuy chinh:
+Call ingest endpoint after generating Q&A:
 
-```bash
-python3 scripts/generate_qa_dataset.py --data-dir ../data --output ./storage/qa_dataset.jsonl --max-programs-per-school 50
+```
+curl -X 'POST' \
+  'http://localhost:8000/api/v1/ingest' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "data_dir": "./storage/qa_dataset.jsonl",
+  "rebuild_index": true
+}'
 ```
 
-## API co san
+## 5) Main endpoints
 
-- `GET /health`
-- `POST /api/v1/chat`
+- `GET /api/v1/health`
 - `POST /api/v1/ingest`
 - `POST /api/v1/search`
+- `POST /api/v1/chat`
 
-Luu y: ingest hien doc tu bo Q&A JSONL (`QA_DATASET_PATH`), khong ingest truc tiep tu raw `data/*.json`.
+## 6) Useful commands
 
-## OpenRouter
+```bash
+make lint
+make lint-all
+make format
+make test
+```
 
-- Dat `OPENROUTER_API_KEY` trong `.env`.
-- Co the doi model bang `OPENROUTER_MODEL`.
-- Endpoint mac dinh: `OPENROUTER_BASE_URL=https://openrouter.ai/api/v1`.
+## Notes
 
-## Embedding (free)
-
-- Mac dinh dung `sentence-transformers` local (free):
-  - `EMBEDDING_PROVIDER=sentence_transformers`
-  - `EMBEDDING_MODEL=paraphrase-multilingual-MiniLM-L12-v2`
-- Backend se tu embed khi ingest/query, khong dung ONNX embedding mac dinh cua Chroma.
+- This backend ingests from Q&A JSONL (`QA_DATASET_PATH`), not directly from raw `data/*.json`.
+- Embedding is local and free by default (`sentence-transformers`).
