@@ -7,7 +7,7 @@ import { clsx } from '@/lib/utils';
 const links = [
   { href: '/', label: 'Trang chủ' },
   { href: '/chatbot', label: 'Chatbot' },
-  { href: '/truy-van', label: 'Tra cứu' },
+  { href: '/tra-cuu', label: 'Tra cứu' },
 ];
 
 export function Shell({ children, fullWidth }: { children: React.ReactNode; fullWidth?: boolean }) {

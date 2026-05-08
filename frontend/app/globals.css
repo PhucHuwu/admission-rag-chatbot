@@ -62,7 +62,11 @@ a {
   height: 280px;
   left: -80px;
   bottom: -90px;
-  background: radial-gradient(circle at 35% 35%, rgba(45, 212, 191, 0.55), rgba(15, 118, 110, 0.08));
+  background: radial-gradient(
+    circle at 35% 35%,
+    rgba(45, 212, 191, 0.55),
+    rgba(15, 118, 110, 0.08)
+  );
   animation: float-soft 7s ease-in-out infinite;
 }
 

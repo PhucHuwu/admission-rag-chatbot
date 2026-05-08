@@ -227,7 +227,8 @@ export default function SearchPage() {
                 />
               </label>
               <p className="text-xs text-slate-500">
-                Mẹo: thử nhập &quot;công nghệ thông tin&quot;, &quot;A01&quot; hoặc mã ngành để lọc nhanh.
+                Mẹo: thử nhập &quot;công nghệ thông tin&quot;, &quot;A01&quot; hoặc mã ngành để lọc
+                nhanh.
               </p>
               <label className="space-y-1">
                 <span className="text-xs font-semibold uppercase tracking-wide text-slate-500">

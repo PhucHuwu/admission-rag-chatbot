@@ -49,7 +49,7 @@ export default function HomePage() {
                 Trải nghiệm chatbot
               </Link>
               <Link
-                href="/truy-van"
+                href="/tra-cuu"
                 className="rounded-xl border border-slate-300 bg-white px-5 py-2.5 text-sm font-semibold text-slate-800 transition hover:-translate-y-0.5 hover:border-slate-400"
               >
                 Mở bảng tra cứu
@@ -57,7 +57,10 @@ export default function HomePage() {
             </div>
             <div className="grid gap-3 pt-2 sm:grid-cols-3">
               {stats.map((item) => (
-                <article key={item.label} className="rounded-2xl border border-white/70 bg-white/75 p-3 backdrop-blur">
+                <article
+                  key={item.label}
+                  className="rounded-2xl border border-white/70 bg-white/75 p-3 backdrop-blur"
+                >
                   <p className="text-xs uppercase tracking-wide text-slate-500">{item.label}</p>
                   <p className="mt-1 text-sm font-semibold text-slate-900">{item.value}</p>
                 </article>

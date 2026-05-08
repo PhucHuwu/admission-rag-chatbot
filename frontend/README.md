@@ -39,4 +39,4 @@ npm run start
 
 - `/`
 - `/chatbot`
-- `/truy-van`
+- `/tra-cuu`
