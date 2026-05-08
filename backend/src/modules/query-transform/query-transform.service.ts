@@ -111,28 +111,21 @@ Câu hỏi cụ thể: ${query}`;
     try {
       const provider = this.config.llmProvider;
       const isKimi = provider === 'kimi';
-      const isGroq = provider === 'groq';
       const baseUrl = isKimi
         ? this.config.kimiBaseUrl
-        : isGroq
-          ? this.config.groqBaseUrl
-          : this.config.openRouterBaseUrl;
+        : this.config.openRouterBaseUrl;
       const apiKey = isKimi
         ? this.config.kimiApiKey
-        : isGroq
-          ? this.config.groqApiKey
-          : this.config.openRouterApiKey;
+        : this.config.openRouterApiKey;
       const model = isKimi
         ? this.config.kimiModel
-        : isGroq
-          ? this.config.groqModel
-          : 'openai/gpt-4o-mini';
+        : 'openai/gpt-4o-mini';
 
       const headers: Record<string, string> = {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       };
-      if (!isKimi && !isGroq) {
+      if (!isKimi) {
         headers['HTTP-Referer'] = 'http://localhost:3000';
         headers['X-Title'] = 'Admission RAG Chatbot';
       }

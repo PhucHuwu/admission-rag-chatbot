@@ -43,19 +43,7 @@ export class AppConfigService {
   }
 
   get llmProvider(): string {
-    return this.configService.get<string>('LLM_PROVIDER', 'openrouter');
-  }
-
-  get groqApiKey(): string {
-    return this.configService.get<string>('GROQ_API_KEY', '');
-  }
-
-  get groqModel(): string {
-    return this.configService.get<string>('GROQ_MODEL', 'openai/gpt-oss-120b');
-  }
-
-  get groqBaseUrl(): string {
-    return this.configService.get<string>('GROQ_BASE_URL', 'https://api.groq.com/openai/v1');
+    return this.configService.get<string>('LLM_PROVIDER', 'deepseek');
   }
 
   get openRouterApiKey(): string {

@@ -93,15 +93,6 @@ QUY TẮC QUAN TRỌNG:
       };
     }
 
-    if (provider === 'groq') {
-      return {
-        baseUrl: this.config.groqBaseUrl,
-        apiKey: this.config.groqApiKey,
-        model: this.config.groqModel,
-        isOpenRouter: false,
-      };
-    }
-
     return {
       baseUrl: this.config.openRouterBaseUrl,
       apiKey: this.config.openRouterApiKey,
