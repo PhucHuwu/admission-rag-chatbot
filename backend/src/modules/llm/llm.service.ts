@@ -83,6 +83,14 @@ QUY TẮC QUAN TRỌNG:
       };
     }
 
+    if (provider === 'openai') {
+      return {
+        baseUrl: this.config.openAiBaseUrl,
+        apiKey: this.config.openAiApiKey,
+        model: this.config.openAiModel,
+      };
+    }
+
     return {
       baseUrl: this.config.deepseekBaseUrl,
       apiKey: this.config.deepseekApiKey,
@@ -97,19 +105,33 @@ QUY TẮC QUAN TRỌNG:
     };
   }
 
+  private buildRequestBody(
+    model: string,
+    messages: Array<{ role: string; content: string }>,
+    stream = false,
+  ): Record<string, any> {
+    const body: Record<string, any> = {
+      model,
+      messages,
+      max_completion_tokens: this.config.maxTokens,
+    };
+    if (this.config.llmProvider !== 'openai') {
+      body.temperature = this.config.temperature;
+      body.top_p = 1;
+      body.reasoning_effort = 'high';
+    }
+    if (stream) {
+      body.stream = true;
+    }
+    return body;
+  }
+
   private async callLlm(messages: Array<{ role: string; content: string }>): Promise<string> {
     try {
       const { baseUrl, apiKey, model } = this.providerConfig();
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
-        {
-          model,
-          messages,
-          max_completion_tokens: this.config.maxTokens,
-          temperature: this.config.temperature,
-          top_p: 1,
-          reasoning_effort: 'high',
-        },
+        this.buildRequestBody(model, messages),
         {
           headers: this.requestHeaders(apiKey),
           timeout: 60000,
@@ -134,15 +156,7 @@ QUY TẮC QUAN TRỌNG:
       const { baseUrl, apiKey, model } = this.providerConfig();
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
-        {
-          model,
-          messages,
-          max_completion_tokens: this.config.maxTokens,
-          temperature: this.config.temperature,
-          top_p: 1,
-          reasoning_effort: 'high',
-          stream: true,
-        },
+        this.buildRequestBody(model, messages, true),
         {
           headers: this.requestHeaders(apiKey),
           timeout: 120000,

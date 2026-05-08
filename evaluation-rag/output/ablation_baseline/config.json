@@ -1,0 +1,14 @@
+{
+  "run_id": "ablation_baseline",
+  "base_url": "http://localhost:8000",
+  "input": "evaluation-rag/dataset/query_set.v1.json",
+  "timeout": 60,
+  "retries": 3,
+  "retry_backoff": 2,
+  "max_samples": 0,
+  "query_count": 72,
+  "started_at": "2026-05-08T17:45:19.413101+00:00",
+  "finished_at": "2026-05-08T18:22:21.034491+00:00",
+  "ok_count": 72,
+  "error_count": 0
+}

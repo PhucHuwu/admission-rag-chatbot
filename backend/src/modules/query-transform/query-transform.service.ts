@@ -13,6 +13,9 @@ export class QueryTransformService {
   constructor(private readonly config: AppConfigService) {}
 
   async transform(query: string, recentQueries: string[]): Promise<TransformedQueries> {
+    const enabled = process.env.QUERY_TRANSFORM_ENABLED !== 'false';
+    if (!enabled) return { original: query, variants: [query], strategy: 'raw' };
+
     const strategy = this.classifyQuery(query);
 
     switch (strategy) {
@@ -111,30 +114,39 @@ Câu hỏi cụ thể: ${query}`;
     try {
       const provider = this.config.llmProvider;
       const isKimi = provider === 'kimi';
+      const isOpenAi = provider === 'openai';
       const baseUrl = isKimi
         ? this.config.kimiBaseUrl
-        : this.config.deepseekBaseUrl;
+        : isOpenAi
+          ? this.config.openAiBaseUrl
+          : this.config.deepseekBaseUrl;
       const apiKey = isKimi
         ? this.config.kimiApiKey
-        : this.config.deepseekApiKey;
+        : isOpenAi
+          ? this.config.openAiApiKey
+          : this.config.deepseekApiKey;
       const model = isKimi
         ? this.config.kimiModel
-        : this.config.deepseekModel;
+        : isOpenAi
+          ? this.config.openAiModel
+          : this.config.deepseekModel;
 
       const headers: Record<string, string> = {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       };
-      const response = await axios.post(
-        `${baseUrl}/chat/completions`,
-        {
-          model,
-          messages: [{ role: 'user', content: prompt }],
-          max_completion_tokens: 256,
-          temperature,
-        },
-        { headers, timeout: 30000 },
-      );
+      const body: Record<string, any> = {
+        model,
+        messages: [{ role: 'user', content: prompt }],
+        max_completion_tokens: 256,
+      };
+      if (!isOpenAi) {
+        body.temperature = temperature;
+      }
+      const response = await axios.post(`${baseUrl}/chat/completions`, body, {
+        headers,
+        timeout: 30000,
+      });
 
       return response.data?.choices?.[0]?.message?.content?.trim() || null;
     } catch {

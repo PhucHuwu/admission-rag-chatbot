@@ -1,0 +1,67 @@
+id,query,error
+IUH_007,mốc thờ i gian nộp hồ sơ xét tuyển IUH,search: HTTP 500; chat: HTTP 500
+IUH_008,lệ phí xét tuyển của IUH là bao nhiêu,search: HTTP 500; chat: HTTP 500
+HLU_001,điểm chuẩn ngành luật HLU,search: HTTP 500; chat: HTTP 500
+HLU_002,học phí ngành luật kinh tế HLU,search: HTTP 500; chat: HTTP 500
+HLU_003,tổ hợp môn xét tuyển ngành luật thương mại HLU,search: HTTP 500; chat: HTTP 500
+HLU_004,phương thức xét tuyển kết hợp của HLU,search: HTTP 500; chat: HTTP 500
+HLU_005,chỉ tiêu tuyển sinh năm 2025 của HLU,search: HTTP 500; chat: HTTP 500
+HLU_006,thờ i gian công bố điểm chuẩn HLU,search: HTTP 500; chat: HTTP 500
+BVU_001,điểm sàn xét tuyển của BVU,search: HTTP 500; chat: HTTP 500
+BVU_002,học phí ngành quản trị kinh doanh BVU,search: HTTP 500; chat: HTTP 500
+BVU_003,phương thức xét tuyển đại học BVU 2025,search: HTTP 500; chat: HTTP 500
+BVU_004,tổ hợp xét tuyển ngành ngôn ngữ Anh BVU,search: HTTP 500; chat: HTTP 500
+BVU_005,hồ sơ xét tuyển vào BVU cần những gì,search: HTTP 500; chat: HTTP 500
+DHT_001,điểm chuẩn ngành công nghệ thông tin DHT,search: HTTP 500; chat: HTTP 500
+DHT_002,học phí chương trình chất lượng cao DHT,search: HTTP 500; chat: HTTP 500
+DHT_003,tổ hợp môn xét tuyển ngành ngôn ngữ Anh DHT,search: HTTP 500; chat: HTTP 500
+DHT_004,chỉ tiêu ngành kỹ thuật điện tử viễn thông DHT,search: HTTP 500; chat: HTTP 500
+DHT_005,DHT có nhận chứng chỉ IELTS để quy đổi điểm không,search: HTTP 500; chat: HTTP 500
+DHA_001,điểm chuẩn khối ngành sức khỏe DHA,search: HTTP 500; chat: HTTP 500
+DHA_002,học phí ngành điều dưỡng DHA,search: HTTP 500; chat: HTTP 500
+DHA_003,phương thức xét tuyển ngành dược DHA,search: HTTP 500; chat: HTTP 500
+DHA_004,điều kiện sơ tuyển sức khỏe khi vào DHA,search: HTTP 500; chat: HTTP 500
+DDB_001,chỉ tiêu tuyển sinh DDB năm 2025,search: HTTP 500; chat: HTTP 500
+DDB_002,học phí ngành kế toán DDB,search: HTTP 500; chat: HTTP 500
+DDB_003,các tổ hợp môn xét tuyển DDB,search: HTTP 500; chat: HTTP 500
+DDB_004,điểm chuẩn ngành quản trị kinh doanh DDB,search: HTTP 500; chat: HTTP 500
+HGH_001,điểm chuẩn ngành logistics HGH,search: HTTP 500; chat: HTTP 500
+HGH_002,học phí ngành quản trị dịch vụ du lịch HGH,search: HTTP 500; chat: HTTP 500
+HGH_003,phương thức xét tuyển của HGH,search: HTTP 500; chat: HTTP 500
+HGH_004,HGH có ký túc xá cho tân sinh viên không,search: HTTP 500; chat: HTTP 500
+HHA_001,học phí các ngành HHA,search: HTTP 500; chat: HTTP 500
+HHA_002,phương thức xét tuyển học bạ HHA,search: HTTP 500; chat: HTTP 500
+HHA_003,tổ hợp môn xét tuyển ngành ngôn ngữ Trung HHA,search: HTTP 500; chat: HTTP 500
+HHA_004,hạn nộp hồ sơ xét tuyển HHA là khi nào,search: HTTP 500; chat: HTTP 500
+LBH_001,điểm chuẩn ngành y khoa LBH,search: HTTP 500; chat: HTTP 500
+LBH_002,học phí ngành răng hàm mặt LBH,search: HTTP 500; chat: HTTP 500
+LBH_003,phương thức xét tuyển ngành dược LBH,search: HTTP 500; chat: HTTP 500
+LBH_004,điều kiện học bổng đầu vào của LBH,search: HTTP 500; chat: HTTP 500
+MDA_001,chỉ tiêu tuyển sinh MDA năm 2025,search: HTTP 500; chat: HTTP 500
+MDA_002,học phí ngành công nghệ thông tin MDA,search: HTTP 500; chat: HTTP 500
+MDA_003,tổ hợp môn ngành kỹ thuật điện MDA,search: HTTP 500; chat: HTTP 500
+MDA_004,điểm chuẩn ngành điều dưỡng MDA,search: HTTP 500; chat: HTTP 500
+QHE_001,phương thức xét tuyển QHE năm 2025,search: HTTP 500; chat: HTTP 500
+QHE_002,học phí ngành trí tuệ nhân tạo QHE,search: HTTP 500; chat: HTTP 500
+QHE_003,điểm chuẩn ngành khoa học dữ liệu QHE,search: HTTP 500; chat: HTTP 500
+QHE_004,QHE có chương trình đào tạo chất lượng cao không,search: HTTP 500; chat: HTTP 500
+SKN_001,học phí ngành kinh tế SKN,search: HTTP 500; chat: HTTP 500
+SKN_002,tổ hợp môn xét tuyển ngành quản trị kinh doanh SKN,search: HTTP 500; chat: HTTP 500
+SKN_003,chỉ tiêu xét tuyển SKN,search: HTTP 500; chat: HTTP 500
+SKN_004,điểm chuẩn ngành marketing SKN,search: HTTP 500; chat: HTTP 500
+YHB_001,điểm chuẩn ngành y đa khoa YHB,search: HTTP 500; chat: HTTP 500
+YHB_002,học phí ngành điều dưỡng YHB,search: HTTP 500; chat: HTTP 500
+YHB_003,phương thức xét tuyển khối ngành sức khỏe YHB,search: HTTP 500; chat: HTTP 500
+YHB_004,điều kiện sơ tuyển và khám sức khỏe của YHB,search: HTTP 500; chat: HTTP 500
+GEN_001,so sánh học phí ngành công nghệ thông tin giữa IUH và DHT,search: HTTP 500; chat: HTTP 500
+GEN_002,trường nào có điểm chuẩn ngành logistics thấp hơn,search: HTTP 500; chat: HTTP 500
+GEN_003,các trường nào xét tuyển bằng học bạ,search: HTTP 500; chat: HTTP 500
+GEN_004,mốc thờ i gian đăng ký nguyện vọng đại học năm 2025,search: HTTP 500; chat: HTTP 500
+GEN_005,hồ sơ cần chuẩn bị để xét tuyển đại học,search: HTTP 500; chat: HTTP 500
+GEN_006,nếu điểm thi thấp hơn điểm chuẩn thì có cơ hội trúng tuyển không,search: HTTP 500; chat: HTTP 500
+GEN_007,xét tuyển sớm là gì và khác gì xét tuyển đợt chính,search: HTTP 500; chat: HTTP 500
+GEN_008,điểm ưu tiên khu vực được cộng như thế nào,search: HTTP 500; chat: HTTP 500
+GEN_009,quy định về điểm liệt trong xét tuyển đại học,search: HTTP 500; chat: HTTP 500
+GEN_010,học phí có tăng theo từng năm không,search: HTTP 500; chat: HTTP 500
+GEN_011,trường có hỗ trợ ký túc xá cho sinh viên năm nhất không,search: HTTP 500; chat: HTTP 500
+GEN_012,có học bổng đầu vào cho thí sinh điểm cao không,search: HTTP 500; chat: HTTP 500

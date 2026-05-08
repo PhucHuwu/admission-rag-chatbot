@@ -1,0 +1,14 @@
+{
+  "run_id": "ablation_no_transform",
+  "base_url": "http://localhost:8000",
+  "input": "evaluation-rag/dataset/query_set.v1.json",
+  "timeout": 60,
+  "retries": 3,
+  "retry_backoff": 2,
+  "max_samples": 0,
+  "query_count": 72,
+  "started_at": "2026-05-08T18:54:54.732913+00:00",
+  "finished_at": "2026-05-08T19:27:10.391338+00:00",
+  "ok_count": 6,
+  "error_count": 66
+}
