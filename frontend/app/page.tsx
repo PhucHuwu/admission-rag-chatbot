@@ -1,3 +1,6 @@
+"use client";
+
+import { useEffect } from 'react';
 import Link from 'next/link';
 import { Shell } from '@/components/Shell';
 
@@ -23,19 +26,59 @@ const stats = [
 ];
 
 export default function HomePage() {
+  useEffect(() => {
+    const revealElements = Array.from(document.querySelectorAll<HTMLElement>('[data-reveal]'));
+    const parallaxElements = Array.from(document.querySelectorAll<HTMLElement>('[data-parallax]'));
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    if (!prefersReducedMotion) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('is-visible');
+            }
+          });
+        },
+        { threshold: 0.2, rootMargin: '0px 0px -8% 0px' },
+      );
+
+      revealElements.forEach((element) => observer.observe(element));
+
+      const onScroll = () => {
+        const y = window.scrollY;
+        parallaxElements.forEach((element) => {
+          const speed = Number(element.dataset.speed || 0.12);
+          element.style.setProperty('--parallax-y', `${Math.min(y * speed, 60)}px`);
+        });
+      };
+
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+
+      return () => {
+        observer.disconnect();
+        window.removeEventListener('scroll', onScroll);
+      };
+    }
+
+    revealElements.forEach((element) => element.classList.add('is-visible'));
+  }, []);
+
   return (
     <Shell>
       <section className="landing-hero relative overflow-hidden rounded-3xl border border-teal-100/80 p-6 shadow-panel sm:p-10">
-        <div className="landing-orb landing-orb-left" aria-hidden="true" />
-        <div className="landing-orb landing-orb-right" aria-hidden="true" />
+        <div className="landing-grid" aria-hidden="true" />
+        <div className="landing-orb landing-orb-left" data-parallax data-speed="0.08" aria-hidden="true" />
+        <div className="landing-orb landing-orb-right" data-parallax data-speed="0.13" aria-hidden="true" />
 
         <div className="relative z-10 grid items-center gap-8 lg:grid-cols-[1.1fr_0.9fr]">
-          <div className="animate-fade-up space-y-6">
+          <div className="reveal-up space-y-6" data-reveal>
             <p className="inline-flex rounded-full border border-teal-200 bg-teal-50 px-3 py-1 text-xs font-semibold uppercase tracking-[0.2em] text-teal-700">
               admission intelligence platform
             </p>
             <h1 className="max-w-3xl font-heading text-3xl font-semibold leading-tight text-slate-900 sm:text-5xl">
-              Landing page tuyển sinh hiện đại, giúp ra quyết định nhanh và chính xác
+              AdmissionRAG - Hệ thống tư vấn tuyển sinh bằng trí tuệ nhân tạo
             </h1>
             <p className="max-w-2xl text-sm text-slate-700 sm:text-base">
               Kết hợp AI hỏi đáp và bảng tra cứu dữ liệu trong một giao diện trực quan, chuyên
@@ -56,8 +99,13 @@ export default function HomePage() {
               </Link>
             </div>
             <div className="grid gap-3 pt-2 sm:grid-cols-3">
-              {stats.map((item) => (
-                <article key={item.label} className="rounded-2xl border border-white/70 bg-white/75 p-3 backdrop-blur">
+              {stats.map((item, idx) => (
+                <article
+                  key={item.label}
+                  className="reveal-up rounded-2xl border border-white/70 bg-white/75 p-3 backdrop-blur"
+                  data-reveal
+                  style={{ transitionDelay: `${120 + idx * 100}ms` }}
+                >
                   <p className="text-xs uppercase tracking-wide text-slate-500">{item.label}</p>
                   <p className="mt-1 text-sm font-semibold text-slate-900">{item.value}</p>
                 </article>
@@ -65,7 +113,13 @@ export default function HomePage() {
             </div>
           </div>
 
-          <aside className="landing-tilt-card mx-auto w-full max-w-md rounded-3xl border border-teal-200/60 bg-white/90 p-5 shadow-2xl">
+          <aside
+            className="landing-tilt-card reveal-up mx-auto w-full max-w-md rounded-3xl border border-teal-200/60 bg-white/90 p-5 shadow-2xl"
+            data-reveal
+            data-parallax
+            data-speed="0.05"
+            style={{ transitionDelay: '180ms' }}
+          >
             <div className="landing-card-glow" aria-hidden="true" />
             <div className="relative space-y-4">
               <div className="flex items-center justify-between">
@@ -99,8 +153,9 @@ export default function HomePage() {
         {features.map((feature, idx) => (
           <article
             key={feature.title}
-            className="animate-fade-up rounded-2xl border border-slate-200 bg-white/85 p-5 transition hover:-translate-y-1 hover:border-teal-200"
-            style={{ animationDelay: `${idx * 100}ms` }}
+            className="reveal-up rounded-2xl border border-slate-200 bg-white/85 p-5 transition hover:-translate-y-1 hover:border-teal-200"
+            data-reveal
+            style={{ transitionDelay: `${90 + idx * 120}ms` }}
           >
             <h3 className="text-sm font-semibold text-slate-900">{feature.title}</h3>
             <p className="mt-2 text-sm leading-relaxed text-slate-700">{feature.body}</p>
