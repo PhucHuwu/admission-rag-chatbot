@@ -10,6 +10,9 @@ coverage/
 **/dist/
 **/.next/
 
+# RAG evaluation outputs
+evaluation-rag/output
+
 # Environment files
 .env
 .env.*

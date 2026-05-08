@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q1",
+    "query": "điểm chuẩn ngành công nghệ thông tin IUH 2024",
+    "university_code": "IUH",
+    "relevant_chunk_ids": ["replace_chunk_id_1", "replace_chunk_id_2"],
+    "notes": "thay chunk id bằng ground-truth thật"
+  },
+  {
+    "id": "q2",
+    "query": "học phí ngành quản trị kinh doanh HLU",
+    "university_code": "HLU",
+    "relevant_chunk_ids": ["replace_chunk_id_3"]
+  },
+  {
+    "id": "q3",
+    "query": "phương thức xét tuyển BVU năm 2025",
+    "university_code": "BVU",
+    "relevant_chunk_ids": ["replace_chunk_id_4", "replace_chunk_id_5"]
+  }
+]
