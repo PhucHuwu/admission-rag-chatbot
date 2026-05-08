@@ -10,7 +10,8 @@ coverage/
 **/dist/
 **/.next/
 
-# RAG evaluation outputs
+# Document
+docs/report-require.md
 
 # Environment files
 .env
