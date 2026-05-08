@@ -16,7 +16,7 @@ export class DebugController {
     return {
       has_openai_key: !!process.env.OPENAI_API_KEY,
       has_qdrant_url: !!process.env.QDRANT_URL,
-      has_openrouter_key: !!process.env.OPENROUTER_API_KEY,
+      has_deepseek_key: !!process.env.DEEPSEEK_API_KEY,
       has_database_url: !!process.env.DATABASE_URL,
       node_env: process.env.NODE_ENV,
     };

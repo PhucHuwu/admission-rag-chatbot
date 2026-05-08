@@ -46,18 +46,6 @@ export class AppConfigService {
     return this.configService.get<string>('LLM_PROVIDER', 'deepseek');
   }
 
-  get openRouterApiKey(): string {
-    return this.configService.get<string>('OPENROUTER_API_KEY', '');
-  }
-
-  get openRouterModel(): string {
-    return this.configService.get<string>('OPENROUTER_MODEL', 'openai/gpt-oss-120b:free');
-  }
-
-  get openRouterBaseUrl(): string {
-    return this.configService.get<string>('OPENROUTER_BASE_URL', 'https://openrouter.ai/api/v1');
-  }
-
   get kimiApiKey(): string {
     return this.configService.get<string>('KIMI_API_KEY', '');
   }

@@ -73,13 +73,13 @@ export class RerankerService {
     const isKimi = provider === 'kimi';
     const baseUrl = isKimi
       ? this.config.kimiBaseUrl
-      : this.config.openRouterBaseUrl;
+      : this.config.deepseekBaseUrl;
     const apiKey = isKimi
       ? this.config.kimiApiKey
-      : this.config.openRouterApiKey;
+      : this.config.deepseekApiKey;
     const model = isKimi
       ? this.config.kimiModel
-      : 'openai/gpt-4o-mini';
+      : this.config.deepseekModel;
 
     if (!apiKey) throw new Error('No LLM API key configured');
 
@@ -87,11 +87,6 @@ export class RerankerService {
       Authorization: `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
     };
-    if (!isKimi) {
-      headers['HTTP-Referer'] = 'http://localhost:3000';
-      headers['X-Title'] = 'Admission RAG Chatbot';
-    }
-
     const prompt = `Đánh giá độ liên quan của từng đoạn văn bản sau đối với câu hỏi. Trả về JSON array các số từ 0-10, mỗi số tương ứng với một đoạn văn. 10 = rất liên quan, 0 = không liên quan.
 
 Câu hỏi: ${query}

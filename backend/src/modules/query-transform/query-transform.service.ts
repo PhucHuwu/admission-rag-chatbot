@@ -113,23 +113,18 @@ Câu hỏi cụ thể: ${query}`;
       const isKimi = provider === 'kimi';
       const baseUrl = isKimi
         ? this.config.kimiBaseUrl
-        : this.config.openRouterBaseUrl;
+        : this.config.deepseekBaseUrl;
       const apiKey = isKimi
         ? this.config.kimiApiKey
-        : this.config.openRouterApiKey;
+        : this.config.deepseekApiKey;
       const model = isKimi
         ? this.config.kimiModel
-        : 'openai/gpt-4o-mini';
+        : this.config.deepseekModel;
 
       const headers: Record<string, string> = {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       };
-      if (!isKimi) {
-        headers['HTTP-Referer'] = 'http://localhost:3000';
-        headers['X-Title'] = 'Admission RAG Chatbot';
-      }
-
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
         {

@@ -72,7 +72,7 @@ QUY TẮC QUAN TRỌNG:
     return messages;
   }
 
-  private providerConfig(): { baseUrl: string; apiKey: string; model: string; isOpenRouter: boolean } {
+  private providerConfig(): { baseUrl: string; apiKey: string; model: string } {
     const provider = this.config.llmProvider;
 
     if (provider === 'kimi') {
@@ -80,44 +80,26 @@ QUY TẮC QUAN TRỌNG:
         baseUrl: this.config.kimiBaseUrl,
         apiKey: this.config.kimiApiKey,
         model: this.config.kimiModel,
-        isOpenRouter: false,
-      };
-    }
-
-    if (provider === 'deepseek') {
-      return {
-        baseUrl: this.config.deepseekBaseUrl,
-        apiKey: this.config.deepseekApiKey,
-        model: this.config.deepseekModel,
-        isOpenRouter: false,
       };
     }
 
     return {
-      baseUrl: this.config.openRouterBaseUrl,
-      apiKey: this.config.openRouterApiKey,
-      model: this.config.openRouterModel,
-      isOpenRouter: true,
+      baseUrl: this.config.deepseekBaseUrl,
+      apiKey: this.config.deepseekApiKey,
+      model: this.config.deepseekModel,
     };
   }
 
-  private requestHeaders(apiKey: string, isOpenRouter: boolean): Record<string, string> {
-    const headers: Record<string, string> = {
+  private requestHeaders(apiKey: string): Record<string, string> {
+    return {
       Authorization: `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
     };
-
-    if (isOpenRouter) {
-      headers['HTTP-Referer'] = 'http://localhost:3000';
-      headers['X-Title'] = 'Admission RAG Chatbot';
-    }
-
-    return headers;
   }
 
   private async callLlm(messages: Array<{ role: string; content: string }>): Promise<string> {
     try {
-      const { baseUrl, apiKey, model, isOpenRouter } = this.providerConfig();
+      const { baseUrl, apiKey, model } = this.providerConfig();
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
         {
@@ -129,7 +111,7 @@ QUY TẮC QUAN TRỌNG:
           reasoning_effort: 'high',
         },
         {
-          headers: this.requestHeaders(apiKey, isOpenRouter),
+          headers: this.requestHeaders(apiKey),
           timeout: 60000,
         },
       );
@@ -149,7 +131,7 @@ QUY TẮC QUAN TRỌNG:
     messages: Array<{ role: string; content: string }>,
   ): AsyncGenerator<string> {
     try {
-      const { baseUrl, apiKey, model, isOpenRouter } = this.providerConfig();
+      const { baseUrl, apiKey, model } = this.providerConfig();
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
         {
@@ -162,7 +144,7 @@ QUY TẮC QUAN TRỌNG:
           stream: true,
         },
         {
-          headers: this.requestHeaders(apiKey, isOpenRouter),
+          headers: this.requestHeaders(apiKey),
           timeout: 120000,
           responseType: 'stream',
         },
