@@ -1,6 +1,6 @@
 # Admission RAG Chatbot
 
-Simple monorepo for an admission Q&A chatbot.
+A RAG chatbot for university admission consulting.
 
 ## Project Structure
 

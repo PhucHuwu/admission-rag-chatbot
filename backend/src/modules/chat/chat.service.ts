@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { SearchService } from '../search/search.service';
 import { LlmService } from '../llm/llm.service';
-import { ConversationService, ChatMessage } from '../conversation/conversation.service';
+import { ConversationService } from '../conversation/conversation.service';
 import { AppConfigService } from '../../config/app-config.service';
 
 @Injectable()
