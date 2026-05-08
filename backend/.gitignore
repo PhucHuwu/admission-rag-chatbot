@@ -1,0 +1,12 @@
+# Env files
+.env
+.env.*
+!.env.example
+
+# Generated files
+/generated/prisma
+dist/
+coverage/
+
+# Vercel
+.vercel/

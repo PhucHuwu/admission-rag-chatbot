@@ -1,78 +1,109 @@
-# admission-rag-chatbot
+# Admission RAG Chatbot
 
-A localhost-first RAG chatbot for university admission consulting.
+Simple monorepo for an admission Q&A chatbot.
 
-This project helps students and parents:
-- chat for admission Q&A,
-- look up school information,
-- browse cutoff scores in a table view.
+## Project Structure
 
-The system prioritizes correctness from internal data over generic model responses.
-
-## Repository Structure
-
-- `backend/` FastAPI API for ingest, retrieval, and chat generation
-- `frontend/` Next.js web app for end users
-- `data/` cleaned admission datasets used by the project
-- `docs/` project notes and requirements
-
-## Tech Stack
-
-- Frontend: Next.js + Tailwind CSS
-- Backend: FastAPI (Python)
-- Vector store: Chroma (persisted on disk)
-- LLM provider: OpenRouter
-
-## Quick Start
-
-### 1) Start backend
-
-See full instructions in `backend/README.md`.
-
-Typical flow:
-
-```bash
-cd backend
-python -m venv .venv
-# activate virtual environment
-pip install -r requirements.txt
-cp .env.example .env
+```text
+admission-rag-chatbot/
+├── frontend/   # Next.js app
+├── backend/    # NestJS API
+└── crawler/    # Data crawler (TypeScript)
 ```
 
-Set `OPENROUTER_API_KEY` in `.env`, then run:
+## Requirements
+
+- Node.js 18+
+- npm 9+
+
+## Install
+
+From repository root:
 
 ```bash
-make dev
-```
-
-Backend runs at `http://localhost:8000`.
-
-### 2) Start frontend
-
-See full instructions in `frontend/README.md`.
-
-```bash
-cd frontend
 npm install
-cp .env.example .env.local
+```
+
+This installs dependencies for all workspaces (`frontend`, `backend`, `crawler`).
+
+## Run in Development
+
+### From root
+
+- Run frontend + backend together:
+
+```bash
 npm run dev
 ```
 
-Frontend runs at `http://localhost:3000`.
+- Run only frontend:
 
-## Main API Endpoints
+```bash
+npm run dev:fe
+```
 
-- `GET /api/v1/health`
-- `POST /api/v1/ingest`
-- `POST /api/v1/search`
-- `POST /api/v1/chat`
+- Run only backend:
 
-## Data Notes
+```bash
+npm run dev:be
+```
 
-- Cleaned data is stored in `data/`.
-- Dataset scope is admission season 2025.
-- If information is missing, chatbot is expected to say so clearly instead of guessing.
+- Run crawler:
 
-## License
+```bash
+npm run dev:crawler
+```
 
-This repository is for educational/demo purposes.
+### From each package
+
+Frontend:
+
+```bash
+cd frontend
+npm run dev
+```
+
+Backend:
+
+```bash
+cd backend
+npm run dev
+```
+
+Crawler:
+
+```bash
+cd crawler
+npm run crawl
+```
+
+## Environment
+
+Create local env files from examples:
+
+- `backend/.env` from `backend/.env.example`
+- `frontend/.env.local` from `frontend/.env.example`
+
+Example frontend API URL:
+
+```env
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api/v1
+```
+
+## Build and Lint
+
+From root:
+
+```bash
+npm run build
+npm run lint
+```
+
+## Format
+
+From root:
+
+```bash
+npm run format
+npm run format:check
+```

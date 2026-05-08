@@ -1,0 +1,13 @@
+# Env files
+.env.local
+.env.*.local
+
+# Build outputs
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Vercel
+.vercel/

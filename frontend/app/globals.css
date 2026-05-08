@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=JetBrains+Mono:wght@500&family=Sora:wght@500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=JetBrains+Mono:wght@500&family=Sora:wght@500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -26,8 +26,9 @@ body {
   margin: 0;
   min-height: 100vh;
   color: var(--text);
-  font-family: "Be Vietnam Pro", ui-sans-serif, sans-serif;
-  background: radial-gradient(circle at top right, #e2e8f0 0%, transparent 45%),
+  font-family: 'Be Vietnam Pro', ui-sans-serif, sans-serif;
+  background:
+    radial-gradient(circle at top right, #e2e8f0 0%, transparent 45%),
     linear-gradient(140deg, var(--bg-start), var(--bg-end));
 }
 

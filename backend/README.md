@@ -1,98 +1,58 @@
 # Backend
 
-FastAPI backend for the admission RAG chatbot (localhost scope).
+NestJS API for the Admission RAG Chatbot.
 
 ## Requirements
 
-- Python 3.10+
-- Recommended: Python 3.11
+- Node.js 18+
+- npm 9+
 
 ## Setup
 
-### Option A: venv
-
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+npm install
 cp .env.example .env
 ```
 
-### Option B: Makefile
+Required env values (example):
+
+```env
+PORT=8000
+QDRANT_URL=http://localhost:6333
+QDRANT_COLLECTION=admission_chunks
+OPENAI_API_KEY=your_key
+DATABASE_URL=postgresql://user:password@localhost:5432/admission_db
+```
+
+## Run
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-make install
-cp .env.example .env
+npm run dev
 ```
 
-Set `OPENROUTER_API_KEY` in `.env` if you want LLM-generated answers.
-
-## Generate Q&A dataset
+Alternative:
 
 ```bash
-make gen-qa
+npm run start:dev
 ```
 
-Generated file:
+API default URL: `http://localhost:8000`
 
-- `./storage/qa_dataset.jsonl`
-
-## Run server
+## Build
 
 ```bash
-make dev
+npm run build
+npm run start:prod
 ```
 
-- API base: `http://localhost:8000`
-- Swagger: `http://localhost:8000/docs`
-
-## Build vector index
-
-After generating Q&A, call ingest:
-
-```bash
-curl -X POST http://localhost:8000/api/v1/ingest \
-  -H "Content-Type: application/json" \
-  -d '{"rebuild_index": true}'
-```
-
-Optional override path:
-
-```json
-{
-  "data_dir": "./storage/qa_dataset.jsonl",
-  "rebuild_index": true
-}
-```
-
-## Main endpoints
+## Main Endpoints
 
 - `GET /api/v1/health`
 - `POST /api/v1/ingest`
 - `POST /api/v1/search`
 - `POST /api/v1/chat`
 
-## Dev commands
-
-```bash
-make lint
-make lint-all
-make format
-make test
-```
-
 ## Notes
 
-- Ingest reads Q&A JSONL (`QA_DATASET_PATH`), not raw `data/*.json`.
-- Embedding is local and free by default (`sentence-transformers`).
-
-## Embedding device
-
-Set `EMBEDDING_DEVICE` in `.env`:
-
-- `auto` (default): `cuda` -> `mps` -> `cpu`
-- `cpu`: force CPU
-- `cuda`: force NVIDIA GPU
-- `mps`: force Apple Silicon GPU
+- CORS is enabled for local frontend URLs.
+- `prisma generate` runs on postinstall.

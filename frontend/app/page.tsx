@@ -1,10 +1,10 @@
-import Link from "next/link";
-import { Shell } from "@/components/Shell";
+import Link from 'next/link';
+import { Shell } from '@/components/Shell';
 
 const features = [
-  "Hỏi đáp nhanh về trường, ngành và phương thức xét tuyển",
-  "Tra cứu thông tin trường và điểm chuẩn theo bảng dễ đọc",
-  "Ưu tiên dữ liệu đã chuẩn hóa trong bộ dữ liệu hiện có"
+  'Hỏi đáp nhanh về trường, ngành và phương thức xét tuyển',
+  'Tra cứu thông tin trường và điểm chuẩn theo bảng dễ đọc',
+  'Ưu tiên dữ liệu đã chuẩn hóa trong bộ dữ liệu hiện có',
 ];
 
 export default function HomePage() {
@@ -19,8 +19,8 @@ export default function HomePage() {
             Trợ lý tra cứu tuyển sinh đại học 2025
           </h1>
           <p className="max-w-2xl text-sm text-slate-700 sm:text-base">
-            Nền tảng giúp học sinh và phụ huynh tìm thông tin tuyển sinh theo cách trực quan,
-            dễ hiểu, bám sát dữ liệu đã được làm sạch.
+            Nền tảng giúp học sinh và phụ huynh tìm thông tin tuyển sinh theo cách trực quan, dễ
+            hiểu, bám sát dữ liệu đã được làm sạch.
           </p>
           <div className="flex flex-wrap gap-3">
             <Link

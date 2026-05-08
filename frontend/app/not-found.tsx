@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { Shell } from "@/components/Shell";
+import Link from 'next/link';
+import { Shell } from '@/components/Shell';
 
 export default function NotFoundPage() {
   return (

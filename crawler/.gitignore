@@ -1,0 +1,17 @@
+# Env files
+.env
+.env.*
+!.env.example
+
+# Node/TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+.vscode/

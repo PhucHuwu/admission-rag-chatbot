@@ -52,16 +52,16 @@ export type IngestResponse = {
 };
 
 const API_BASE =
-  process.env.NEXT_PUBLIC_API_BASE_URL?.trim() || "http://localhost:8000/api/v1";
+  process.env.NEXT_PUBLIC_API_BASE_URL?.trim() || 'https://backend-new-dun-two.vercel.app/api/v1';
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${path}`, {
     ...init,
     headers: {
-      "Content-Type": "application/json",
-      ...(init?.headers || {})
+      'Content-Type': 'application/json',
+      ...(init?.headers || {}),
     },
-    cache: "no-store"
+    cache: 'no-store',
   });
   if (!res.ok) {
     const message = await res.text();
@@ -70,21 +70,108 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
   return (await res.json()) as T;
 }
 
+export type Conversation = {
+  id: string;
+  title: string;
+  createdAt: string;
+  updatedAt: string;
+};
+
+export type ConversationListResponse = {
+  conversations: Conversation[];
+};
+
+export type ChatStreamCallbacks = {
+  onChunk: (text: string) => void;
+  onDone: (meta: {
+    session_id: string;
+    used_chunks: number;
+    data_sufficient: boolean;
+    note: string | null;
+  }) => void;
+  onError: (err: Error) => void;
+};
+
 export const api = {
-  health: () => request<HealthResponse>("/health"),
+  health: () => request<HealthResponse>('/health'),
   chat: (payload: ChatRequest) =>
-    request<ChatResponse>("/chat", {
-      method: "POST",
-      body: JSON.stringify(payload)
+    request<ChatResponse>('/chat', {
+      method: 'POST',
+      body: JSON.stringify(payload),
     }),
+  chatStream: async (payload: ChatRequest, callbacks: ChatStreamCallbacks) => {
+    try {
+      const res = await fetch(`${API_BASE}/chat/stream`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok || !res.body) {
+        const text = await res.text();
+        throw new Error(`${res.status}: ${text}`);
+      }
+
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const events = buffer.split(/\r?\n\r?\n/);
+        buffer = events.pop() ?? '';
+        for (const event of events) {
+          const lines = event.split(/\r?\n/);
+          for (const line of lines) {
+            const trimmed = line.trim();
+            if (!trimmed.startsWith('data:')) continue;
+            try {
+              const data = JSON.parse(trimmed.slice(5).trim());
+              if (data.chunk !== undefined) {
+                callbacks.onChunk(data.chunk);
+              } else if (data.done) {
+                callbacks.onDone(data);
+              } else if (data.error) {
+                callbacks.onError(new Error(String(data.error)));
+              }
+            } catch {}
+          }
+        }
+      }
+    } catch (err) {
+      callbacks.onError(err instanceof Error ? err : new Error(String(err)));
+    }
+  },
   search: (payload: SearchRequest) =>
-    request<SearchResponse>("/search", {
-      method: "POST",
-      body: JSON.stringify(payload)
+    request<SearchResponse>('/search', {
+      method: 'POST',
+      body: JSON.stringify(payload),
     }),
   ingest: (payload: IngestRequest) =>
-    request<IngestResponse>("/ingest", {
-      method: "POST",
-      body: JSON.stringify(payload)
-    })
+    request<IngestResponse>('/ingest', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    }),
+  conversations: {
+    list: () => request<ConversationListResponse>('/conversations'),
+    create: (title?: string) =>
+      request<{ conversation: Conversation }>('/conversations', {
+        method: 'POST',
+        body: JSON.stringify({ title }),
+      }),
+    get: (id: string) =>
+      request<{
+        conversation: Conversation & {
+          messages?: Array<{ role: string; content: string; timestamp: string }>;
+        };
+      }>(`/conversations/${id}`),
+    delete: (id: string) =>
+      request<{ success: boolean }>(`/conversations/${id}`, { method: 'DELETE' }),
+    addMessage: (id: string, role: string, content: string) =>
+      request<{ conversation: Conversation }>(`/conversations/${id}/messages`, {
+        method: 'POST',
+        body: JSON.stringify({ role, content }),
+      }),
+  },
 };
