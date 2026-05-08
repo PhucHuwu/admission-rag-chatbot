@@ -1,0 +1,73 @@
+id,query,category,expected_has_answer,status,faithfulness,answer_relevancy,context_precision,data_sufficient,total_latency_ms
+IUH_001,điểm chuẩn ngành công nghệ thông tin IUH năm 2025,diem_chuan,True,ok,0.8698,0.8739,0.7249,True,21146.036
+IUH_002,học phí ngành kỹ thuật phần mềm IUH,hoc_phi,True,ok,0.8137,0.7304,0.7983,True,31310.368
+IUH_003,phương thức xét tuyển học bạ của IUH,phuong_thuc_to_hop,True,ok,0.8307,0.8203,0.683,True,23008.256
+IUH_004,tổ hợp xét tuyển ngành logistics IUH,phuong_thuc_to_hop,True,ok,0.8791,0.8572,0.7227,True,29907.036
+IUH_005,chỉ tiêu tuyển sinh của IUH năm 2025,phuong_thuc_to_hop,True,ok,0.8078,0.7922,0.6821,True,25162.287
+IUH_006,điều kiện xét tuyển thẳng vào IUH,phuong_thuc_to_hop,True,ok,0.8311,0.7792,0.7651,True,26775.47
+IUH_007,mốc thờ i gian nộp hồ sơ xét tuyển IUH,phuong_thuc_to_hop,True,ok,0.8156,0.7923,0.8222,True,15943.309
+IUH_008,lệ phí xét tuyển của IUH là bao nhiêu,phuong_thuc_to_hop,True,ok,0.801,0.7316,0.752,False,21430.511
+HLU_001,điểm chuẩn ngành luật HLU,diem_chuan,True,ok,0.7769,0.8532,0.8189,True,21059.273
+HLU_002,học phí ngành luật kinh tế HLU,hoc_phi,True,ok,0.8528,0.8305,0.617,True,21779.843
+HLU_003,tổ hợp môn xét tuyển ngành luật thương mại HLU,phuong_thuc_to_hop,True,ok,0.8522,0.8298,0.6597,True,35184.407
+HLU_004,phương thức xét tuyển kết hợp của HLU,phuong_thuc_to_hop,True,ok,0.9065,0.7488,0.6292,True,22777.458
+HLU_005,chỉ tiêu tuyển sinh năm 2025 của HLU,phuong_thuc_to_hop,True,ok,0.7576,0.8113,0.7503,True,24020.443
+HLU_006,thờ i gian công bố điểm chuẩn HLU,phuong_thuc_to_hop,True,ok,0.8476,0.7931,0.6812,False,20129.46
+BVU_001,điểm sàn xét tuyển của BVU,diem_chuan,True,ok,0.8937,0.7951,0.6874,True,13944.823
+BVU_002,học phí ngành quản trị kinh doanh BVU,hoc_phi,True,ok,0.9061,0.8389,0.7683,True,17820.075
+BVU_003,phương thức xét tuyển đại học BVU 2025,phuong_thuc_to_hop,True,ok,0.855,0.7814,0.698,True,15741.671
+BVU_004,tổ hợp xét tuyển ngành ngôn ngữ Anh BVU,phuong_thuc_to_hop,True,ok,0.8556,0.7791,0.7502,True,29819.324
+BVU_005,hồ sơ xét tuyển vào BVU cần những gì,phuong_thuc_to_hop,True,ok,0.8264,0.7503,0.788,True,22657.778
+DHT_001,điểm chuẩn ngành công nghệ thông tin DHT,diem_chuan,True,ok,0.8084,0.8516,0.764,True,23419.751
+DHT_002,học phí chương trình chất lượng cao DHT,hoc_phi,True,ok,0.9007,0.774,0.7074,False,22698.339
+DHT_003,tổ hợp môn xét tuyển ngành ngôn ngữ Anh DHT,phuong_thuc_to_hop,True,ok,0.826,0.819,0.7821,True,34056.303
+DHT_004,chỉ tiêu ngành kỹ thuật điện tử viễn thông DHT,phuong_thuc_to_hop,True,ok,0.8424,0.8112,0.7917,True,26070.603
+DHT_005,DHT có nhận chứng chỉ IELTS để quy đổi điểm không,phuong_thuc_to_hop,True,ok,0.9138,0.7422,0.7297,False,34736.624
+DHA_001,điểm chuẩn khối ngành sức khỏe DHA,diem_chuan,True,ok,0.8904,0.8443,0.8461,False,48195.561
+DHA_002,học phí ngành điều dưỡng DHA,hoc_phi,True,ok,0.8366,0.7793,0.7922,False,20027.883
+DHA_003,phương thức xét tuyển ngành dược DHA,phuong_thuc_to_hop,True,ok,0.7191,0.7862,0.872,True,16670.221
+DHA_004,điều kiện sơ tuyển sức khỏe khi vào DHA,phuong_thuc_to_hop,True,ok,0.831,0.8279,0.6729,False,26775.277
+DDB_001,chỉ tiêu tuyển sinh DDB năm 2025,phuong_thuc_to_hop,True,ok,0.8291,0.8029,0.8415,True,25688.95
+DDB_002,học phí ngành kế toán DDB,hoc_phi,True,ok,0.8096,0.6919,0.7644,True,17653.343
+DDB_003,các tổ hợp môn xét tuyển DDB,phuong_thuc_to_hop,True,ok,0.892,0.7756,0.6206,True,36630.436
+DDB_004,điểm chuẩn ngành quản trị kinh doanh DDB,diem_chuan,True,ok,0.8171,0.8617,0.7263,True,20103.343
+HGH_001,điểm chuẩn ngành logistics HGH,diem_chuan,True,ok,0.8617,0.7221,0.7288,True,19728.095
+HGH_002,học phí ngành quản trị dịch vụ du lịch HGH,hoc_phi,True,ok,0.8815,0.8168,0.6786,False,16773.822
+HGH_003,phương thức xét tuyển của HGH,phuong_thuc_to_hop,True,ok,0.8721,0.8593,0.7021,True,13628.98
+HGH_004,HGH có ký túc xá cho tân sinh viên không,out_of_scope,False,ok,0.7503,0.8239,0.667,False,16454.994
+HHA_001,học phí các ngành HHA,hoc_phi,True,ok,0.8435,0.92,0.7512,False,12604.271
+HHA_002,phương thức xét tuyển học bạ HHA,phuong_thuc_to_hop,True,ok,0.8102,0.7112,0.7321,True,19139.987
+HHA_003,tổ hợp môn xét tuyển ngành ngôn ngữ Trung HHA,phuong_thuc_to_hop,True,ok,0.8265,0.7788,0.7855,True,30145.468
+HHA_004,hạn nộp hồ sơ xét tuyển HHA là khi nào,phuong_thuc_to_hop,True,ok,0.7783,0.7309,0.6827,False,34709.33
+LBH_001,điểm chuẩn ngành y khoa LBH,diem_chuan,True,ok,0.8578,0.7635,0.6875,False,24852.942
+LBH_002,học phí ngành răng hàm mặt LBH,hoc_phi,True,ok,0.8149,0.8254,0.6938,False,18508.951
+LBH_003,phương thức xét tuyển ngành dược LBH,phuong_thuc_to_hop,True,ok,0.8663,0.6956,0.7492,True,18370.191
+LBH_004,điều kiện học bổng đầu vào của LBH,out_of_scope,False,ok,0.7527,0.7787,0.813,False,20186.288
+MDA_001,chỉ tiêu tuyển sinh MDA năm 2025,phuong_thuc_to_hop,True,ok,0.8235,0.8152,0.7745,False,30281.953
+MDA_002,học phí ngành công nghệ thông tin MDA,hoc_phi,True,ok,0.7932,0.8584,0.7833,True,19817.107
+MDA_003,tổ hợp môn ngành kỹ thuật điện MDA,phuong_thuc_to_hop,True,ok,0.8209,0.8381,0.7322,True,20218.094
+MDA_004,điểm chuẩn ngành điều dưỡng MDA,diem_chuan,True,ok,0.8258,0.7697,0.8134,True,17667.586
+QHE_001,phương thức xét tuyển QHE năm 2025,phuong_thuc_to_hop,True,ok,0.8976,0.7662,0.7467,True,21455.721
+QHE_002,học phí ngành trí tuệ nhân tạo QHE,hoc_phi,True,ok,0.7979,0.8021,0.705,False,20268.692
+QHE_003,điểm chuẩn ngành khoa học dữ liệu QHE,diem_chuan,True,ok,0.8109,0.832,0.8144,False,34741.548
+QHE_004,QHE có chương trình đào tạo chất lượng cao không,phuong_thuc_to_hop,True,ok,0.849,0.78,0.8104,False,19665.918
+SKN_001,học phí ngành kinh tế SKN,hoc_phi,True,ok,0.8555,0.9161,0.6569,True,15704.046
+SKN_002,tổ hợp môn xét tuyển ngành quản trị kinh doanh SKN,phuong_thuc_to_hop,True,ok,0.9476,0.7973,0.6545,True,29419.158
+SKN_003,chỉ tiêu xét tuyển SKN,phuong_thuc_to_hop,True,ok,0.7843,0.8529,0.7798,True,38435.972
+SKN_004,điểm chuẩn ngành marketing SKN,diem_chuan,True,ok,0.8895,0.8668,0.688,True,16297.653
+YHB_001,điểm chuẩn ngành y đa khoa YHB,diem_chuan,True,ok,0.8513,0.7208,0.7033,True,16203.315
+YHB_002,học phí ngành điều dưỡng YHB,hoc_phi,True,ok,0.874,0.7326,0.8785,True,14436.539
+YHB_003,phương thức xét tuyển khối ngành sức khỏe YHB,phuong_thuc_to_hop,True,ok,0.8781,0.7495,0.7698,True,40228.021
+YHB_004,điều kiện sơ tuyển và khám sức khỏe của YHB,phuong_thuc_to_hop,True,ok,0.8498,0.8001,0.7619,False,43480.818
+GEN_001,so sánh học phí ngành công nghệ thông tin giữa IUH và DHT,so_sanh,True,ok,0.827,0.8162,0.8097,True,22831.737
+GEN_002,trường nào có điểm chuẩn ngành logistics thấp hơn,so_sanh,True,ok,0.8572,0.8346,0.7988,True,25401.576
+GEN_003,các trường nào xét tuyển bằng học bạ,phuong_thuc_to_hop,True,ok,0.8675,0.8482,0.6576,True,40776.937
+GEN_004,mốc thờ i gian đăng ký nguyện vọng đại học năm 2025,out_of_scope,False,ok,0.749,0.8324,0.7931,True,32516.305
+GEN_005,hồ sơ cần chuẩn bị để xét tuyển đại học,out_of_scope,False,ok,0.8019,0.7459,0.7489,True,33804.269
+GEN_006,nếu điểm thi thấp hơn điểm chuẩn thì có cơ hội trúng tuyển không,out_of_scope,False,ok,0.8071,0.6825,0.704,True,32195.211
+GEN_007,xét tuyển sớm là gì và khác gì xét tuyển đợt chính,out_of_scope,False,ok,0.7239,0.737,0.7019,True,38177.723
+GEN_008,điểm ưu tiên khu vực được cộng như thế nào,out_of_scope,False,ok,0.8488,0.6542,0.6786,True,25804.283
+GEN_009,quy định về điểm liệt trong xét tuyển đại học,out_of_scope,False,ok,0.8073,0.7934,0.7511,True,21901.279
+GEN_010,học phí có tăng theo từng năm không,out_of_scope,False,ok,0.7403,0.7535,0.6722,True,24278.515
+GEN_011,trường có hỗ trợ ký túc xá cho sinh viên năm nhất không,out_of_scope,False,ok,0.8324,0.7531,0.7011,True,15810.395
+GEN_012,có học bổng đầu vào cho thí sinh điểm cao không,out_of_scope,False,ok,0.7876,0.6945,0.7311,True,37447.843

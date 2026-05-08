@@ -1,0 +1,2 @@
+faithfulness,answer_relevancy,context_precision,rag_score,latency_mean_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,error_rate,query_count_total,query_count_ok,query_count_error
+0.8335,0.792,0.7389,0.7953,24815.5,22737.9,39242.39,44848.09,0.0,72,72,0
