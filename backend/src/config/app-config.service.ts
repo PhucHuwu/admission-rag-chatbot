@@ -43,7 +43,7 @@ export class AppConfigService {
   }
 
   get llmProvider(): string {
-    return this.configService.get<string>('LLM_PROVIDER', 'groq');
+    return this.configService.get<string>('LLM_PROVIDER', 'openrouter');
   }
 
   get groqApiKey(): string {

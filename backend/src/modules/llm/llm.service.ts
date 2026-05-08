@@ -12,14 +12,14 @@ export class LlmService {
     recentUserQueries: string[] = [],
   ): Promise<string> {
     const messages = this.buildMessages(query, contextBlocks, recentUserQueries);
-    return this.callGroq(messages);
+    return this.callLlm(messages);
   }
 
   async generateWithHistory(messages: Array<{ role: string; content: string }>): Promise<string> {
     const systemPrompt = `Bạn là trợ lý tư vấn tuyển sinh đại học Việt Nam năm 2025.`;
 
     const fullMessages = [{ role: 'system', content: systemPrompt }, ...messages];
-    return this.callGroq(fullMessages);
+    return this.callLlm(fullMessages);
   }
 
   async *generateStream(
@@ -28,7 +28,7 @@ export class LlmService {
     recentUserQueries: string[] = [],
   ): AsyncGenerator<string> {
     const messages = this.buildMessages(query, contextBlocks, recentUserQueries);
-    for await (const chunk of this.callGroqStream(messages)) {
+    for await (const chunk of this.callLlmStream(messages)) {
       yield chunk;
     }
   }
@@ -72,12 +72,65 @@ QUY TẮC QUAN TRỌNG:
     return messages;
   }
 
-  private async callGroq(messages: Array<{ role: string; content: string }>): Promise<string> {
+  private providerConfig(): { baseUrl: string; apiKey: string; model: string; isOpenRouter: boolean } {
+    const provider = this.config.llmProvider;
+
+    if (provider === 'kimi') {
+      return {
+        baseUrl: this.config.kimiBaseUrl,
+        apiKey: this.config.kimiApiKey,
+        model: this.config.kimiModel,
+        isOpenRouter: false,
+      };
+    }
+
+    if (provider === 'deepseek') {
+      return {
+        baseUrl: this.config.deepseekBaseUrl,
+        apiKey: this.config.deepseekApiKey,
+        model: this.config.deepseekModel,
+        isOpenRouter: false,
+      };
+    }
+
+    if (provider === 'groq') {
+      return {
+        baseUrl: this.config.groqBaseUrl,
+        apiKey: this.config.groqApiKey,
+        model: this.config.groqModel,
+        isOpenRouter: false,
+      };
+    }
+
+    return {
+      baseUrl: this.config.openRouterBaseUrl,
+      apiKey: this.config.openRouterApiKey,
+      model: this.config.openRouterModel,
+      isOpenRouter: true,
+    };
+  }
+
+  private requestHeaders(apiKey: string, isOpenRouter: boolean): Record<string, string> {
+    const headers: Record<string, string> = {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json',
+    };
+
+    if (isOpenRouter) {
+      headers['HTTP-Referer'] = 'http://localhost:3000';
+      headers['X-Title'] = 'Admission RAG Chatbot';
+    }
+
+    return headers;
+  }
+
+  private async callLlm(messages: Array<{ role: string; content: string }>): Promise<string> {
     try {
+      const { baseUrl, apiKey, model, isOpenRouter } = this.providerConfig();
       const response = await axios.post(
-        `${this.config.groqBaseUrl}/chat/completions`,
+        `${baseUrl}/chat/completions`,
         {
-          model: this.config.groqModel,
+          model,
           messages,
           max_completion_tokens: this.config.maxTokens,
           temperature: this.config.temperature,
@@ -85,10 +138,7 @@ QUY TẮC QUAN TRỌNG:
           reasoning_effort: 'high',
         },
         {
-          headers: {
-            Authorization: `Bearer ${this.config.groqApiKey}`,
-            'Content-Type': 'application/json',
-          },
+          headers: this.requestHeaders(apiKey, isOpenRouter),
           timeout: 60000,
         },
       );
@@ -104,14 +154,15 @@ QUY TẮC QUAN TRỌNG:
     }
   }
 
-  private async *callGroqStream(
+  private async *callLlmStream(
     messages: Array<{ role: string; content: string }>,
   ): AsyncGenerator<string> {
     try {
+      const { baseUrl, apiKey, model, isOpenRouter } = this.providerConfig();
       const response = await axios.post(
-        `${this.config.groqBaseUrl}/chat/completions`,
+        `${baseUrl}/chat/completions`,
         {
-          model: this.config.groqModel,
+          model,
           messages,
           max_completion_tokens: this.config.maxTokens,
           temperature: this.config.temperature,
@@ -120,10 +171,7 @@ QUY TẮC QUAN TRỌNG:
           stream: true,
         },
         {
-          headers: {
-            Authorization: `Bearer ${this.config.groqApiKey}`,
-            'Content-Type': 'application/json',
-          },
+          headers: this.requestHeaders(apiKey, isOpenRouter),
           timeout: 120000,
           responseType: 'stream',
         },
