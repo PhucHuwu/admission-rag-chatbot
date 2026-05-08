@@ -14,7 +14,8 @@ export class RerankerService {
   constructor(private readonly config: AppConfigService) {}
 
   async rerank(query: string, hits: RankedHit[], topK = 8): Promise<RankedHit[]> {
-    if (hits.length <= topK) return hits;
+    const enabled = process.env.RERANKER_ENABLED !== 'false';
+    if (!enabled || hits.length <= topK) return hits.slice(0, topK);
 
     const keywordScores = this.scoreByKeywords(
       query,
@@ -71,15 +72,22 @@ export class RerankerService {
   private async scorePairsByLlm(query: string, documents: string[]): Promise<number[]> {
     const provider = this.config.llmProvider;
     const isKimi = provider === 'kimi';
+    const isOpenAi = provider === 'openai';
     const baseUrl = isKimi
       ? this.config.kimiBaseUrl
-      : this.config.deepseekBaseUrl;
+      : isOpenAi
+        ? this.config.openAiBaseUrl
+        : this.config.deepseekBaseUrl;
     const apiKey = isKimi
       ? this.config.kimiApiKey
-      : this.config.deepseekApiKey;
+      : isOpenAi
+        ? this.config.openAiApiKey
+        : this.config.deepseekApiKey;
     const model = isKimi
       ? this.config.kimiModel
-      : this.config.deepseekModel;
+      : isOpenAi
+        ? this.config.openAiModel
+        : this.config.deepseekModel;
 
     if (!apiKey) throw new Error('No LLM API key configured');
 
@@ -96,17 +104,19 @@ ${documents.map((d, i) => `${i + 1}. ${d.slice(0, 300)}`).join('\n\n')}
 
 JSON array:`;
 
-    const response = await axios.post(
-      `${baseUrl}/chat/completions`,
-      {
-        model,
-        messages: [{ role: 'user', content: prompt }],
-        max_completion_tokens: 128,
-        temperature: 0.1,
-        response_format: { type: 'json_object' },
-      },
-      { headers, timeout: 30000 },
-    );
+    const body: Record<string, any> = {
+      model,
+      messages: [{ role: 'user', content: prompt }],
+      max_completion_tokens: 128,
+      response_format: { type: 'json_object' },
+    };
+    if (!isOpenAi) {
+      body.temperature = 0.1;
+    }
+    const response = await axios.post(`${baseUrl}/chat/completions`, body, {
+      headers,
+      timeout: 30000,
+    });
 
     const content = response.data?.choices?.[0]?.message?.content;
     if (!content) throw new Error('Empty LLM response');

@@ -1,74 +1,506 @@
 [
-  { "query": "điểm chuẩn ngành công nghệ thông tin IUH năm 2025" },
-  { "query": "học phí ngành kỹ thuật phần mềm IUH" },
-  { "query": "phương thức xét tuyển học bạ của IUH" },
-  { "query": "tổ hợp xét tuyển ngành logistics IUH" },
-  { "query": "chỉ tiêu tuyển sinh của IUH năm 2025" },
-  { "query": "điều kiện xét tuyển thẳng vào IUH" },
-  { "query": "mốc thời gian nộp hồ sơ xét tuyển IUH" },
-  { "query": "lệ phí xét tuyển của IUH là bao nhiêu" },
-  { "query": "điểm chuẩn ngành luật HLU" },
-  { "query": "học phí ngành luật kinh tế HLU" },
-  { "query": "tổ hợp môn xét tuyển ngành luật thương mại HLU" },
-  { "query": "phương thức xét tuyển kết hợp của HLU" },
-  { "query": "chỉ tiêu tuyển sinh năm 2025 của HLU" },
-  { "query": "thời gian công bố điểm chuẩn HLU" },
-  { "query": "điểm sàn xét tuyển của BVU" },
-  { "query": "học phí ngành quản trị kinh doanh BVU" },
-  { "query": "phương thức xét tuyển đại học BVU 2025" },
-  { "query": "tổ hợp xét tuyển ngành ngôn ngữ Anh BVU" },
-  { "query": "hồ sơ xét tuyển vào BVU cần những gì" },
-  { "query": "điểm chuẩn ngành công nghệ thông tin DHT" },
-  { "query": "học phí chương trình chất lượng cao DHT" },
-  { "query": "tổ hợp môn xét tuyển ngành ngôn ngữ Anh DHT" },
-  { "query": "chỉ tiêu ngành kỹ thuật điện tử viễn thông DHT" },
-  { "query": "DHT có nhận chứng chỉ IELTS để quy đổi điểm không" },
-  { "query": "điểm chuẩn khối ngành sức khỏe DHA" },
-  { "query": "học phí ngành điều dưỡng DHA" },
-  { "query": "phương thức xét tuyển ngành dược DHA" },
-  { "query": "điều kiện sơ tuyển sức khỏe khi vào DHA" },
-  { "query": "chỉ tiêu tuyển sinh DDB năm 2025" },
-  { "query": "học phí ngành kế toán DDB" },
-  { "query": "các tổ hợp môn xét tuyển DDB" },
-  { "query": "điểm chuẩn ngành quản trị kinh doanh DDB" },
-  { "query": "điểm chuẩn ngành logistics HGH" },
-  { "query": "học phí ngành quản trị dịch vụ du lịch HGH" },
-  { "query": "phương thức xét tuyển của HGH" },
-  { "query": "HGH có ký túc xá cho tân sinh viên không" },
-  { "query": "học phí các ngành HHA" },
-  { "query": "phương thức xét tuyển học bạ HHA" },
-  { "query": "tổ hợp môn xét tuyển ngành ngôn ngữ Trung HHA" },
-  { "query": "hạn nộp hồ sơ xét tuyển HHA là khi nào" },
-  { "query": "điểm chuẩn ngành y khoa LBH" },
-  { "query": "học phí ngành răng hàm mặt LBH" },
-  { "query": "phương thức xét tuyển ngành dược LBH" },
-  { "query": "điều kiện học bổng đầu vào của LBH" },
-  { "query": "chỉ tiêu tuyển sinh MDA năm 2025" },
-  { "query": "học phí ngành công nghệ thông tin MDA" },
-  { "query": "tổ hợp môn ngành kỹ thuật điện MDA" },
-  { "query": "điểm chuẩn ngành điều dưỡng MDA" },
-  { "query": "phương thức xét tuyển QHE năm 2025" },
-  { "query": "học phí ngành trí tuệ nhân tạo QHE" },
-  { "query": "điểm chuẩn ngành khoa học dữ liệu QHE" },
-  { "query": "QHE có chương trình đào tạo chất lượng cao không" },
-  { "query": "học phí ngành kinh tế SKN" },
-  { "query": "tổ hợp môn xét tuyển ngành quản trị kinh doanh SKN" },
-  { "query": "chỉ tiêu xét tuyển SKN" },
-  { "query": "điểm chuẩn ngành marketing SKN" },
-  { "query": "điểm chuẩn ngành y đa khoa YHB" },
-  { "query": "học phí ngành điều dưỡng YHB" },
-  { "query": "phương thức xét tuyển khối ngành sức khỏe YHB" },
-  { "query": "điều kiện sơ tuyển và khám sức khỏe của YHB" },
-  { "query": "so sánh học phí ngành công nghệ thông tin giữa IUH và DHT" },
-  { "query": "trường nào có điểm chuẩn ngành logistics thấp hơn" },
-  { "query": "các trường nào xét tuyển bằng học bạ" },
-  { "query": "mốc thời gian đăng ký nguyện vọng đại học năm 2025" },
-  { "query": "hồ sơ cần chuẩn bị để xét tuyển đại học" },
-  { "query": "nếu điểm thi thấp hơn điểm chuẩn thì có cơ hội trúng tuyển không" },
-  { "query": "xét tuyển sớm là gì và khác gì xét tuyển đợt chính" },
-  { "query": "điểm ưu tiên khu vực được cộng như thế nào" },
-  { "query": "quy định về điểm liệt trong xét tuyển đại học" },
-  { "query": "học phí có tăng theo từng năm không" },
-  { "query": "trường có hỗ trợ ký túc xá cho sinh viên năm nhất không" },
-  { "query": "có học bổng đầu vào cho thí sinh điểm cao không" }
+  {
+    "id": "IUH_001",
+    "query": "điểm chuẩn ngành công nghệ thông tin IUH năm 2025",
+    "university_code": "IUH",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_002",
+    "query": "học phí ngành kỹ thuật phần mềm IUH",
+    "university_code": "IUH",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_003",
+    "query": "phương thức xét tuyển học bạ của IUH",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_004",
+    "query": "tổ hợp xét tuyển ngành logistics IUH",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_005",
+    "query": "chỉ tiêu tuyển sinh của IUH năm 2025",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_006",
+    "query": "điều kiện xét tuyển thẳng vào IUH",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_007",
+    "query": "mốc thờ i gian nộp hồ sơ xét tuyển IUH",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "IUH_008",
+    "query": "lệ phí xét tuyển của IUH là bao nhiêu",
+    "university_code": "IUH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_001",
+    "query": "điểm chuẩn ngành luật HLU",
+    "university_code": "HLU",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_002",
+    "query": "học phí ngành luật kinh tế HLU",
+    "university_code": "HLU",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_003",
+    "query": "tổ hợp môn xét tuyển ngành luật thương mại HLU",
+    "university_code": "HLU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_004",
+    "query": "phương thức xét tuyển kết hợp của HLU",
+    "university_code": "HLU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_005",
+    "query": "chỉ tiêu tuyển sinh năm 2025 của HLU",
+    "university_code": "HLU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HLU_006",
+    "query": "thờ i gian công bố điểm chuẩn HLU",
+    "university_code": "HLU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "BVU_001",
+    "query": "điểm sàn xét tuyển của BVU",
+    "university_code": "BVU",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "BVU_002",
+    "query": "học phí ngành quản trị kinh doanh BVU",
+    "university_code": "BVU",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "BVU_003",
+    "query": "phương thức xét tuyển đại học BVU 2025",
+    "university_code": "BVU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "BVU_004",
+    "query": "tổ hợp xét tuyển ngành ngôn ngữ Anh BVU",
+    "university_code": "BVU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "BVU_005",
+    "query": "hồ sơ xét tuyển vào BVU cần những gì",
+    "university_code": "BVU",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHT_001",
+    "query": "điểm chuẩn ngành công nghệ thông tin DHT",
+    "university_code": "DHT",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHT_002",
+    "query": "học phí chương trình chất lượng cao DHT",
+    "university_code": "DHT",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHT_003",
+    "query": "tổ hợp môn xét tuyển ngành ngôn ngữ Anh DHT",
+    "university_code": "DHT",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHT_004",
+    "query": "chỉ tiêu ngành kỹ thuật điện tử viễn thông DHT",
+    "university_code": "DHT",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHT_005",
+    "query": "DHT có nhận chứng chỉ IELTS để quy đổi điểm không",
+    "university_code": "DHT",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHA_001",
+    "query": "điểm chuẩn khối ngành sức khỏe DHA",
+    "university_code": "DHA",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHA_002",
+    "query": "học phí ngành điều dưỡng DHA",
+    "university_code": "DHA",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHA_003",
+    "query": "phương thức xét tuyển ngành dược DHA",
+    "university_code": "DHA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DHA_004",
+    "query": "điều kiện sơ tuyển sức khỏe khi vào DHA",
+    "university_code": "DHA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DDB_001",
+    "query": "chỉ tiêu tuyển sinh DDB năm 2025",
+    "university_code": "DDB",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DDB_002",
+    "query": "học phí ngành kế toán DDB",
+    "university_code": "DDB",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DDB_003",
+    "query": "các tổ hợp môn xét tuyển DDB",
+    "university_code": "DDB",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "DDB_004",
+    "query": "điểm chuẩn ngành quản trị kinh doanh DDB",
+    "university_code": "DDB",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HGH_001",
+    "query": "điểm chuẩn ngành logistics HGH",
+    "university_code": "HGH",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HGH_002",
+    "query": "học phí ngành quản trị dịch vụ du lịch HGH",
+    "university_code": "HGH",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HGH_003",
+    "query": "phương thức xét tuyển của HGH",
+    "university_code": "HGH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HGH_004",
+    "query": "HGH có ký túc xá cho tân sinh viên không",
+    "university_code": "HGH",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "HHA_001",
+    "query": "học phí các ngành HHA",
+    "university_code": "HHA",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HHA_002",
+    "query": "phương thức xét tuyển học bạ HHA",
+    "university_code": "HHA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HHA_003",
+    "query": "tổ hợp môn xét tuyển ngành ngôn ngữ Trung HHA",
+    "university_code": "HHA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "HHA_004",
+    "query": "hạn nộp hồ sơ xét tuyển HHA là khi nào",
+    "university_code": "HHA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "LBH_001",
+    "query": "điểm chuẩn ngành y khoa LBH",
+    "university_code": "LBH",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "LBH_002",
+    "query": "học phí ngành răng hàm mặt LBH",
+    "university_code": "LBH",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "LBH_003",
+    "query": "phương thức xét tuyển ngành dược LBH",
+    "university_code": "LBH",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "LBH_004",
+    "query": "điều kiện học bổng đầu vào của LBH",
+    "university_code": "LBH",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "MDA_001",
+    "query": "chỉ tiêu tuyển sinh MDA năm 2025",
+    "university_code": "MDA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "MDA_002",
+    "query": "học phí ngành công nghệ thông tin MDA",
+    "university_code": "MDA",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "MDA_003",
+    "query": "tổ hợp môn ngành kỹ thuật điện MDA",
+    "university_code": "MDA",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "MDA_004",
+    "query": "điểm chuẩn ngành điều dưỡng MDA",
+    "university_code": "MDA",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "QHE_001",
+    "query": "phương thức xét tuyển QHE năm 2025",
+    "university_code": "QHE",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "QHE_002",
+    "query": "học phí ngành trí tuệ nhân tạo QHE",
+    "university_code": "QHE",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "QHE_003",
+    "query": "điểm chuẩn ngành khoa học dữ liệu QHE",
+    "university_code": "QHE",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "QHE_004",
+    "query": "QHE có chương trình đào tạo chất lượng cao không",
+    "university_code": "QHE",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "SKN_001",
+    "query": "học phí ngành kinh tế SKN",
+    "university_code": "SKN",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "SKN_002",
+    "query": "tổ hợp môn xét tuyển ngành quản trị kinh doanh SKN",
+    "university_code": "SKN",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "SKN_003",
+    "query": "chỉ tiêu xét tuyển SKN",
+    "university_code": "SKN",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "SKN_004",
+    "query": "điểm chuẩn ngành marketing SKN",
+    "university_code": "SKN",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "YHB_001",
+    "query": "điểm chuẩn ngành y đa khoa YHB",
+    "university_code": "YHB",
+    "category": "diem_chuan",
+    "expected_has_answer": true
+  },
+  {
+    "id": "YHB_002",
+    "query": "học phí ngành điều dưỡng YHB",
+    "university_code": "YHB",
+    "category": "hoc_phi",
+    "expected_has_answer": true
+  },
+  {
+    "id": "YHB_003",
+    "query": "phương thức xét tuyển khối ngành sức khỏe YHB",
+    "university_code": "YHB",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "YHB_004",
+    "query": "điều kiện sơ tuyển và khám sức khỏe của YHB",
+    "university_code": "YHB",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "GEN_001",
+    "query": "so sánh học phí ngành công nghệ thông tin giữa IUH và DHT",
+    "university_code": "",
+    "category": "so_sanh",
+    "expected_has_answer": true
+  },
+  {
+    "id": "GEN_002",
+    "query": "trường nào có điểm chuẩn ngành logistics thấp hơn",
+    "university_code": "",
+    "category": "so_sanh",
+    "expected_has_answer": true
+  },
+  {
+    "id": "GEN_003",
+    "query": "các trường nào xét tuyển bằng học bạ",
+    "university_code": "",
+    "category": "phuong_thuc_to_hop",
+    "expected_has_answer": true
+  },
+  {
+    "id": "GEN_004",
+    "query": "mốc thờ i gian đăng ký nguyện vọng đại học năm 2025",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_005",
+    "query": "hồ sơ cần chuẩn bị để xét tuyển đại học",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_006",
+    "query": "nếu điểm thi thấp hơn điểm chuẩn thì có cơ hội trúng tuyển không",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_007",
+    "query": "xét tuyển sớm là gì và khác gì xét tuyển đợt chính",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_008",
+    "query": "điểm ưu tiên khu vực được cộng như thế nào",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_009",
+    "query": "quy định về điểm liệt trong xét tuyển đại học",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_010",
+    "query": "học phí có tăng theo từng năm không",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_011",
+    "query": "trường có hỗ trợ ký túc xá cho sinh viên năm nhất không",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  },
+  {
+    "id": "GEN_012",
+    "query": "có học bổng đầu vào cho thí sinh điểm cao không",
+    "university_code": "",
+    "category": "out_of_scope",
+    "expected_has_answer": false
+  }
 ]

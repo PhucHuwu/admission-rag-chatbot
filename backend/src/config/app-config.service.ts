@@ -42,6 +42,10 @@ export class AppConfigService {
     return this.configService.get<string>('OPENAI_BASE_URL', 'https://api.openai.com/v1');
   }
 
+  get openAiModel(): string {
+    return this.configService.get<string>('OPENAI_MODEL', 'gpt-4o');
+  }
+
   get llmProvider(): string {
     return this.configService.get<string>('LLM_PROVIDER', 'deepseek');
   }
