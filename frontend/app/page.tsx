@@ -35,7 +35,7 @@ export default function HomePage() {
               admission intelligence platform
             </p>
             <h1 className="max-w-3xl font-heading text-3xl font-semibold leading-tight text-slate-900 sm:text-5xl">
-              Landing page tuyển sinh hiện đại, giúp ra quyết định nhanh và chính xác
+              Hệ thống tư vấn tuyển sinh bằng trí tuệ nhân tạo
             </h1>
             <p className="max-w-2xl text-sm text-slate-700 sm:text-base">
               Kết hợp AI hỏi đáp và bảng tra cứu dữ liệu trong một giao diện trực quan, chuyên
