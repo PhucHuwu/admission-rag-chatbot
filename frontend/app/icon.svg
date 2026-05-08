@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Admission RAG Chatbot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="url(#bg)"/>
+  <path d="M256 128 88 204l168 76 134-60.3V312h34V204L256 128z" fill="#ffffff"/>
+  <path d="M154 276v62c0 36.1 53 65.3 102 65.3S358 374.1 358 338v-62l-102 45.9L154 276z" fill="#d1fae5"/>
+  <path d="M344 346c0-28 22.7-50.7 50.7-50.7S445.3 318 445.3 346s-22.7 50.7-50.7 50.7c-7.5 0-14.7-1.6-21.3-4.5l-20.6 11.1 5.2-22.5c-8.8-9-14-21.2-14-34.8z" fill="#99f6e4"/>
+</svg>

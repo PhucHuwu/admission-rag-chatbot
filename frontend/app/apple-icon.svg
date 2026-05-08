@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Admission Chatbot">
+  <rect width="180" height="180" rx="40" fill="#ecfeff"/>
+  <rect x="18" y="18" width="144" height="144" rx="34" fill="#0f766e"/>
+  <path d="M90 46 36 70l54 24 43-19.4V105h11V70L90 46z" fill="#ffffff"/>
+  <path d="M61 93v20c0 11.5 17 20.8 29 20.8s29-9.3 29-20.8V93l-29 13-29-13z" fill="#d1fae5"/>
+</svg>
