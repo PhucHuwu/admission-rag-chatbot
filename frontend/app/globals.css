@@ -41,3 +41,72 @@ a {
   background-image: radial-gradient(rgba(15, 118, 110, 0.16) 1px, transparent 1px);
   background-size: 18px 18px;
 }
+
+.landing-hero {
+  background:
+    radial-gradient(120% 140% at 15% 20%, rgba(20, 184, 166, 0.2), transparent 50%),
+    radial-gradient(120% 140% at 85% 10%, rgba(14, 116, 144, 0.15), transparent 45%),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(240, 253, 250, 0.82));
+}
+
+.landing-orb {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(6px);
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+.landing-orb-left {
+  width: 280px;
+  height: 280px;
+  left: -80px;
+  bottom: -90px;
+  background: radial-gradient(circle at 35% 35%, rgba(45, 212, 191, 0.55), rgba(15, 118, 110, 0.08));
+  animation: float-soft 7s ease-in-out infinite;
+}
+
+.landing-orb-right {
+  width: 240px;
+  height: 240px;
+  right: -70px;
+  top: -70px;
+  background: radial-gradient(circle at 40% 40%, rgba(125, 211, 252, 0.5), rgba(15, 23, 42, 0.05));
+  animation: float-soft 8.5s ease-in-out infinite reverse;
+}
+
+.landing-tilt-card {
+  position: relative;
+  transform: perspective(1200px) rotateY(-9deg) rotateX(5deg);
+  transform-style: preserve-3d;
+  transition: transform 300ms ease;
+}
+
+.landing-tilt-card:hover {
+  transform: perspective(1200px) rotateY(-4deg) rotateX(2deg) translateY(-3px);
+}
+
+.landing-card-glow {
+  position: absolute;
+  inset: -1px;
+  border-radius: 24px;
+  background: linear-gradient(135deg, rgba(20, 184, 166, 0.4), rgba(14, 165, 233, 0.18));
+  transform: translateZ(-1px);
+}
+
+@keyframes float-soft {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -16px, 0);
+  }
+}
+
+@media (max-width: 1024px) {
+  .landing-tilt-card,
+  .landing-tilt-card:hover {
+    transform: none;
+  }
+}
