@@ -1,11 +1,12 @@
 # RAG Evaluation Suite
 
-Bộ công cụ đánh giá hệ thống RAG theo hướng nghiên cứu khoa học, tập trung vào độ chính xác truy vấn vector retrieval.
+Bộ công cụ đánh giá hệ thống RAG theo hướng nghiên cứu khoa học, ưu tiên phương pháp không cần ground-truth (reference-free, RAGAS-style).
 
 ## Mục tiêu
 
-- Đo lường chất lượng retrieval bằng các chỉ số: `Recall@K`, `Precision@K`, `HitRate@K`, `MRR@K`, `nDCG@K`.
-- Đo lường hiệu năng: latency `mean/p50/p95/p99`.
+- Đo lường chất lượng RAG không cần nhãn tay: `Context Relevance`, `Answer Relevance`, `Faithfulness`.
+- Tổng hợp điểm `RAG Score` (trung bình 3 chỉ số trên).
+- Đo lường hiệu năng: latency `mean/p50/p95/p99` và `error_rate`.
 - Xuất báo cáo có cấu trúc để dùng cho luận văn/báo cáo kỹ thuật: bảng, CSV, JSON, biểu đồ.
 
 ## Cấu trúc thư mục
@@ -13,14 +14,13 @@ Bộ công cụ đánh giá hệ thống RAG theo hướng nghiên cứu khoa h�
 ```text
 evaluation-rag/
 ├── dataset/
-│   ├── ground_truth.example.json
-│   └── ground_truth.v1.json
+│   └── query_set.v1.json
 ├── notebooks/
-│   └── rag_evaluation.ipynb
+│   └── rag_evaluation_no_groundtruth.ipynb
 └── output/                 # kết quả sinh ra sau mỗi lần chạy notebook
 ```
 
-## Dataset ground-truth
+## Dataset query benchmark
 
 Mỗi phần tử trong file JSON có dạng:
 
@@ -29,7 +29,6 @@ Mỗi phần tử trong file JSON có dạng:
   "id": "IUH_001",
   "query": "điểm chuẩn ngành công nghệ thông tin IUH năm 2025",
   "university_code": "IUH",
-  "relevant_chunk_ids": ["chunk_123", "chunk_456"],
   "notes": "ghi chú nếu cần"
 }
 ```
@@ -37,14 +36,40 @@ Mỗi phần tử trong file JSON có dạng:
 - `id`: mã query để đối chiếu.
 - `query`: câu hỏi đầu vào.
 - `university_code`: tùy chọn, truyền vào API `/api/v1/search`.
-- `relevant_chunk_ids`: danh sách chunk đúng (ground-truth).
 - `notes`: ghi chú nghiên cứu.
 
 ## Cách chạy bằng Notebook
 
-1. Mở `evaluation-rag/notebooks/rag_evaluation.ipynb`.
-2. Kiểm tra biến cấu hình (`BASE_URL`, `ENDPOINT`, `DATASET_PATH`, `KS`).
-3. Chạy tuần tự các cell.
+1. Export biến môi trường cho Judge model (OpenAI-compatible):
+
+```bash
+export JUDGE_API_KEY="<your_api_key>"
+export JUDGE_MODEL="gpt-4o-mini"
+export JUDGE_BASE_URL="https://api.openai.com/v1"
+```
+
+2. Mở `evaluation-rag/notebooks/rag_evaluation_no_groundtruth.ipynb`.
+3. Kiểm tra biến cấu hình (`BASE_URL`, `SEARCH_ENDPOINT`, `CHAT_ENDPOINT`, `DATASET_PATH`).
+4. Chạy tuần tự các cell.
+
+## Cách chạy bằng RAGAS script
+
+Bạn có thể chạy pipeline theo đúng thư viện `ragas`:
+
+```bash
+pip install ragas langchain-openai pandas requests
+export OPENAI_API_KEY="<your_api_key>"
+python evaluation-rag/scripts/ragas_eval.py \
+  --base-url http://localhost:8000 \
+  --input evaluation-rag/dataset/query_set.v1.json \
+  --judge-model gpt-4o-mini
+```
+
+Script này đánh giá reference-free với các metric:
+- `context_recall` (LLMContextRecall)
+- `faithfulness`
+
+và luôn xuất thêm latency/error metrics ở mức hệ thống.
 
 ## Đầu ra
 
@@ -55,13 +80,13 @@ Sau mỗi lần chạy, notebook tạo một thư mục timestamp trong `evaluat
 - `per_query_metrics.csv`
 - `summary_metrics.csv`
 - `report.md`
-- `charts/aggregate_metrics.png`
-- `charts/latency_percentiles.png`
+- `charts/quality_scores.png`
+- `charts/latency.png`
 
 ## Quy trình nghiên cứu đề xuất
 
-1. Chuẩn hóa bộ câu hỏi benchmark (nên từ 50+ query).
-2. Gán nhãn `relevant_chunk_ids` cho từng query.
-3. Chạy baseline với cấu hình hiện tại.
-4. Thay đổi từng thành phần retrieval/rerank và chạy lại.
-5. So sánh các lần chạy bằng `summary_metrics.csv` và biểu đồ.
+1. Chuẩn hóa bộ câu hỏi benchmark (nên từ 50+ query, đa intent).
+2. Chạy baseline với cấu hình hiện tại.
+3. Thay đổi từng thành phần retrieval/rerank/prompt và chạy lại.
+4. So sánh các lần chạy bằng `summary_metrics.csv` và biểu đồ.
+5. Nếu cần kiểm chứng sâu, lấy một mẫu nhỏ để đánh giá thủ công bổ sung.
