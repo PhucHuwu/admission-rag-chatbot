@@ -65,11 +65,49 @@ python evaluation-rag/scripts/ragas_eval.py \
   --judge-model gpt-4o-mini
 ```
 
+Chạy ổn định hơn cho backend cloud (timeout/retry):
+
+```bash
+python evaluation-rag/scripts/ragas_eval.py \
+  --base-url https://admission-rag-chatbot-backend.vercel.app \
+  --input evaluation-rag/dataset/query_set.v1.json \
+  --judge-model gpt-4o-mini \
+  --timeout 90 \
+  --retries 4 \
+  --retry-backoff 2
+```
+
+Chạy thử nhanh một phần dataset:
+
+```bash
+python evaluation-rag/scripts/ragas_eval.py \
+  --base-url https://admission-rag-chatbot-backend.vercel.app \
+  --max-samples 20
+```
+
+Rerun chỉ các query bị fail từ lần trước:
+
+```bash
+python evaluation-rag/scripts/ragas_eval.py \
+  --base-url https://admission-rag-chatbot-backend.vercel.app \
+  --failed-input evaluation-rag/output/<timestamp>/failed_queries.csv \
+  --retries 5 \
+  --retry-backoff 2
+```
+
 Script này đánh giá reference-free với các metric:
 - `context_recall` (LLMContextRecall)
 - `faithfulness`
 
 và luôn xuất thêm latency/error metrics ở mức hệ thống.
+
+### Tham số quan trọng
+
+- `--timeout`: timeout mỗi request (giây).
+- `--retries`: số lần retry khi gặp timeout hoặc HTTP 5xx.
+- `--retry-backoff`: thời gian chờ giữa các lần retry.
+- `--max-samples`: giới hạn số query để chạy nhanh (0 = chạy toàn bộ).
+- `--failed-input`: nhận file `failed_queries.csv` để rerun phần fail.
 
 ## Đầu ra
 
@@ -79,6 +117,7 @@ Sau mỗi lần chạy, notebook tạo một thư mục timestamp trong `evaluat
 - `raw_results.json`
 - `per_query_metrics.csv`
 - `summary_metrics.csv`
+- `failed_queries.csv`
 - `report.md`
 - `charts/quality_scores.png`
 - `charts/latency.png`
